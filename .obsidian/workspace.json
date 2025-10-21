@@ -11,13 +11,32 @@
             "id": "db20a6a8a7230bc5",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Inizio/Cronaca il risveglio.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nuova scheda"
+              "title": "Cronaca il risveglio"
+            }
+          },
+          {
+            "id": "81c98c315cf2f577",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inizio/Cronaca il risveglio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cronaca il risveglio"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,22 +205,26 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2943b494a8fdbbcd",
+  "active": "81c98c315cf2f577",
   "lastOpenFiles": [
-    "Cronaca.md",
+    "index.md",
+    "Inizio/Cronaca il risveglio.md",
+    "Inizio/Materiale/Lettera rifugio.md",
+    "Inizio/Capitoli/03/Scena 3.1 - Verso Elisio.md",
+    "Inizio/Capitoli/03",
+    "Inizio/Personaggi/Scheda PG.md",
+    "Inizio/Immagini/MappaAgnese.png",
+    "Inizio/Immagini/MappaRifugioForesta.png",
     "Giocatori.base",
     "Inizio/Capitoli/02/Scena 2.1 - Il bosco.md",
     "Recording 20251021124124.m4a",
     "Inizio/Immagini/Garou.png",
     "Inizio/Capitoli/01/Scena 1.2 - Casolare di Pennabilli.md",
-    "Inizio/Cronaca il risveglio.md",
     "Inizio/Capitoli/04/Scena 4.2 - Villa Segrete.md",
     "Inizio/Capitoli/02",
     "Inizio/Capitoli/04/Scena 4.1 - Il Pozzo.md",
     "Inizio/Capitoli/01/Scena 1.1 - Il risveglio.md",
-    "Inizio/Immagini/MappaRifugioForesta.png",
     "Inizio/Immagini/QuadroCasaPennabilli01.png",
-    "Inizio/Materiale/Lettera rifugio.md",
     "Inizio/Immagini/Invito Elysium del 14 marzo.png",
     "Inizio/Immagini/house_in_the_swamps.svg",
     "Inizio/Immagini/QuadroCasaPennabilli03.jpg",
@@ -209,10 +232,8 @@
     "Inizio/Effetti/Telegiornale.mp3",
     "Link Utili.md",
     "Strumenti.md",
-    "Inizio/Immagini/MappaAgnese.png",
     "Inizio/Immagini/SimboloPerRimuoverePietra_pozzo.png",
     "PNG.md",
-    "Inizio/Personaggi/Scheda PG.md",
     "Giornali Sparizione.md",
     "Guida .md.md",
     "house_in_the_swamps.svg",
@@ -227,7 +248,6 @@
     "Inizio/Capitoli",
     "Guide/Meccaniche.md",
     "Guide",
-    "E9B9C630",
     "Inizio/Esperienza/Utilizzo Capacità.md",
     "Inizio/Esperienza/Valutazione Personaggi.md",
     "Inizio/Personaggi/Giovanni DeFilippi.md",

@@ -24,7 +24,7 @@ Non pronunciamo nomi antichi. Osserviamo soltanto come la notte, qui, è una sar
 >Consegnate le schede, breve introduzione sui principali valori, i PG non devono conoscere nulla in anticipo ma deve essere tutto scoperto durante il gioco, [[Guida Giocatori]]
 
 
-## Capito 1
+## Capitolo 1
 Scena 1: [[Scena 1.1 - Il risveglio]] - Data 13/10/2023
 Scena 2: [[Scena 1.2 - Casolare di Pennabilli]]
 
@@ -33,4 +33,4 @@ Scena 2: [[Scena 1.2 - Casolare di Pennabilli]]
 Scena 1: [[Scena 2.1 - Il bosco]]
 
 ## Capitolo 3
-Scena 1: Scena 3.1 - Verso Elysio
+Scena 1: Scena 3.1 - Verso Elisio
