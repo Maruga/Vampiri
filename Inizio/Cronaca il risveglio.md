@@ -25,12 +25,31 @@ Non pronunciamo nomi antichi. Osserviamo soltanto come la notte, qui, è una sar
 
 
 ## Capitolo 1
-Scena 1: [[Scena 1.1 - Il risveglio]] - Data 13/10/2023
-Scena 2: [[Scena 1.2 - Casolare di Pennabilli]]
-
+- [[Scena 1.1 - Il risveglio]] - Data 13/10/2023
+- [[Scena 1.2 - Casolare di Pennabilli]]
 
 ## Capitolo 2
-Scena 1: [[Scena 2.1 - Il bosco]]
+- [[Scena 2.1 - Il bosco]]
 
 ## Capitolo 3
-Scena 1: Scena 3.1 - Verso Elisio
+- [[Scena 3.1 - Verso Elisio]] Possibile incontro Forze dell'Ordine
+- [[Scena 3.2 - Elisio e la custode]]
+
+## Capitolo 4
+Viaggio verso Rimini - Possibile incontro Forze dell'ordine
+
+## Capitolo 5
+Arpia
+Pozzo
+Villa laboratorio
+
+## Capitolo X
+Fallita la Masquerade
+Notizia incidente in macchina carbonizzati
+
+
+## Capitolo 6
+Cospetto del principe 
+Fine
+
+
