@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inizio/Capitoli/02/Scena 2.1 - Il bosco.md",
+                "file": "Cronaca.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scena 2.1 - Il bosco"
+              "title": "Cronaca"
             }
           }
         ]
@@ -123,13 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inizio/Capitoli/02/Scena 2.1 - Il bosco.md",
+                "file": "Cronaca.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di Scena 2.1 - Il bosco"
+              "title": "Struttura di Cronaca"
             }
           },
           {
@@ -148,7 +148,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inizio/Capitoli/02/Scena 2.1 - Il bosco.md",
+                "file": "Cronaca.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Scena 2.1 - Il bosco"
+              "title": "Riferimenti a Cronaca"
             }
           },
           {
@@ -208,11 +208,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2943b494a8fdbbcd",
+  "active": "d50d6983dd62bbe8",
   "lastOpenFiles": [
+    "Giocatori.base",
+    "Cronaca.md",
+    "Inizio/Capitoli/02/Scena 2.1 - Il bosco.md",
+    "Recording 20251021124124.m4a",
     "Inizio/Immagini/Garou.png",
     "Inizio/Capitoli/01/Scena 1.2 - Casolare di Pennabilli.md",
-    "Inizio/Capitoli/02/Scena 2.1 - Il bosco.md",
     "Inizio/Cronaca il risveglio.md",
     "Inizio/Capitoli/04/Scena 4.2 - Villa Segrete.md",
     "Inizio/Capitoli/02",
@@ -232,12 +235,9 @@
     "Inizio/Immagini/SimboloPerRimuoverePietra_pozzo.png",
     "PNG.md",
     "Inizio/Personaggi/Scheda PG.md",
-    "Cronaca.md",
-    "Giocatori.base",
     "Giornali Sparizione.md",
     "Guida .md.md",
     "house_in_the_swamps.svg",
-    "Immagini/MarchioDistruzionePortaPietra.png",
     "Guide/Guida Giocatori.md",
     "Inizio/Elenco PG.md",
     "Inizio/Materiale",
@@ -252,7 +252,6 @@
     "E9B9C630",
     "Inizio/Esperienza/Utilizzo Capacità.md",
     "Inizio/Esperienza/Valutazione Personaggi.md",
-    "Inizio/Esperienza",
     "Inizio/Personaggi/Giovanni DeFilippi.md",
     "Benvenuto.md"
   ]
