@@ -1,0 +1,14 @@
+views:
+  - type: table
+    name: Table
+    filters:
+      and:
+        - file.inFolder("Inizio/Personaggi")
+        - file.hasProperty("Giocatore")
+    order:
+      - file.name
+      - Giocatore
+      - Tipo
+      - Specie
+      - Forza
+      - Destrezza
