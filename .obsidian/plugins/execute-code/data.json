@@ -167,7 +167,7 @@
   "phpArgs": "",
   "phpFileExtension": "php",
   "phpInject": "",
-  "jsInteractive": true,
+  "jsInteractive": false,
   "tsInteractive": false,
   "csInteractive": false,
   "latexInteractive": false,

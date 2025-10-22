@@ -28,7 +28,7 @@
               "type": "markdown",
               "state": {
                 "file": "index.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -197,7 +197,7 @@
             }
           },
           {
-            "id": "504930db94d419c9",
+            "id": "c9e97e7ced78368b",
             "type": "leaf",
             "state": {
               "type": "code-execute-manage-executors",
@@ -229,6 +229,9 @@
   },
   "active": "38540e11be38e393",
   "lastOpenFiles": [
+    "dice.js",
+    "dice.js.txt",
+    "Nuovo Documento di testo.txt",
     "Inizio/Capitoli/05/Scena 5.1 - Arrivo Villa Siri.md",
     "index.md",
     "Guide/Fame, Messy Critical e Bestial Failure.md",
@@ -270,10 +273,7 @@
     "Inizio/Immagini/SimboloPerRimuoverePietra_pozzo.png",
     "Giornali Sparizione.md",
     "Guida .md.md",
-    "Inizio/Elenco PG.md",
     "Inizio/Materiale",
-    "Inizio/Capitoli/05",
-    "Inizio/Capitoli/01",
-    "Inizio/Capitoli"
+    "Inizio/Capitoli/05"
   ]
 }
