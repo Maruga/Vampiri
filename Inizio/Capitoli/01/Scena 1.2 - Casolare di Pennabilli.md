@@ -46,7 +46,7 @@
 		- “Il sangue chiama la pietra, il segno ascolta.”
 	- Il PG Tremere ricorda questa frase quando lo esamina “**La prudenza è la catena dell’eternità**”.  
 	- *Intelligenza + Occulto* diff **7** per capirne la natura di “ancora mnemonica/rituale”. 
-	- **Uso futuro**: con **1 Punto Sangue del Sire** è la “chiave” per rompere sigilli/pietre nella **trappola del pozzo** [[Scena 4.1 - Il Pozzo]].
+	- **Uso futuro**: con **1 Punto Sangue del Sire** è la “chiave” per rompere sigilli/pietre nella **trappola del pozzo** [[Scena 5.2 - Il Pozzo]].
 - **Ampolla di Vitae condensato** (cassetta metallica, semi-nascosta tra casse).  
   - Trovarla: *Percezione + Investigazione* diff **6**. Effetto: **1 Punto Sangue**; retrogusto di ferro/terrore.
 - **Libro dei Nomi** (ledger antico di **soli nomi propri** + note a margine in latino/francese antico).
@@ -138,7 +138,8 @@
 
 **Oggetti & Tiri**
 - **Invito all’Elisio (Pennabilli, 2008)** con regole (no armi, no lotte, Masquerade, ospitalità).  
-  - Capire il peso politico: *Intelligenza + Politica* diff **6**.  [[Invito Elysium del 14 marzo.png]]
+  - Capire il peso politico: *Intelligenza + Politica* diff **6**.  
+  - Immagine: [[Invito Elysium del 14 marzo.png]]  - Testo: [[Invito Elisio Pennabilli]]
 - **Lettera rifugio sicuro**, data la situazione della casa che indica una fuga improvvisa possibile rifugio sicuro e dove i Siri si sono nascosti. [[Lettera rifugio]]
 	- Capire l’implicazione: *Intelligenza + Politica diff **6–7**. 
 	- Vi è allegata una mappa che indica il luogo, circa 800 mt a piedi. [[MappaRifugioForesta.png]]

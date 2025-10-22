@@ -1,3 +1,9 @@
+
+> [!quote] Lettera per rifugio nei boschi
+> Trovata nel casolare dei siri scena 1.2 
+> [[Scena 1.2 - Casolare di Pennabilli]]
+
+
 Cattolica, 12 aprile 1955
 
 All’attenzione di **Sire Monica D’Albo**,
