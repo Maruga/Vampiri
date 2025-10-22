@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guide/Meccaniche.md",
+                "file": "Guide/Guida Giocatori.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meccaniche"
+              "title": "Guida Giocatori"
             }
           }
         ]
@@ -186,7 +186,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,6 +205,10 @@
   },
   "active": "f78592aae88f638b",
   "lastOpenFiles": [
+    "Guide/Tipologie di Debiti (Boons).md",
+    "Guide/Guida Giocatori.md",
+    "Guide/Le sei tradizione della Camarilla.md",
+    "Guide/Meccaniche.md",
     "Inizio/Capitoli/05/Scena 5.1 - Arrivo Villa Siri.md",
     "Inizio/Immagini/Villa Laboratorio.jpg",
     "Inizio/Capitoli/03/Scena 3.1 - Verso Elisio.md",
@@ -219,8 +224,6 @@
     "Inizio/Immagini/Invito Elysium del 14 marzo.png",
     "Inizio/Cronaca il risveglio.md",
     "Inizio/Capitoli/04",
-    "Guide/Tipologie di Debiti (Boons).md",
-    "Guide/Le sei tradizione della Camarilla.md",
     "Link Utili.md",
     "Strumenti.md",
     "PNG.md",
@@ -242,7 +245,6 @@
     "Inizio/Immagini/SimboloPerRimuoverePietra_pozzo.png",
     "Giornali Sparizione.md",
     "Guida .md.md",
-    "Guide/Guida Giocatori.md",
     "Inizio/Elenco PG.md",
     "Inizio/Materiale",
     "Inizio/Capitoli/05",
