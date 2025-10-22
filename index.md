@@ -14,9 +14,8 @@ console.log("execPath:", process.execPath);
 console.log("version:", process.version);
 ```
 
-```run-javascript
-dicePath = path.join(@vault_path,'dice.js');
-const { add } = require(dicePath);
-console.log( add(2, 3) );
-```
 
+```run-javascript
+const { add } = require(require('path').join(@vault_path,'dice.js'));
+console.log(add(2,3));
+```
