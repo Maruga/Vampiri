@@ -1,17 +1,20 @@
 Version 0.5
 Prima avventura [[Cronaca il risveglio]]
 
+```run-javascript
+// addizione banalissima
+const a = 2;
+const b = 3;
 
+// stampa sotto al blocco
+console.log("Risultato:", a + b);
 
-```ts
-const x: number = 42;
-
+// opzionale: mostra anche il valore di ritorno
+a + b;
 ```
 
-```js
-console.log("Hello, Obsidian!");
-```
 
-```ts
-const x: number = 42;
+```run-javascript
+console.log("Ciao dal blocco!");
+2 + 3;
 ```
