@@ -2,8 +2,9 @@ Version 0.5
 Prima avventura [[Cronaca il risveglio]]
 
 ```run-javascript
-a = 2;
-console.log(a);
+console.log(@vault_path);
+dicePath = path.join("@vault_path","dice.js");
+console.log('@dicePath');
 ```
 
 
@@ -14,7 +15,8 @@ console.log("version:", process.version);
 ```
 
 ```run-javascript
-const { add } = require('C:\\Public\\_Clienti\\Maruga\\Giochi\\Vampiri\\Vault\\Vampiri\\dice.js'); 
+dicePath = path.join(@vault_path,'dice.js');
+const { add } = require(dicePath);
 console.log( add(2, 3) );
 ```
 
