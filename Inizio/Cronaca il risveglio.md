@@ -24,6 +24,11 @@ Non pronunciamo nomi antichi. Osserviamo soltanto come la notte, qui, è una sar
 >Consegnate le schede, breve introduzione sui principali valori, i PG non devono conoscere nulla in anticipo ma deve essere tutto scoperto durante il gioco, [[Guida Giocatori]]
 
 
+## Preludio – L’ultima notte da vivi
+
+
+
+
 ## Capitolo 1
 - [[Scena 1.1 - Il risveglio]] - Data 13/10/2023
 - [[Scena 1.2 - Casolare di Pennabilli]]

@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "731f55454c1068e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inizio/Cronaca il risveglio.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cronaca il risveglio"
+            }
+          },
+          {
             "id": "38540e11be38e393",
             "type": "leaf",
             "state": {
@@ -79,7 +93,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -181,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Inizio/Capitoli/03/Scena 3.1 - Verso Elisio.md",
+                "file": "Inizio/Cronaca il risveglio.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Struttura di Scena 3.1 - Verso Elisio"
+              "title": "Struttura di Cronaca il risveglio"
             }
           },
           {
@@ -206,7 +220,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Inizio/Capitoli/03/Scena 3.1 - Verso Elisio.md",
+                "file": "Inizio/Cronaca il risveglio.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -216,7 +230,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Riferimenti a Scena 3.1 - Verso Elisio"
+              "title": "Riferimenti a Cronaca il risveglio"
             }
           },
           {
@@ -250,7 +264,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -270,17 +284,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "98e00eacc90afcfa",
+  "active": "731f55454c1068e0",
   "lastOpenFiles": [
-    "La schiatta de’ Montefeltro.md",
     "Inizio/Personaggi/PG Test.md",
-    "Inizio/Capitoli/03/Scena 3.1 - Verso Elisio.md",
-    "Senza nome",
+    "Inizio/Png/Anarchici Pennabilli.md",
+    "Inizio/Png/Bambina Segrete Tzime.md",
     "Inizio/Materiale/Incidente Stradale.md",
+    "Inizio/Capitoli/01/Scena 1.1 - Il risveglio.md",
+    "Inizio/Capitoli/00 - Prologo",
+    "Inizio/Capitoli/01/Scena 1.2 - Casolare di Pennabilli.md",
+    "Inizio/Capitoli/03/Scena 3.1 - Verso Elisio.md",
+    "La schiatta de’ Montefeltro.md",
+    "Senza nome",
     "Inizio/Personaggi/PG.base",
     "Inizio/Personaggi/Untitled.md",
     "Giocatori.base",
-    "Inizio/Png/Bambina Segrete Tzime.md",
     "Guide/Meccaniche.md",
     "index.md",
     "Strumenti.md",
@@ -298,20 +316,15 @@
     "Inizio/Capitoli/03/Scena 3.2 - Elisio e la custode.md",
     "Inizio/Capitoli/05/Scena 5.4 - La Bambina.md",
     "Inizio/Capitoli/02/Scena 2.1 - Il bosco.md",
-    "Inizio/Capitoli/01/Scena 1.2 - Casolare di Pennabilli.md",
     "Inizio/Capitoli/05/Scena 5.2 - Il Pozzo.md",
     "Inizio/Capitoli/05/Scena 5.3 - Villa Segrete.md",
     "Inizio/Materiale/Invito Elisio Pennabilli.md",
     "Inizio/Materiale/Lettera rifugio.md",
     "Inizio/Immagini/Invito Elysium del 14 marzo.png",
-    "Inizio/Cronaca il risveglio.md",
     "Inizio/Capitoli/04",
-    "Link Utili.md",
-    "PNG.md",
     "Inizio/Capitoli/03",
     "Inizio/Immagini/MappaAgnese.png",
     "Inizio/Immagini/MappaRifugioForesta.png",
-    "Recording 20251021124124.m4a",
     "Inizio/Immagini/Garou.png",
     "Inizio/Immagini/QuadroCasaPennabilli01.png",
     "Inizio/Immagini/house_in_the_swamps.svg",

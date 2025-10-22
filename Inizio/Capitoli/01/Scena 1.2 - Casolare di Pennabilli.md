@@ -27,7 +27,6 @@
 > - Collocare temporalmente/leggere tra le righe: **Intelligenza + Accademiche/Politica/Occulto/Linguistica** diff **6–7**  
 > - Interazione con umani spaventati: **Carisma + Empatia** diff **6** (oppure **Carisma + Intimidire** diff **6**)
 
----
 
 ## 13) Sala del Risveglio (Seminterrato)
 
@@ -53,8 +52,6 @@
   - Analisi: *Prontezza + Linguistica* diff **7** (pattern ricorrenti); *Intelligenza + Politica* diff **6** (nomi legati a cariche di corte).
 
 
----
-
 ## 11/12) Dispensa & Cassoni (Seminterrato)
 
 > [!info] Per i Giocatori
@@ -70,7 +67,6 @@
 - **Contanti** (quota): **200–300 €** nascosti in barattolo di latta.  
   - Trovare: *Percezione + Investigazione* diff **6**.
 
----
 
 ## 3) Ingresso–Salotto (Piano Terra)
 
@@ -91,7 +87,6 @@
 	- [[QuadroCasaPennabilli02.jpg]]
 	- [[QuadroCasaPennabilli03.jpg]]
 
----
 
 ## 6) Cucina (Piano Terra)
 
@@ -108,7 +103,6 @@
   - Dani: Forza +1 + Successi extra dell'attacco
   - Uso esperto: *Destrezza + Armi da Mischia* diff **6**.
 
----
 
 ## 2) Ripostiglio / Officina (Piano Terra)
 
@@ -122,7 +116,6 @@
 - **Attrezzi**: assi, teli neri, martello, pinze, filo di ferro, fascette.  
   - Improvvisare barriere: *Destrezza/Intelligenza + Artigianato* diff **6**.
 
----
 
 ## 5) Studio (Piano Terra)
 
@@ -144,7 +137,6 @@
 	- Capire l’implicazione: *Intelligenza + Politica diff **6–7**. 
 	- Vi è allegata una mappa che indica il luogo, circa 800 mt a piedi. [[MappaRifugioForesta.png]]
 
----
 
 ## 1) Porta Inchiodata (Piano Terra)
 
@@ -159,7 +151,6 @@
   - *Forza + Atletica* diff **6** (sfondare) | *Destrezza + Sicurezza* diff **7** (estrarre chiodi).  
   - **Conseguenza**: rumore → allerta le umane.
 
----
 
 ## 4) Corridoio & Bagno (Piano Terra)
 
@@ -170,7 +161,6 @@
 > - Nessun oggetto chiave, ma ottimo per sottolineare **alienazione**.  
 > - A fame alta, potete richiedere **Autocontrollo diff 6** per evitare frenesia di frustrazione.
 
----
 
 ## 9) Camera Matrimoniale (Primo Piano)
 
@@ -190,7 +180,6 @@
   - Trovare: *Percezione + Investigazione* diff **7** | Forzare: *Forza + Atletica* diff **7**.  
   - Dentro: cassa vuota, odore di sangue antico (gancio futuro).
 
----
 
 ## 10) Stanza Piccola — della Bambina (Primo Piano)
 
@@ -209,7 +198,6 @@
 - **Fotografia** (madre/figlia a **Torino Porta Nuova**); indizio sul rapimento.  
   - Notare dettagli (cartelli/ora): *Percezione + Investigazione* diff **6**.
 
----
 
 ## 8) Corridoio & Finestra sulla Radura (Primo Piano)
 
