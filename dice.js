@@ -63,4 +63,98 @@ function rollDice(num = 1, sides = 10, mod = 0) {
   return { rolls, total, mod: m };
 }
 
-module.exports = { add, getProps, rollDice };
+// === Fame e tiro V20 ibrido (semplice e lineare) ==================
+// Fame = (PuntiSangue < 7 - AutocontrolloIstinto)
+// NB: getProps() è già gestita dal tuo ambiente, qui la usiamo "as-is".
+function getFame() {
+  try {
+    const props = getProps(); // nessun argomento: il tuo runtime fornisce la nota corrente
+    const ps = Number(props?.PuntiSangue);
+    const ai = Number(props?.AutocontrolloIstinto);
+    if (!Number.isFinite(ps) || !Number.isFinite(ai)) return false;
+    return ps < (7 - ai);
+  } catch { return false; }
+}
+
+// 🎲 rollPoolV20(num, sides, diff, botchVal)
+// - r >= diff = 1 successo; r == sides (max) = 2 successi
+// - ogni 1 cancella UN dado di successo a partire dal più alto (prima 10=2, poi 9/8/...=1)
+// - etichette: Critico, Messy Critical, Successo/Successi, Successo Disordinato, Fallimento, Botch, Bestiale
+function rollPoolV20(num = 1, sides = 10, diff = 6, botchVal = 1) {
+  const n = Number(num)   || 0;
+  const s = Number(sides) || 0;
+  const d = Number(diff)  || 0;
+  const b = Number(botchVal);
+
+  const fame = getFame();
+
+  if (n <= 0 || s <= 1) {
+    return { rolls: [], diff: d, fame, successi: 0, esito: 'Fallimento' };
+  }
+
+  const rolls = Array.from({ length: n }, () => Math.floor(Math.random() * s) + 1);
+
+  // contributo per dado
+  const perDie = rolls.map((r, idx) => {
+    const contrib = (r >= d) ? (r === s ? 2 : 1) : 0;
+    return { idx, r, contrib };
+  });
+
+  const tens = rolls.filter(r => r === s).length;
+  const ones = rolls.filter(r => r === b).length;
+
+  // successi grezzi
+  let raw = perDie.reduce((acc, x) => acc + x.contrib, 0);
+
+  // ordina per cancellazione: prima 10 (contrib=2), poi valore, poi indice
+  const stack = perDie
+    .filter(x => x.contrib > 0)
+    .sort((a, b2) => {
+      if (b2.contrib !== a.contrib) return b2.contrib - a.contrib;
+      if (b2.r !== a.r) return b2.r - a.r;
+      return a.idx - b2.idx;
+    });
+
+  // applica le cancellazioni dei "1": ogni 1 rimuove UN dado di successo
+  for (let i = 0; i < ones; i++) {
+    const target = stack.shift();
+    if (!target) break;
+    raw -= target.contrib; // 10 toglie 2, gli altri 1
+  }
+
+  const successi = Math.max(0, raw);
+
+   // --- CLASSIFICAZIONE (corretta) ---
+  // successi = finali, raw = successi grezzi prima dei "1"
+  let esito;
+  if (successi === 0) {
+    if (ones > 0) {
+      // Se non avevi proprio successi grezzi → Botch/Bestiale
+      // Se invece i "1" hanno cancellato dei successi → Fallimento
+      esito = (raw === 0)
+        ? (fame ? 'Fallimento Bestiale' : 'Fallimento Critico (Botch)')
+        : 'Fallimento';
+    } else {
+      esito = 'Fallimento';
+    }
+  } else {
+    const noOnes = (ones === 0);
+    if (tens >= 1 && noOnes) {
+      // Critico pulito
+      esito = (tens === 1 && fame) ? 'Messy Critical' : 'Critico';
+    } else if (tens === 1 && fame) {
+      // Messy Critical con almeno 1 successo totale (anche se ci sono "1")
+      esito = 'Messy Critical';
+    } else if (successi === 1 && fame) {
+      esito = 'Successo Disordinato';
+    } else {
+      esito = (successi === 1) ? '1 Successo' : `${successi} Successi`;
+    }
+  }
+
+
+  return { rolls, diff: d, fame, successi, esito, tens, ones };
+}
+
+// === export: aggiungi la nuova funzione senza toccare il resto =====
+module.exports = { add, getProps, rollDice, rollPoolV20 };

@@ -93,7 +93,9 @@ console.log('Destrezza+Prontezza:',mod);
 console.log('Iniziativa:', r.total, '| Dadi:', r.rolls.join(', '));
 console.log('');
 
-
+pugno = (Number(props.Destrezza) || 0) + (Number(props.Rissa) || 0); 
+res = dice.rollPoolV20(pugno, 10, 6, 1);
+console.log('Pugno:' , res.esito, res.successi, res.rolls);
 ```
 
 ### Pugno
