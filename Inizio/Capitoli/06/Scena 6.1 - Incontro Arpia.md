@@ -19,7 +19,8 @@ La strada è stretta e selciata; insegne discrete, portoni bassi, archi che si a
 
 Alla porta attendono due **accompagnatori**: uno è un **ghoul** dal portamento rigido, l’altro un **vampiro** giovane dal profumo troppo perfetto per essere umano. Aprono senza bussare. L’atrio è lungo e stretto, pavimento in graniglia lucidissima, pareti color panna punteggiate da **teche con bottoni antichi**: oro, osso, madreperla, ciascuno su cartigli dattiloscritti. Un omaggio ossessivo alla collezione del vicino **Museo del Bottone**, dove i bottoni raccontano secoli di costume.
 
-In fondo al corridoio, sopra una consolle in marmo nero, **un quadro in cornice dorata**. Caino alza il braccio su Abele: corpi titanici, torsioni michelangiolesche, chiaroscuro caldo, stesure a olio sottili come velature d’affresco. Uno dei PG — se ha competenze d’arte — capisce di colpo: **è un originale di Michelangelo**, mai catalogato. La cosa è impossibile, eppure la pittura non mente.
+In fondo al corridoio, sopra una consolle in marmo nero, **un quadro in cornice dorata**. Caino alza il braccio su Abele: corpi titanici, torsioni michelangiolesche, chiaroscuro caldo, stesure a olio sottili come velature d’affresco. Uno dei PG — se ha competenze d’arte — capisce di colpo: **è un originale di Michelangelo**, mai catalogato. La cosa è impossibile, eppure la pittura non mente. [[Arpia-CainoSuAbele.png]]
+
 
 Dall’ombra emerge il **maggiordomo** (ghoul): completo scuro impeccabile, guanti sottili, voce bassa e neutra, occhi un po’ troppo lucidi.
 

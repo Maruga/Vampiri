@@ -11,3 +11,4 @@
 > 
 > Una notte di fiamme e silenzio tra i boschi, interrotta solo dal crepitio del fuoco e da un dettaglio che, secondo alcuni soccorritori, ‘non quadrava del tutto’. Ma su questo, al momento, vige il massimo riserbo.”
 
+![[IncidenteTelegiornale.mp3]]
