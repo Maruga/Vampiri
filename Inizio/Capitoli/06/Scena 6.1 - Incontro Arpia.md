@@ -1,6 +1,5 @@
 #Completato #Rivedere
 
-
 Descrizione ingresso arpia e studio, nell’ingresso si trova un quadro di Michelangelo Titolo: “L’Ira di Caino” Data: circa 1506.
 
 Se portano informazioni all’arpia in un secondo momento quando i Siri rifiutano la loro progenie e quindi destinati a morire davanti al principe, l’Arpia li prende sotto la sua custodia.
@@ -26,7 +25,7 @@ Dall’ombra emerge il **maggiordomo** (ghoul): completo scuro impeccabile, guan
 
 «La Signora Montieri vi attende nello studio. Se volete seguirmi.»
 
----
+![[Sinfonia.mp3]]
 
 ## Studio dell’Arpia
 

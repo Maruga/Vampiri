@@ -20,7 +20,11 @@ Posso spendere un punto di Volontà per calmarsi per 1 turno o 2.
 Tiro Degenerazione
 
 ### Descrizione vista da un Garou
-Il bosco trattiene il fiato. Le sanguisughe avanzano in fila, quattro/cinque scarti del sepolcro, la pelle tesa e l’odore di terra morta addosso. Ridono piano del bosco finché non vedono il faggio: spirali di pece impastate a piume, nere e fresche. Passano sotto come se niente. Poco dopo scavalcano tre pietre allineate nel muschio, storte e precise come denti. A sinistra monta il rombo di un torrente nascosto. La selva cambia odore: resina, pelo, vita.
+
+![[night-forest-soundscape-158701.mp3]]
+Il bosco trattiene il fiato. Le sanguisughe avanzano in fila, quattro/cinque scarti del sepolcro, la pelle tesa e l’odore di terra morta addosso. Ridono piano del bosco finché non vedono il faggio: spirali di pece impastate a piume, nere e fresche. Passano sotto come se niente. 
+![[wolf-howling-type-04-293317.mp3]]
+Poco dopo scavalcano tre pietre allineate nel muschio, storte e precise come denti. A sinistra monta il rombo di un torrente nascosto. La selva cambia odore: resina, pelo, vita.
 
 Dal buio una voce divertita: «Puzzate di Wyrm.»  
 Due occhi gialli, poi altri. Un ramo cede, secco. «Due cerchi,» dice un’altra voce, come un saluto. 
@@ -34,6 +38,8 @@ I giocatori appena incontrano i Garou fanno il check di Rotshreck
 > **Fuga immediata** dalla fonte di terrore
 > Attacca chiunque blocchi la fuga, ma non ha tempo di farlo.
 > Recupero **Automatico:** Quando al sicuro dalla minaccia, non in questo caso.
+
+![[Battito.mp3]]
 
 Due versioni da leggere ai PG se vanno in Terrore Rosso.
 

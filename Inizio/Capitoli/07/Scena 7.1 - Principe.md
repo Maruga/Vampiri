@@ -2,7 +2,7 @@
 #### Scena: La Sala delle Armi
 
 ![[ConteCagliostro.png]]
-![[Sala Delle Armi San Leo.mp3]]
+[[Sala Delle Armi San Leo.mp3]]
 
 Le porte del salone si aprono con un gemito metallico, lento, come se la pietra stessa non volesse cedere.
 
