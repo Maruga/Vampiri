@@ -210,22 +210,9 @@ _(lascia che i giocatori dicano i loro nomi)
 
 **Il Principe apre le braccia, come davanti a un altare invisibile.
 
-“Da questa notte il vostro respiro è preghiera,
-il vostro sangue è offerta.
-Io sono la legge e la fame che vi tiene uniti.”
+#### Il voto
+ [[Scena 7.2 - Il voto]]
 
-_Cammina tra voi, le parole come lame.
-
-“Rinunciate al sole, alla pietà, alla memoria.
-Restate fedeli al buio e il buio vi proteggerà.
-Tradite… e la notte stessa berrà il vostro nome.”
-
-“Non siete vivi.
-Non siete morti.
-Siete miei.”
-
-Le candele si spengono una dopo l’altra.
-E nella pietra del castello, sembra che la notte stessa trattenga il respiro.
 
 #### Per i giocatori morti fai ascoltare
 

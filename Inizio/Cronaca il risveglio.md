@@ -3,6 +3,10 @@
 [[Guida Giocatori]]
 [[Orologi]]
 
+### "Dark Souls-like"
+
+### Importante informare i giocatori o subito oppure al primo ritorno in scena quanto segue:
+"Le prime scene funzionano come un tutorial videogioco: se morite, ripartite dalla scena con quello che avete imparato. Non perdete nulla, è parte del gioco. L'obiettivo è scoprire cosa funziona."
 
 ## Introduzione al gioco
 
@@ -49,6 +53,7 @@ E la vera storia… comincia adesso.
 [[Scena 5.1 - Arrivo Villa Siri]]
 [[Scena 5.2 - Il Pozzo]]
 [[Scena 5.3 - Laboratori Villa]]
+[[Scena 5.4 - La Bambina]]
 
 
 ## Capitolo 6
@@ -61,7 +66,5 @@ Fallita la Masquerade
 
 
 ## Capitolo 7
-Cospetto del principe 
-Fine
-
-
+[[Scena 7.1 - Principe]]
+[[Scena 7.2 - Il voto]]

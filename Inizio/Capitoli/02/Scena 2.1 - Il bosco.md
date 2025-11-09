@@ -70,3 +70,14 @@ Silenzio. L’aria sa di pece e piume, d’osso e legno bruciato.
 
 > [!question] Terrore Rosso
 > "Il Terrore Rosso è quando la vostra nuova natura vampirica prende il sopravvento completamente. Non è paura umana - è il panico primordiale della Bestia dentro di voi che vi trasforma in creature selvagge disposte a tutto pur di fuggire."
+
+**Lupini TPK:**
+da leggere ai giocatori per spiegare il tutto.
+
+> "Ok, fermiamoci. Ecco cosa è successo: i Garou sono licantropi, naturali predatori dei vampiri. Sono più forti, più veloci, e il loro morso è aggravato. Nel mondo di VtM, i vampiri NON sono al top della catena alimentare. 
+> Cosa potevate fare:
+> - Notare i segni di confine (spirali di pece, pietre allineate) → tiro Percezione+Occulto
+> - Evitare completamente il bosco e andare verso Pennabilli
+> - Se aveste avuto oggetto di scambio, avreste potuto negoziare
+> 
+> Riprendiamo da quando siete fuori dal casolare. Cosa fate?"

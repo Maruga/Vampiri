@@ -16,6 +16,12 @@ Le luci della valle brillano in basso, fragili come voti di cera.
 La fame vibra, dolce e crudele, nel profondo.  
 E sopra i monti, l’orizzonte già si tinge di un pallore innaturale.
 
-Non sanno se sia l’alba o la condanna.  
-Ma nella quiete sospesa della discesa, comprendono il sacramento del loro nuovo respiro:  
-_la notte li ha partoriti, e il giorno reclama il suo tributo._
+Non c'è musica. Non c'è conversazione.  
+Solo il rombo del motore e i vostri pensieri.
+E i pensieri... sono pericolosi per chi è morto da troppo poco.
+
+[Nome giocatore], cosa vedi che ti riporta alla vita passata?
+Descrivici quel ricordo. Chi eri? Cosa facevi? Chi amavi?
+
+Se la descrizione è convincente e basata sul Background allora +1 Punto Volontà
+altrimenti nulla.

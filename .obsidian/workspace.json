@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0ca615b431123fd6",
+        "id": "07935202fc75320a",
         "type": "tabs",
         "children": [
           {
-            "id": "f8587a4a2037702e",
+            "id": "7258d64139a9a1f3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Inizio/Capitoli/01/Scena 1.1 - Il risveglio.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Scena 1.1 - Il risveglio"
-            }
-          },
-          {
-            "id": "36c253173c2eba35",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Guide/Note di etichetta.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Note di etichetta"
+              "title": "Nuova scheda"
             }
           }
         ]
@@ -226,20 +208,32 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "f8587a4a2037702e",
+  "active": "7258d64139a9a1f3",
   "lastOpenFiles": [
-    "Inizio/Capitoli/07/Scena 7.1 - Principe.md",
-    "Inizio/Materiale/Incidente Stradale.md",
     "Guide/Note di etichetta.md",
+    "Guide/Fame, Messy Critical e Bestial Failure.md",
+    "Guide/Cariche della CamarillaSenza nome.md",
+    "Guide/Tipologie di Debiti (Boons).md",
+    "Guide/Le sei tradizione della Camarilla.md",
+    "Guide/Meccaniche.md",
+    "Guide/La schiatta de’ Montefeltro.md",
+    "Inizio/Capitoli/03/Scena 3.2 - Elisio e la custode.md",
+    "Inizio/Capitoli/04/Scena 4.1 - Viaggio verso Rimini.md",
+    "Inizio/Cronaca il risveglio.md",
+    "Inizio/Capitoli/07/Scena 7.2 - Il voto.md",
+    "Inizio/Capitoli/07/Scena 7.1 - Principe.md",
+    "Inizio/Capitoli/03/Scena 3.1 - Verso Elisio.md",
+    "Inizio/Capitoli/02/Scena 2.1 - Il bosco.md",
+    "index.md",
+    "Musica/emissary-of-darkness-250732.mp3",
+    "Inizio/Capitoli/01/Scena 1.1 - Il risveglio.md",
+    "Inizio/Materiale/Incidente Stradale.md",
     "Musica/Sala Delle Armi San Leo.mp3",
     "Inizio/Capitoli/05/Scena 5.4 - La Bambina.md",
     "Inizio/Capitoli/05/Scena 5.3 - Laboratori Villa.md",
     "Inizio/Immagini/Arpia-CainoSuAbele.png",
     "Inizio/Capitoli/05/Scena 5.2 - Il Pozzo.md",
     "Inizio/Capitoli/05/Scena 5.1 - Arrivo Villa Siri.md",
-    "Inizio/Capitoli/04/Scena 4.1 - Viaggio verso Rimini.md",
-    "Inizio/Capitoli/03/Scena 3.2 - Elisio e la custode.md",
-    "Inizio/Capitoli/02/Scena 2.1 - Il bosco.md",
     "Inizio/Capitoli/01/Scena 1.2 - Casolare di Pennabilli.md",
     "Inizio/Capitoli/06/Scena 6.1 - Incontro Arpia.md",
     "Inizio/Immagini/CriptaMontebelloFoto.png",
@@ -254,24 +248,13 @@
     "Inizio/Materiale/RAPPORTO TOSSICOLOGICO – Campione “Sangue Blu”.md",
     "Inizio/Materiale/Editto del Principe - Tabvla Sаngvinis.md",
     "Guide/Flashback.md",
-    "Guide/Guida Giocatori.md",
-    "Inizio/Capitoli/01/Scena 1.1 - Il risveglio.md",
     "Musica/Sinfonia.mp3",
-    "Musica/emissary-of-darkness-250732.mp3",
     "Inizio/Effetti/Battito.mp3",
     "Inizio/Effetti/wolf-howling-type-04-293317.mp3",
     "wolf-howling-type-04-293317 1.mp3",
     "wolf-howling-type-04-293317.mp3",
     "Inizio/Effetti/night-forest-soundscape-158701.mp3",
-    "Link Utili.md",
-    "Inizio/Cronaca il risveglio.md",
     "Inizio/Capitoli/07",
-    "Inizio/Effetti/IncidenteTelegiornale.mp3",
-    "Inizio/Capitoli/03/Scena 3.1 - Verso Elisio.md",
-    "Inizio/Personaggi/NPC - Angela Dietrich (Angel).md",
-    "Inizio/Personaggi/NPC - Alfio Rossellini (Alfie).md",
-    "Inizio/Personaggi/Ezechiele Coyotl.md",
-    "Inizio/Personaggi/Mutaz Bechara.md",
-    "Inizio/Personaggi/Levi Maccari - Macca.md"
+    "Inizio/Effetti/IncidenteTelegiornale.mp3"
   ]
 }

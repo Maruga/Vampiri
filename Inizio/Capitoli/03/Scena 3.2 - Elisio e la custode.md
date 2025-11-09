@@ -2,7 +2,7 @@ Mappa del palazzo, incontro con la Custode dell’Elysium (in realtà è solo un
 Trovano nelle sale anche un documento che lo rende ora un Elisio decaduto, se non viene trovato la custode lo mostra. [[Elisio Pennabilli Decaduto]]
 
 > [!important]
-> La Custode è in grado di dare informazioni e conosce una Arpia molto amica del suo Sire che potrebbe sempre in cambio di favori presentarli al principe.
+> La Custode è in grado di dare informazioni e conosce una Arpia molto amica del suo Sire che potrebbe sempre in cambio di favori presentarli al principe. Agnese sa perfettamente che l'arpia non darebbe loro un favore cosi grosso da presentarli al principe, quindi nella lettera nomina la villa, la indica come un possibile fonte di informazioni. Questo per l'Arpia è molto interessante, la conoscenza è tutto per lei, avere più informazioni significa avere un peso o favori maggiori.
 
 La custode se chiesto è disposta a scrivere una lettera di presentazione, l’Arpia gli deve un piccolo favore, in cambio ogni PG avrà per ora un favore minore nei confronti della custode. Se l’Arpia salva i PG diventando loro mentore allora il favore diventa maggiore.
 
@@ -16,8 +16,8 @@ Se i pg non hanno modo di come muoversi, gli presta una vecchia auto ancora funz
 1. **Moneta del Bargello:** gettata a terra, fa sentire passi e voci antiche; a volte indica un pericolo vicino.
 2. **Foglia che non secca mai**, simbolo di totem antico, usabile per evitare scontro con Mannari.
 
-La moneta viene ogni tanto presa in mano da Agnese, quando i PG la vedono capiscono che qualcosa di strano è racchiuso, posso fare una prova per capire che non è normale.
-La foglia è indossata come una collana, anche di questa capiscono che vi è qualcosa di spirituale, se hanno fatto incontro con Lupini possono capire che è qualcosa di importante, se chiedono Agense può spiegare che è considerato un totem antico per i lupini. Può spiegare che poterebbe essere merce di scambio in caso di incontri.
+- La moneta viene ogni tanto presa in mano da Agnese, quando i PG la vedono capiscono che qualcosa di strano è racchiuso, posso fare una prova per capire che non è normale.
+- La foglia è indossata come una collana, anche di questa capiscono che vi è qualcosa di spirituale, se hanno fatto incontro con Lupini possono capire che è qualcosa di importante, se chiedono, Agnese può spiegare che è considerato un totem antico per i lupini. Poterebbe essere merce di scambio in caso di incontri.
 
 
 ### **🎭 Scena: _“L’Elysium dimenticato”_**
@@ -244,9 +244,11 @@ Ricordo solo una parola: _la villa._”
 
 _(Se i PG chiedono di più)_
 
-“Un laboratorio sotto una villa nel pause di Villa di Verucchio, lontano da occhi umani.  
+“Un laboratorio sotto una villa nel paese di Villa di Verucchio, lontano da occhi umani.  
 Dicevano che là si studiava il sangue. O la vita stessa.  
 Io non ho mai chiesto. Ma da quella notte il mio Sire non tornò più.”
+
+_Agnese conosce l'ubicazione della Villa e suggerisce di andare se vogliono risposte_
 
 I siri dei giocatori e altri vampiri chiedono la chiusura perché un patto con i Lupini, nessuno deve sapere, il Custode doveva un favore maggiore ed è stato costretto a chiudere.
 
@@ -268,12 +270,24 @@ Poi inizia a elencare con calma, per maggiori dettagli vedi sotto:
 - **Custode dell’Elysium:** “Colui che vigila sui luoghi sacri della parola. Qui, ero io… per un tempo.”
 - **Arpie:** “Lingue affilate. Decidono chi esiste e chi è già dimenticato.”
 
-“Se volete sopravvivere, trovate una figura nota, portatele un dono, un’informazione, qualcosa che conti. Sarà lei a concedervi la grazia di essere ricevuti dal Principe.  
-Senza un favore… siete nessuno.”
+>“Se volete sopravvivere, trovate una figura nota, portatele un dono, un’informazione, qualcosa che conti. Sarà lei a concedervi la grazia di essere ricevuti dal Principe.  
+>Senza un favore… siete nessuno.”"Capite ora la gravità della vostra situazione? Siete neonati senza Sire. Nel linguaggio della Camarilla, siete **illegali**. Fantasmi che non dovrebbero esistere.
+>C'è solo un modo per sopravvivere: ottenere il riconoscimento del Principe di Rimini. Se lui vi accetta nella sua corte, esistete. Se vi rifiuta... il Maresciallo vi darà la **Morte Ultima**. Non c'è via di mezzo."
+
+_(Pausa, lascia che assorbano)_
+
+> "Il viaggio fino al Principe sarà pericoloso. Incontrerete creature che vi superano, vampiri che vi disprezzano, trappole che non comprendete. Ma finché non siete davanti a **lui**, finché non pronunciate il vostro nome nel suo cospetto... c'è sempre tempo per imparare, per correggersi, per ritentare.
+> Ma quando sarete davanti al trono? Ogni parola conterà. Ogni gesto sarà scrutinato. Un errore lì... e sarà l'ultimo."
+
+_(Guarda nei loro occhi uno a uno)_
+
+> "Usate il tempo che avete. Imparate le regole della notte. Raccogliete informazioni, guadagnate favori, mostrate il vostro valore. Arrivate preparati. Perché davanti al Principe... non ci sono seconde possibilità."
 
 _(Pausa. Li guarda uno a uno.)_
 
 “E nessuno, nella notte, vive a lungo.”
+
+_i pg devono poter convincere Agnese di preparagli una lettera o comunque di fargli conoscere qualcuno_
 
 
 #### **LA MEMORIA DEL BARGELLO**
