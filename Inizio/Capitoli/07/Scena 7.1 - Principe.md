@@ -14,7 +14,9 @@ L’aria è fredda, pesante. Odora di cera, umidità e sangue antico.
 Dietro di voi, le porte si richiudono.
 Un colpo sordo. Nessuna via d’uscita.
 
-L’arpia che vi ha condotti — il suo sorriso sottile come una lama — fa un inchino e si ritrae nelle ombre.
+L’arpia che vi ha condotti — il suo sorriso sottile come una lama — 
+	"abbassate lo sguardo e contenete la lingua. Non v’è grazia per chi dimentica le buone maniere.”
+fa un inchino e si ritrae nelle ombre.
 
 Ora siete soli, al centro della sala, in fila, esposti come offerte su un altare.
 
@@ -58,6 +60,14 @@ Tacete... se credete che il silenzio vi salverà.”
 Si china appena, la voce ora come una carezza sul filo del rasoio:
 **“Ma ricordate: nessuna risposta è mai quella giusta.”
 
+
+> [!important]
+> Se un PG risponde in modo inappropriato, viene immediatamente decapitato. Vedi sotto la descrizione. 
+> Gli altri PG non vedono l’esecuzione: hanno lo sguardo rivolto verso il basso, come imposto dall’Arpia.
+> Quando accade, chiedi ai giocatori come reagiscono.  
+> Coloro che esitano o mostrano incertezza devono effettuare un **tiro di Volontà (Difficoltà 8)**.  
+> Chi fallisce **alza lo sguardo** e subisce la **Morte Definitiva**.
+> Un giocatore può **spendere un punto di Volontà** per dominare l’impulso e resistere senza tirare.
 
 
 #### Le Dieci Domande del Principe — _“La Notte Decide”_
@@ -153,6 +163,23 @@ Si china appena, la voce ora come una carezza sul filo del rasoio:
 - “La notte ti restituisce alla terra.”
 - “Ora servi solo al silenzio.”
 
+### Descrizione di alcuni morte dei neonati
+
+_I PG non vedo cosa succede.
+
+#### Pg Decapitato
+Un suono tagliente, un tonfo.  
+L’odore di cenere si mescola al silenzio.
+
+#### Se un pg guarda
+... contro ogni istinto **alzi lo sguardo**.  
+Solo allora capisci l’errore.  
+Gli occhi del Principe incontrano i tuoi — freddi, assoluti.  
+Non c’è tempo per il rimorso.
+Solo il silenzio, immobile e profondo.  
+Vedi il tuo corpo piegarsi, lontano, come appartenesse a un altro.  
+Poi si dissolve, **cenere che scivola nel buio**.  
+E di te non resta nulla.
 
 ### Scena Finale
 
@@ -202,4 +229,4 @@ E nella pietra del castello, sembra che la notte stessa trattenga il respiro.
 
 #### Per i giocatori morti fai ascoltare
 
-![[IncidenteTelegiornale.mp3]]
+![[Incidente Stradale]]

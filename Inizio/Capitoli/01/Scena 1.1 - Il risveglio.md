@@ -35,15 +35,27 @@ _Attendere un attimo la reazione dei giocatori._
 
 **E vuole nutrirsi.**
 
-> [!info] Narratore
-Lasciate ai PG un pò di tempo per guardarsi intorno, sono nello scantinato di un casolare di montagna vicino a Pennabilli. Stanza 11 e 13 in base al numero dei giocatori.
-
 > [!important] Title
 > I PG non sanno in che luogo si trovano, devono scoprirlo avventurandosi fuori dalla casa, decidere se si vuole attuare il confronto con i lupini oppure farli andare verso Pennabilli.
 
+#### Scena risveglio
+Un freddo innaturale vi scuote dal torpore.
 
-**Scena del risveglio:** "I personaggi riprendono conoscenza in una vasta camera dalle pareti nude e fredde. L'orologio segna le 21:00 del 13 ottobre 2023. Una nebbia mentale li avvolge: frammenti di memoria scivolano via come sabbia tra le dita. Non ricordano chi sono, né come sono arrivati in questo luogo. Solo una certezza inquietante pulsa nelle loro vene morte: qualcosa di terribile è accaduto."
+Riaprendo gli occhi, scoprite di trovarvi in una **camera ampia e silenziosa**, le cui **pareti di pietra nuda** stillano umidità come se la stanza stessa respirasse. La luce fioca di una lampada morente getta **ombre tremule**, che si allungano come artigli sulle pareti.
 
+Su un vecchio orologio incrinato, le lancette segnano le **21:00 del 13 ottobre 2023**.
+
+Nelle vostre menti, solo **nebbia e frammenti spezzati**: nomi dimenticati, voci lontane, ricordi che scivolano via come sangue da una ferita.
+
+Non sapete **chi siete**, né **perché vi trovate qui**. Ma dentro di voi — sotto la pelle fredda e il battito incerto del cuore — arde una consapevolezza che non vi abbandona:
+
+**qualcosa di terribile è accaduto.**
+
+E forse… **non è ancora finito.**
+
+
+> [!info] Narratore
+Lasciate ai PG un pò di tempo per guardarsi intorno, sono nello scantinato di un casolare di montagna vicino a Pennabilli. Stanza 11 e 13 in base al numero dei giocatori.
 ![[CasolareSiriPennabilli.svg]]
 
 
