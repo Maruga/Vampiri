@@ -1,4 +1,4 @@
-### “fischio corto, campo lungo”
+### “fischio corto, campo lungo” - Enrico Vitali
 
 ![[ChatGPT Image 11 nov 2025, 20_32_45.png]]
 Il rumore del **Marecchia** arriva fino al campetto dell’oratorio come una radio lontana. Tu arrivi sempre prima di tutti: chiavi che tintinnano, rete che gratta l’asfalto, gesso per rifare le righe storte. Fai tre passi lenti lungo la linea laterale, poi due veloci: la gamba buona prende il tempo a quella cattiva. Il cielo ha lo stesso colore dei tuoi pensieri: **nuvola che non promette, ma non minaccia**.
