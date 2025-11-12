@@ -25,3 +25,5 @@ La notte, quando la città si svuota, torni al campo. Siedi sulla panchina di pl
 
 Prima di spegnere il telefono, messaggio di Zaccaria: “Coach, domani arrivo in anticipo. Porto l’acqua.” Rispondi dopo un minuto, perché la fretta **non educa**: “Bene. Porta anche le scuse.” Poi metti via il telefono, ti sistemi il cappotto, chiudi il lucchetto. Domattina sarai di nuovo il primo. Righe dritte, rete tesa, pallone al centro. Il resto si impara **correndo**.
 ![[ChatGPT Image 11 nov 2025, 20_36_39.png]]
+
+
