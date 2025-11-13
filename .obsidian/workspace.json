@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inizio/Personaggi/Diarmid Cane Matto Dunsirn.md",
+                "file": "Guide/Fame, Messy Critical e Bestial Failure.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diarmid Cane Matto Dunsirn"
+              "title": "Fame, Messy Critical e Bestial Failure"
+            }
+          },
+          {
+            "id": "ebd9eb3706a997bc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/Link.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Link"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,8 +237,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "cb8d5eb3cbfae533",
+  "active": "ebd9eb3706a997bc",
   "lastOpenFiles": [
+    "Guide/Fame, Messy Critical e Bestial Failure.md",
+    "DnD/Link.md",
+    "DnD",
+    "Inizio/Personaggi/Diarmid Cane Matto Dunsirn.md",
     "Inizio/Orologi.md",
     "index.md",
     "Strumenti.md",
@@ -231,7 +250,6 @@
     "Strumenti/timer.html",
     "Strumenti/timer 1.html",
     "Strumenti",
-    "Inizio/Personaggi/Diarmid Cane Matto Dunsirn.md",
     "Inizio/Png/Anarchici Pennabilli.md",
     "Inizio/Cronaca il risveglio.md",
     "Inizio/Personaggi/Immagini/ChatGPT Image 11 nov 2025, 20_32_45.png",
@@ -241,7 +259,6 @@
     "Inizio/Esperienza/Utilizzo Capacità.md",
     "~$Strumenti.xlsx",
     "Inizio/Esperienza/Valutazione Personaggi.md",
-    "Guide/Fame, Messy Critical e Bestial Failure.md",
     "Guide/Note di etichetta.md",
     "Guide/Cariche della CamarillaSenza nome.md",
     "Guide/Tipologie di Debiti (Boons).md",
@@ -259,7 +276,6 @@
     "Inizio/Materiale/Incidente Stradale.md",
     "Musica/Sala Delle Armi San Leo.mp3",
     "Inizio/Capitoli/05/Scena 5.4 - La Bambina.md",
-    "Inizio/Capitoli/05/Scena 5.3 - Laboratori Villa.md",
     "Inizio/Immagini/Arpia-CainoSuAbele.png",
     "Inizio/Immagini/CriptaMontebelloFoto.png",
     "Inizio/Immagini/CriptaMontebelloDisegno.png",
@@ -268,7 +284,6 @@
     "Inizio/Immagini/SimboloRimuoverePietraPozzo.png",
     "Inizio/Immagini/StudioArpiaMappaTunnel.png",
     "Musica/Sinfonia.mp3",
-    "Inizio/Effetti/Battito.mp3",
-    "Inizio/Effetti/wolf-howling-type-04-293317.mp3"
+    "Inizio/Effetti/Battito.mp3"
   ]
 }
