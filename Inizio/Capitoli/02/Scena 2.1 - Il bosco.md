@@ -1,34 +1,72 @@
 Morte senza Morte
 
-I vampiri vengono uccisi dai lupini senza alcuna pietà e con divertimento, solo se sono passati presso Elisio di Pennabilli e hanno parlato con la custode decaduta allora hanno un minimo di speranza. Se parlano possono cambiare strada oppure se incontrano i Licantropi posso indietreggiare alzare le mani, lasciare a terra la foglia sempre verde e forse possono sfuggire. Discrezione del Narratore.
+I lupini eliminano i vampiri senza esitazione né pietà — e lo fanno con un certo divertimento. **L’unica possibilità di sopravvivenza** è per quei PG che **sono stati all’Elisio** e hanno parlato con la **custode decaduta**: lei è l’unica a suggerire l’esistenza di un rituale di passaggio.
 
-Indizi che i PG percepiscono (anche senza capirli del tutto), cosa imparano:
-•	Spirali di pece + piume su faggio → segnale rituale di confine.
-•	Tre pietre allineate nel muschio → confine artificiale.
-•	Rumore di acqua che corre forte (torrente) → confine naturale.
-•	Pino bruciato + tronco cavo con pendaglio d’osso → ultimo confine prima del “territorio interno”.
-•	Frasi chiave dei lupini: «puzzate di Wyrm», «due cerchi», «la selva non è corridoio» → avvisi da riportare (se qualcuno sopravvive).
-
+Se i PG **incontrano i lupini** e:
+- **alzano le mani**,  
+- **fanno un passo indietro**,
+- **lasciano a terra la “foglia sempreverde”** ricevuta all’Elisio,  
+    allora **forse** i licantropi li lasciano andare.  
+    _(A discrezione del Narratore.)_
 
 ## INTRODUZIONE
-in questa scena i PG sono automaticamente morti, ma devono se possibile sperimentare la Frenesia/TerroreRosso, non tutti cadranno in frenesia ma se almeno uno lo fa si può gestire una meccanica di gioco molto importante.
+In questa scena, **i PG sono destinati a morire**, ma **devono avere l’occasione di sperimentare Frenesia o Terrore Rosso**.  
+Non tutti devono caderci, ma basta che **uno** perda il controllo perché la scena mostri quanto è reale e pericolosa questa meccanica.
 
-Azione Prolungata, devono fare 5 successi in più turni altrimenti entrano in frenesia o terrore rosso.  
-Tiro Self-Control Dif. 8  
-Tito Coraggio Dif. 8  
-Posso spendere un punto di Volontà per calmarsi per 1 turno o 2.  
-Tiro Degenerazione
+Tiri consigliati:
+- **Self-Control** – Difficoltà 8  
+- **Courage** – Difficoltà 8
+
+I PG possono:
+- **Spendere 1 punto Volontà** per calmarsi per **1–2 turni**.
+- Alla fine, effettuare un **Tiro di Degenerazione**, se appropriato.
+
+#### **(Opzionale) Test di Resistenza alla Frenesia**
+
+**Azione Prolungata** → servono **5 successi** complessivi in più turni, altrimenti scatta Frenesia/Terrore Rosso.
+
+### Dentro il bosco
+
+> [!important]
+> se un PG può fare danni aggraviti da fare notare e gli artigli spuntano automaticamente, i lupini quando vedono gli artigli hanno un attimo di sussulto.
+
+Il casolare si chiude alle vostre spalle, inghiottito dal buio. Davanti, il bosco vi aspetta: tronchi scuri, rami contorti, sentieri che svaniscono dopo pochi passi.
+
+Per altri sarebbe un muro. Per voi no.
+
+L’oscurità vi scivola attorno senza nascondere nulla: distinguete il luccichio umido del muschio, il respiro lontano di animali piccoli, il leggero cedimento della terra sotto qualcosa che si allontana da voi in fretta.
+
+Vi muovete senza rumore, certi dei vostri passi, certi dei vostri sensi.  
+La notte è densa, minacciosa… ma vi apre la strada.  
+Come se sapesse che non siete qui per essere spaventati.
 
 ### Descrizione vista da un Garou
 
 ![[night-forest-soundscape-158701.mp3]]
-Il bosco trattiene il fiato. Le sanguisughe avanzano in fila, quattro/cinque scarti del sepolcro, la pelle tesa e l’odore di terra morta addosso. Ridono piano del bosco finché non vedono il faggio: spirali di pece impastate a piume, nere e fresche. Passano sotto come se niente. 
-![[wolf-howling-type-04-293317.mp3]]
-Poco dopo scavalcano tre pietre allineate nel muschio, storte e precise come denti. A sinistra monta il rombo di un torrente nascosto. La selva cambia odore: resina, pelo, vita.
+Il bosco trattiene il fiato.  
+Nella mente che vi osserva, avanzate in fila come **ombre deformi**, carne tirata e odore di terra chiusa. “Scarti del sepolcro”, vi chiama quel pensiero, con un disprezzo antico.
 
-Dal buio una voce divertita: «Puzzate di Wyrm.»  
-Due occhi gialli, poi altri. Un ramo cede, secco. «Due cerchi,» dice un’altra voce, come un saluto. 
+Vedete il faggio davanti a voi… ma nella testa che vi fissa dall’oscurità, le **spirali di pece e piume** brillano come un avviso ignorato.  
+E voi passate sotto, come se niente.
+
+Più avanti superate **tre pietre allineate** nel muschio. A chi vi osserva da dietro i tronchi sembrano **denti pronti a chiudersi**.  
+L’aria cambia: resina, pelo, vita. E il pensiero che vi segue diventa più affilato.
+![[wolf-howling-type-04-293317.mp3]]
+Dal buio, non una voce che sentite… ma una **parola pensata contro di voi**:  
+**«Puzzate di Wyrm.»**
+
+Due occhi gialli si aprono tra gli alberi. Poi altri.  
+Un ramo si spezza, secco.
+
+Un altro pensiero, lento e soddisfatto:  
+**«Due cerchi.»**
+
+La selva intorno a voi non parla.  
+Ma **sta pensando**, e quei pensieri non vi appartengono.  
+Sono di qualcuno che vi ha già riconosciuti.  
+E giudicati.
 [[Garou.png]]
+![[Battito.mp3]]
 
 I giocatori appena incontrano i Garou fanno il check di Rotshreck
 > [!tip] Check Terrore Rosso/RÖTSCHRECK
@@ -39,33 +77,34 @@ I giocatori appena incontrano i Garou fanno il check di Rotshreck
 > Attacca chiunque blocchi la fuga, ma non ha tempo di farlo.
 > Recupero **Automatico:** Quando al sicuro dalla minaccia, non in questo caso.
 
-![[Battito.mp3]]
-
 Due versioni da leggere ai PG se vanno in Terrore Rosso.
 
-#### **Versione 1 - La Bestia Scatenata**
+#### **Versione 1 - La Bestia Scatenata** - Il Primo Rötschreck**
 _"L'istante in cui i tuoi occhi incrociano quelli del lupo, qualcosa di primordiale ESPLODE dentro di te. Non è terrore - è l'istinto di sopravvivenza di un predatore che incontra il suo anatema. Il tuo corpo non è più tuo: la Bestia che dimora nel tuo sangue morto prende il comando con violenza brutale. Le tue mani si contraggono in artigli, la vista diventa un tunnel rosso sangue. Un ruggito disumano squarcia la tua gola mentre ogni fibra del tuo essere grida una sola verità: SEI PREDA. La creatura dentro di te non conosce amici, non conosce pietà - solo la necessità assoluta di fuggire o distruggere chiunque si frapponga."_
 
-#### **Versione 2 - Il Primo Rötschreck**
-_"È come se mille anni di evoluzione venissero cancellati in un secondo. Quando vedi quelle forme lupine, scopri con orrore che dentro di te vive qualcosa di mostruoso - la Bestia vampirica che ora reclama il controllo totale. Il panico non viene dalla mente, viene dal SANGUE stesso. I tuoi canini si allungano involontariamente, gli occhi bruciano di una luce innaturale mentre un terrore ancestrale ti trasforma in qualcosa che non riconosci. Non sei più la persona che eri - sei una creatura della notte in preda al suo incubo peggiore, disposta a tutto pur di sopravvivere."_
+### Reazione PG 
+I PG che superano e riescono a non cadere in terrore possono interagire con i Lupini.
+Se qualcuno scappa sia per il terrore rosso o per altro, quelli che rimangono sentono le loro urla strazianti.
+Per i PG: Le urla di chi fugge si alzano taglienti… poi si strozzano all’improvviso, come se qualcosa li avesse spezzati a metà. Dopo, solo un silenzio innaturale.
 
 ### Scena Finale - Morte dopo la Morte
-Il primo impatto è dall’alto: peso, zanne nella clavicola, il corpo sbattuto a terra come un sacco bagnato. La carne cede con un “crac” umido. Sopra, un muso inspira dalla bocca spalancata e ridacchia: «La selva non è corridoio.»
+Il primo impatto è un fulmine: vi piombano addosso dall’alto, zanne nelle ossa, corpi schiantati nel fango. Non avete il tempo di reagire.  
+«La selva non è corridoio,» ringhia qualcuno.
 
-Una sanguisuga scatta: una zampa le falcia le ginocchia. Il femore esce lucido come un manico; il resto del corpo crolla. Un’altra prova i denti: due mani—memoria di mani—le prendono mento e nuca; torsione breve, la testa fa mezzo giro di troppo e si posa male. Dal bordo del letto di fiume, una voce spiega senza fretta mentre pesta una mano fino a spalmarla nel muschio: «Segnatevelo, carogne. Spirali di pece e piume sul faggio: confine. Tre pietre allineate: confine. Rumore forte d’acqua: confine. Pino bruciato e tronco cavo col pendaglio d’osso: ultimo confine prima del territorio interno.» Tic, tic—il ciondolo d’osso batte nel tronco bruciato.
+Qualcuno di voi viene sollevato per la testa e spezzato. Un altro cade con le gambe piegate al contrario. Qualcun altro sente le orbite cedere sotto due pollici feroci. Il resto è solo costole aperte, carne strappata, pensieri che si interrompono troppo presto.  
+«Puzzate di Wyrm. Due cerchi.»
 
-Una sanguisuga striscia verso quel suono. Le affondano i pollici nelle orbite: le prugne marce schioccano; la testa sprofonda nel fango. Un’altra viene aperta alla pancia con una spinta decisa: le costole si aprono come leve, qualcosa che pulsa viene alzato e gettato via. Ogni sibilo è un appunto: «Puzzate di Wyrm.» «Due cerchi.» «La selva non è corridoio.»
+Uno di voi — a caso, senza motivo — viene trascinato via. La mascella rimessa a forza, un soffio all’orecchio: «Corri.»
 
-Quando resta solo un paio di rottami che respirano, uno dei lupini alza il muso. «Lasciamone andare una. Che porti i messaggi: faggio con pece e piume; tre pietre nel muschio; torrente che corre; pino bruciato, tronco cavo, pendaglio d’osso. Due cerchi. La selva non è corridoio.»
+Corre. Tre pietre. Il faggio. Il torrente. Il pino bruciato. Quasi fuori.
 
-Sollevano la sanguisuga con le gambe ancora attaccate. La ripuliscono dallo schifo con disprezzo, le riassestano la mascella con un colpo. «Vai,» sussurra qualcuno all’orecchio ferito. «Corri.»
+Il bosco fruscia.
 
-Corre. Salta le tre pietre, sfila sotto il faggio, il rombo del torrente si fa lontano; tra i tronchi compare un chiarore. La libertà è un’ombra bassa e aperta. Si volta appena, come per dirsi che ce l’ha fatta.
+Qualcosa ti piomba addosso, tira in due direzioni diverse. La colonna cede, la bocca si rompe, il petto si apre. La testa rotola nel muschio.
 
-Il bosco fa un fruscio a ventaglio. Una zampa la colpisce alla schiena, un’altra le blocca le anche. Una prende la mandibola, un’altra il cranio. Tirano. La bocca si apre oltre il possibile: denti che saltano, lingua che sbatte fuori, la gola come una tasca spalancata. Il morso scende lungo, deciso: le vertebre si sgranano una a una. Un colpo martellato apre il petto; mani-zampe entrano e strappano, mostrano agli altri come si cava via un errore. La testa resta appesa a un nastro di pelle, poi cade nel muschio a guardare al contrario.
+Silenzio.
 
-Silenzio. L’aria sa di pece e piume, d’osso e legno bruciato.  
-«Due cerchi,» dice l’ultimo, leccandosi il muso. «E la selva non è corridoio.»
+«Due cerchi,» sussurra la selva. «E non è un corridoio.»
 
 
 > [!question] Terrore Rosso
