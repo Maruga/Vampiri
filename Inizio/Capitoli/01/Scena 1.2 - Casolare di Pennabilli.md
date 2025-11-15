@@ -5,7 +5,8 @@
 > I PG (neonati) si risvegliano nel **seminterrato**; al **primo piano** si nascondono **due umane** (madre e figlia, straniere).  
 > I Sire sono **fuggiti di fretta**, lasciando indizi e oggetti.
 
----
+
+[[CasolareSiriPennabilli.svg]]
 ![[CasolareSiriPennabilli.svg]]
 
 
@@ -32,6 +33,13 @@
 
 > [!info] Per i Giocatori (read-aloud)
 > Pietra umida e odore di gasolio. Brandine improvvisate macchiate di sangue secco. Una lampadina nuda dondola, fischiando piano. Sulla parete di roccia, un segno inciso e  parole tracciate con estrema cura. Da qualche parte, l’acqua gocciola come il battere di un orologio. Sopra di voi… due cuori che accelerano.
+
+**Scritta sul muro in villa nello scantinato**
+_«Saxum dormit nisi sanguis loquatur.  
+Sanguis vocat saxum, signum audit.»_
+[[SimboloRimuoverePietraPozzo.png]]
+_La pietra dorme finché il sangue non parla.  
+Il sangue chiama la pietra, il marchio ascolta.
 
 > [!tip] Per il Narratore
 > - **Ascolto dei vivi:** i battiti provengono **un piano sopra, a est**.  
@@ -91,10 +99,10 @@
 ## 6) Cucina (Piano Terra)
 
 > [!info] Per i Giocatori
-> Frigorifero spento, pentole con residui scuri, odore rancido. In un pensile, avvolto in panno, un metallo freddo e perfetto.
+> Frigorifero spento, pentole con residui scuri, odore rancido ma stranamente gradevole. In un pensile, avvolto in panno, un metallo freddo e perfetto.
 
 > [!tip] Per il Narratore
-> - **Frenesia olfattiva** (opzionale) per PG molto affamati: **Autocontrollo diff 6**.
+> - **Frenesia olfattiva** (opzionale) per PG molto affamati: **Autocontrollo diff 4**.
 
 **Oggetti & Tiri**
 - **Pugnale d’argento decorato**  
@@ -159,13 +167,12 @@
 
 > [!tip] Per il Narratore
 > - Nessun oggetto chiave, ma ottimo per sottolineare **alienazione**.  
-> - A fame alta, potete richiedere **Autocontrollo diff 6** per evitare frenesia di frustrazione.
 
 
 ## 9) Camera Matrimoniale (Primo Piano)
 
 > [!info] Per i Giocatori
-> Letto disfatto, finestra aperta alla luna. Sul comodino, uno **specchio da tasca** con cornice d’osso: per un battito vedete il vostro volto umano… poi nulla.
+> Letto disfatto, finestra aperta alla luna. Sul comodino, uno **specchio da tasca** con cornice d’osso: per un battito vedete il vostro volto umano… poi nulla. (Armadio)
 
 > [!tip] Per il Narratore
 > - **Botola nascosta** sotto il letto → piccolo vano di fuga (bloccato).  
@@ -187,7 +194,7 @@
 > Una bambola a terra. Lenzuola aggrovigliate. Due respiri si interrompono quando il pavimento scricchiola.
 
 > [!tip] Per il Narratore
-> - **Due umane**: madre e figlia, straniere; italiano stentato. Rapite alla **stazione di Torino**. Sanno solo di un “posto sicuro nel bosco” citato dai rapitori e sono sicure che questi sono scappati in questo luogo.  
+> - **Due umane**: madre e figlia, straniere; italiano stentato. Rapite alla **stazione di Torino**. Sanno solo di un “posto sicuro nel bosco” citato dai rapitori e sono sicure che questi sono scappati in questo luogo. Lota nella stanza di sotto, vetri rotti e urla e ringhi.
 > - **Sociale**:  
 >   - Calmare: *Carisma + Empatia* diff **6** (–1 diff se i PG non si avvicinano troppo/attenuano i sensi).  
 >   - Intimidire: *Carisma + Intimidire* diff **6** (ma peggiora future interazioni).  
@@ -212,7 +219,11 @@
   - *Intelligenza + Sopravvivenza* diff **6** (i sentieri evitano la radura).  
   - Collegare alla lettera: *Intelligenza + Occulto/Politica* diff **6–7**.
 
----
+
+## 7) Stanza dormitorio
+
+
+
 
 ## Oggetti Speciali — Riepilogo
 

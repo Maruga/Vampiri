@@ -21,7 +21,7 @@ I registri sanno farsi elastici, i campanelli imparano l’oblio. Le chiavi rest
 
 Sotto, l’asfalto tiene una mappa di cortesi omissioni. I vicoli hanno memoria corta, le stazioni un senso dell’umorismo scaduto. Basta un’occhiata di troppo, un saluto tardivo, la tentazione di chiedere “perché” quando sarebbe stato più elegante non farlo. In quell’istante—proprio quello— qualcuno vi nota come si nota una macchia su un guanto bianco: un gesto e non c’è più.
 
-Non pronunciamo nomi antichi. Osserviamo soltanto come la notte, qui, è una sarta meticolosa: prende misure, accorcia destini, ripone gli avanzi. E voi, umani così esuberanti, ricordatevi la regola: scomparire non è un viaggio. È un attimo ben organizzato.
+Non pronunciamo nomi antichi. Osserviamo soltanto come la notte, qui, è una sarta meticolosa: prende misure, accorcia destini, ripone gli avanzi. E voi, miserabili umani così esuberanti, ricordatevi la regola: scomparire non è un viaggio. È un attimo ben organizzato.
 
 
 >[!note] Nota

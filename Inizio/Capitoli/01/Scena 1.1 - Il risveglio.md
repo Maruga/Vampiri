@@ -11,7 +11,7 @@ No... non è solo buio. È qualcosa di più profondo. Come se i miei occhi fosse
 
 _Flash -_  Ridete, parlate, bevete. Le luci sembrano un po’ più fioche. Le parole si confondono, la stanza — o forse il mondo — diventa più piccola. Poi lui o lei si avvicina. Lo sguardo fermo, la voce bassa. Una mano sul braccio. Un respiro contro la pelle.  
 
-Il sapore. dio, il sapore nella mia bocca. Rame e sale e qualcosa di... vivo. Mi alzo di scatto e il mondo gira troppo velocemente, troppo nitido. Posso vedere ogni granello di polvere nell'aria stagnante. Ogni fibra del tessuto macchiato sotto di me. È troppo. TROPPO.
+Il sapore. dio, il sapore nella mia bocca. Rame e sale e qualcosa di... vivo. Mi alzo di scatto e il mondo gira troppo lentamente, troppo nitido. Posso vedere ogni granello di polvere nell'aria stagnante. Ogni fibra del tessuto macchiato sotto di me. È troppo. TROPPO.
 
 _Flash_ - Un brivido. Calore. Dolore. E poi — piacere. Un piacere che cancella il pensiero, che divora la paura. Per un istante non c’è nulla da temere, nulla da volere. Solo il battito che rallenta. Il corpo che cede.  
 
@@ -29,7 +29,7 @@ La mia voce è diversa. Più profonda. C'è qualcosa di predatorio in essa che n
 
 _Attendere un attimo la reazione dei giocatori._
 
-**C'è qualcuno qui. Lo SENTO.** Il battito del suo cuore è un tamburo nella notte. Thump-thump. Thump-thump. È nell'edificio accanto? No... un piano sopra. Come faccio a saperlo? Il sangue che scorre nelle sue vene canta per me. Mi chiama.
+**C'è qualcuno qui. Lo SENTO.** Il battito del suo cuore è un tamburo nella notte (effetto sonar delle vene pulsanti). Thump-thump. Thump-thump. È nell'edificio accanto? No... un piano sopra. Come faccio a saperlo? Il sangue che scorre nelle sue vene canta per me. Mi chiama.
 
 **La Bestia** - non so perché la chiamo così ma è giusto - si agita dentro di me. Non sono più solo io qui dentro. C'è qualcosa di antico, di affamato, di ALTRO che condivide questo corpo con me.
 
@@ -43,7 +43,7 @@ Un freddo innaturale vi scuote dal torpore.
 
 Riaprendo gli occhi, scoprite di trovarvi in una **camera ampia e silenziosa**, le cui **pareti di pietra nuda** stillano umidità come se la stanza stessa respirasse. La luce fioca di una lampada morente getta **ombre tremule**, che si allungano come artigli sulle pareti.
 
-Su un vecchio orologio incrinato, le lancette segnano le **21:00 del 13 ottobre 2023**.
+Su un vecchio orologio incrinato, le lancette segnano le **21:07**.
 
 Nelle vostre menti, solo **nebbia e frammenti spezzati**: nomi dimenticati, voci lontane, ricordi che scivolano via come sangue da una ferita.
 
@@ -55,7 +55,8 @@ E forse… **non è ancora finito.**
 
 
 > [!info] Narratore
-Lasciate ai PG un pò di tempo per guardarsi intorno, sono nello scantinato di un casolare di montagna vicino a Pennabilli. Stanza 11 e 13 in base al numero dei giocatori.
+Lasciate ai PG un pò di tempo per guardarsi intorno, sono nello scantinato di un casolare di montagna vicino a Pennabilli. Stanza 11 e 13 in base al numero dei giocatori. Nelle descrizioni iniziali dare impressione di cogliere molti dettagli sull'ambiante.
+
 ![[CasolareSiriPennabilli.svg]]
 
 

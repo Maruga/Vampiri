@@ -4,39 +4,88 @@
     "type": "split",
     "children": [
       {
-        "id": "848205757fc8b396",
+        "id": "128e98a315ce3c46",
         "type": "tabs",
         "children": [
           {
-            "id": "cb8d5eb3cbfae533",
+            "id": "38511012334a1f27",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guide/Fame, Messy Critical e Bestial Failure.md",
+                "file": "Inizio/Capitoli/02/Scena 2.1 - Il bosco.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fame, Messy Critical e Bestial Failure"
+              "title": "Scena 2.1 - Il bosco"
             }
           },
           {
-            "id": "ebd9eb3706a997bc",
+            "id": "01c98cb4dbc347d8",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Inizio/Immagini/Garou.png"
+              },
+              "icon": "lucide-image",
+              "title": "Garou"
+            }
+          },
+          {
+            "id": "3816eb167ce085d1",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Inizio/Immagini/CasolareSiriPennabilli.svg"
+              },
+              "icon": "lucide-image",
+              "title": "CasolareSiriPennabilli"
+            }
+          },
+          {
+            "id": "4568bf9985524fd0",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Inizio/Immagini/MappaRifugioForesta.png"
+              },
+              "icon": "lucide-image",
+              "title": "MappaRifugioForesta"
+            }
+          },
+          {
+            "id": "e1092863e5890981",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Link.md",
+                "file": "Inizio/Materiale/Lettera rifugio.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Link"
+              "title": "Lettera rifugio"
+            }
+          },
+          {
+            "id": "37eb55ad31ade96a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Inizio/Materiale/Invito Elisio Pennabilli.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Invito Elisio Pennabilli"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,21 +286,38 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ebd9eb3706a997bc",
+  "active": "38511012334a1f27",
   "lastOpenFiles": [
+    "Inizio/Immagini/Garou.png",
+    "Inizio/Capitoli/02/Scena 2.1 - Il bosco.md",
+    "Inizio/Capitoli/01/Scena 1.2 - Casolare di Pennabilli.md",
+    "Inizio/Immagini/CasolareSiriPennabilli.svg",
+    "Inizio/Immagini/MappaRifugioForesta.png",
+    "Inizio/Materiale/Lettera rifugio.md",
+    "Inizio/Materiale/Invito Elisio Pennabilli.md",
+    "Inizio/Immagini/Invito Elysium del 14 marzo.png",
+    "Inizio/Immagini/QuadroCasaPennabilli03.jpg",
+    "Inizio/Immagini/QuadroCasaPennabilli02.jpg",
+    "Inizio/Immagini/QuadroCasaPennabilli01.png",
+    "Strumenti.md",
+    "Inizio/Capitoli/05/Scena 5.2 - Il Pozzo.md",
+    "Inizio/Immagini/SimboloRimuoverePietraPozzo.png",
+    "Inizio/Cronaca il risveglio.md",
+    "Inizio/Materiale/Editto del Principe - Tabvla Sаngvinis.md",
+    "Inizio/Materiale/Elisio Pennabilli Decaduto.md",
+    "Inizio/Materiale/Incidente Stradale.md",
+    "Inizio/Capitoli/01/Scena 1.1 - Il risveglio.md",
+    "Inizio/Personaggi/Diarmid Cane Matto Dunsirn.md",
     "Guide/Fame, Messy Critical e Bestial Failure.md",
     "DnD/Link.md",
     "DnD",
-    "Inizio/Personaggi/Diarmid Cane Matto Dunsirn.md",
     "Inizio/Orologi.md",
     "index.md",
-    "Strumenti.md",
     "Timer.md",
     "Strumenti/timer.html",
     "Strumenti/timer 1.html",
     "Strumenti",
     "Inizio/Png/Anarchici Pennabilli.md",
-    "Inizio/Cronaca il risveglio.md",
     "Inizio/Personaggi/Immagini/ChatGPT Image 11 nov 2025, 20_32_45.png",
     "Inizio/Personaggi/Immagini/ChatGPT Image 11 nov 2025, 20_32_52.png",
     "Inizio/Personaggi/Immagini/ChatGPT Image 11 nov 2025, 20_36_39.png",
@@ -264,25 +330,8 @@
     "Guide/Tipologie di Debiti (Boons).md",
     "Guide/Le sei tradizione della Camarilla.md",
     "Guide/Meccaniche.md",
-    "Guide/La schiatta de’ Montefeltro.md",
-    "Inizio/Capitoli/03/Scena 3.2 - Elisio e la custode.md",
-    "Inizio/Capitoli/04/Scena 4.1 - Viaggio verso Rimini.md",
-    "Inizio/Capitoli/07/Scena 7.2 - Il voto.md",
-    "Inizio/Capitoli/07/Scena 7.1 - Principe.md",
-    "Inizio/Capitoli/03/Scena 3.1 - Verso Elisio.md",
-    "Inizio/Capitoli/02/Scena 2.1 - Il bosco.md",
     "Musica/emissary-of-darkness-250732.mp3",
-    "Inizio/Capitoli/01/Scena 1.1 - Il risveglio.md",
-    "Inizio/Materiale/Incidente Stradale.md",
     "Musica/Sala Delle Armi San Leo.mp3",
-    "Inizio/Capitoli/05/Scena 5.4 - La Bambina.md",
-    "Inizio/Immagini/Arpia-CainoSuAbele.png",
-    "Inizio/Immagini/CriptaMontebelloFoto.png",
-    "Inizio/Immagini/CriptaMontebelloDisegno.png",
-    "Inizio/Immagini/SentenzaUltimaMorte.png",
-    "Inizio/Immagini/PrigioneBambola.png",
-    "Inizio/Immagini/SimboloRimuoverePietraPozzo.png",
-    "Inizio/Immagini/StudioArpiaMappaTunnel.png",
     "Musica/Sinfonia.mp3",
     "Inizio/Effetti/Battito.mp3"
   ]
