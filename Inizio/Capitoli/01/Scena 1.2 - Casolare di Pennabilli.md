@@ -32,7 +32,8 @@
 ## 13) Sala del Risveglio (Seminterrato)
 
 > [!info] Per i Giocatori (read-aloud)
-> Pietra umida e odore di gasolio. Brandine improvvisate macchiate di sangue secco. Una lampadina nuda dondola, fischiando piano. Sulla parete di roccia, un segno inciso e  parole tracciate con estrema cura. Da qualche parte, l’acqua gocciola come il battere di un orologio. Sopra di voi… due cuori che accelerano.
+> Pietra umida e odore di gasolio. Brandine improvvisate macchiate di sangue secco. Una lampadina nuda dondola, fischiando piano. Sulla parete di roccia, un segno inciso e  parole tracciate con estrema cura. Da qualche parte, l’acqua gocciola come il battere di un orologio. Casse sparse per le stanze.
+> Sopra di voi… un suono profondo pulsa — **thum… thum…** — lento, poi improvvisamente più rapido, come se qualcosa nel buio avesse appena preso vita.
 
 **Scritta sul muro in villa nello scantinato**
 _«Saxum dormit nisi sanguis loquatur.  
@@ -44,7 +45,7 @@ Il sangue chiama la pietra, il marchio ascolta.
 > [!tip] Per il Narratore
 > - **Ascolto dei vivi:** i battiti provengono **un piano sopra, a est**.  
 >   - **Percezione + Allerta** diff **6** (5 con Auspex 1) per localizzarli con precisione.  
-> - **Frenesia**: se **Pool Sangue ≤ 3** e i PG si soffermano sui battiti → **Autocontrollo/ Istinto** diff **7–8**.
+> - OPZIONALE **Frenesia**: se **Pool Sangue ≤ 3** e i PG si soffermano sui battiti → **Autocontrollo/ Istinto** diff **7–8**.
 
 **Oggetti & Indizi**
 - **Marchio del Sire** inciso
@@ -53,7 +54,7 @@ Il sangue chiama la pietra, il marchio ascolta.
 		- “Il sangue chiama la pietra, il segno ascolta.”
 	- Il PG Tremere ricorda questa frase quando lo esamina “**La prudenza è la catena dell’eternità**”.  
 	- *Intelligenza + Occulto* diff **7** per capirne la natura di “ancora mnemonica/rituale”. 
-	- **Uso futuro**: con **1 Punto Sangue del Sire** è la “chiave” per rompere sigilli/pietre nella **trappola del pozzo** [[Scena 5.2 - Il Pozzo]].
+	- **Uso futuro**: con **1 Punto Sangue del Sire** è disegnando il simbolo sulla pietra permette di distruggere la porta nella **trappola del pozzo** [[Scena 5.2 - Il Pozzo]].
 - **Ampolla di Vitae condensato** (cassetta metallica, semi-nascosta tra casse).  
   - Trovarla: *Percezione + Investigazione* diff **6**. Effetto: **1 Punto Sangue**; retrogusto di ferro/terrore.
 - **Libro dei Nomi** (ledger antico di **soli nomi propri** + note a margine in latino/francese antico).
@@ -79,7 +80,8 @@ Il sangue chiama la pietra, il marchio ascolta.
 ## 3) Ingresso–Salotto (Piano Terra)
 
 > [!info] Per i Giocatori
-> Un tavolo massiccio ingombro di bottiglie e carte. Cera colata dalle candele. Alle pareti ritratti di secoli diversi: alcuni hanno una X rossa, date scritte sotto che risalgono anche a diversi secoli addietro. Accanto alla porta, un generatore spento odora ancora di caldo.
+> Un tavolo massiccio ingombro di bottiglie e carte. Cera colata dalle candele. Alle pareti ritratti di secoli diversi: alcuni hanno una X rossa, date scritte sotto che risalgono anche a diversi secoli addietro. Accanto alla porta, un generatore spento odora ancora di caldo. 
+> Il ritmo si fa più vicino e più netto: **due** pulsazioni distinte, martellanti sopra di voi, come se qualcosa vi stesse scandendo il tempo da appena oltre il soffitto.
 
 > [!tip] Per il Narratore
 > - **Ritratti della corte** (Principe & membri) — alcune figure ricorrono attraverso i secoli. Le date indicano il passaggio da mortale a cainita. Le X rosse indicano la morte definitiva. 

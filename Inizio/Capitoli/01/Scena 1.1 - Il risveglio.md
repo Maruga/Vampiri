@@ -2,36 +2,34 @@
 
 Introduzione alla cronaca.
 
-_Flash_ - La sera è solita. Quella normalità stanca, fatta di luci basse, odore d’asfalto e piccole abitudini. Qualcuno torna dal lavoro. Qualcuno scrolla messaggi sul telefono senza leggerli davvero. Tutto sembra al suo posto… ma qualcosa — impercettibile — è fuori ritmo.  
-Come se il mondo trattenesse il respiro.
+Qualcosa vi costringe a tornare.  
+Non sapete da dove… ma non è un luogo dove gli esseri umani sopravvivono.
 
-**_Buio._**
+La prima sensazione è la _fame_.  
+Non una fame normale: è un artiglio che affonda dentro la vostra mente, che mastica i vostri pensieri prima ancora che possiate recuperarli.  
+È viva. È furiosa.
 
-No... non è solo buio. È qualcosa di più profondo. Come se i miei occhi fossero aperti ma vedessero attraverso una cortina di sangue secco. C'è qualcosa di sbagliato nel mio petto. Non si muove. Perché non si muove?
+Poi arrivano i flash, taglienti come lame:  
+Un volto chino su di voi, troppo pallido.  
+Labbra fredde sulla vostra pelle.  
+Un dolore improvviso e una dolcezza aberrante che vi ha fatto tremare.  
+Il sapore caldo di qualcosa che non avreste mai dovuto assaggiare.  
+Un ordine sussurrato, che ancora vi scuote le ossa… anche se non ricordate le parole.
 
-_Flash -_  Ridete, parlate, bevete. Le luci sembrano un po’ più fioche. Le parole si confondono, la stanza — o forse il mondo — diventa più piccola. Poi lui o lei si avvicina. Lo sguardo fermo, la voce bassa. Una mano sul braccio. Un respiro contro la pelle.  
+Le vostre vecchie vite emergono a scatti:  
+un ricordo felice che si contorce e marcisce;  
+una voce amata che vi implora di tornare;  
 
-Il sapore. dio, il sapore nella mia bocca. Rame e sale e qualcosa di... vivo. Mi alzo di scatto e il mondo gira troppo lentamente, troppo nitido. Posso vedere ogni granello di polvere nell'aria stagnante. Ogni fibra del tessuto macchiato sotto di me. È troppo. TROPPO.
+Il vostro corpo reagisce prima della vostra volontà:  
+le dita che scattano, i denti che stringono, la gola che vuole… _bere_.  
+Qualcosa di primitivo vi accompagna, una presenza che non è un pensiero:  
+è un ringhio.
+Un istinto.  
+Una bestia che reclama il mondo attraverso di voi.
 
-_Flash_ - Un brivido. Calore. Dolore. E poi — piacere. Un piacere che cancella il pensiero, che divora la paura. Per un istante non c’è nulla da temere, nulla da volere. Solo il battito che rallenta. Il corpo che cede.  
-
-**La fame.**
-
-Oh Cristo, la FAME. Non è nello stomaco. È ovunque. Nelle vene che bruciano vuote. Nei denti che pulsano. Nelle mani che tremano non per la paura ma per il BISOGNO. È come l'astinenza da ogni droga moltiplicata per mille. È come affogare nell'aria.
-
-Tocco il collo. Due fori perfetti, già chiusi ma ancora sensibili. La pelle è fredda. La MIA pelle è fredda. Cerco il polso con le dita e... niente. NIENTE.
-
-**"No no no no NO!"**
-
-La mia voce è diversa. Più profonda. C'è qualcosa di predatorio in essa che non c'era prima. Mi alzo e le gambe reggono con una forza che non ho mai avuto. I muscoli si muovono con precisione innaturale. Sono una marionetta che ha appena scoperto di non avere più fili.
-
-**_Flash_ - "..., siamo cenere al vento." Cerchi di ricordare, Chi l'ha detto? "... l’ultima notte da vivi è finita. E la vera storia… comincia adesso."** , ti ripeti in testa Chi l'ha detto?
-
-_Attendere un attimo la reazione dei giocatori._
-
-**C'è qualcuno qui. Lo SENTO.** Il battito del suo cuore è un tamburo nella notte (effetto sonar delle vene pulsanti). Thump-thump. Thump-thump. È nell'edificio accanto? No... un piano sopra. Come faccio a saperlo? Il sangue che scorre nelle sue vene canta per me. Mi chiama.
-
-**La Bestia** - non so perché la chiamo così ma è giusto - si agita dentro di me. Non sono più solo io qui dentro. C'è qualcosa di antico, di affamato, di ALTRO che condivide questo corpo con me.
+Vi state risvegliando.  
+E quello che sta prendendo il vostro posto…  
+…non vi chiederà il permesso.
 
 **E vuole nutrirsi.**
 
@@ -57,6 +55,4 @@ E forse… **non è ancora finito.**
 > [!info] Narratore
 Lasciate ai PG un pò di tempo per guardarsi intorno, sono nello scantinato di un casolare di montagna vicino a Pennabilli. Stanza 11 e 13 in base al numero dei giocatori. Nelle descrizioni iniziali dare impressione di cogliere molti dettagli sull'ambiante.
 
-![[CasolareSiriPennabilli.svg]]
-
-
+![[ScantinatoCasolePennabilli.png]]
