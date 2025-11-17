@@ -62,10 +62,13 @@ Effetti speciali a discrezione del Narratore.
 
 ## Danni e Assorbimento (Soak)
 
-| Tipo di danno   | Tiro di assorbimento | Note |
-|-----------------|----------------------|------|
-| **Contundente / Letale** | Costituzione (+ Armatura) — Diff 6 | I vampiri assorbono entrambi con Costituzione |
-| **Aggravato** | Robustezza (Fortitude) (+ eventuale protezione) — Diff 6 | Senza Fortitude di norma non si assorbe |
+I vampiri subiscono metà dei danni e arrotondano per difetto da Contundente
+
+| Tipo di danno   | Tiro di assorbimento               | Note                      |
+| --------------- | ---------------------------------- | ------------------------- |
+| **Contundente** | Costituzione (+ Armatura) — Diff 6 | Costituzione + Robustezza |
+| **Letale**      | Costituzione (+ Armatura) — Diff 6 | Costituzione + Robustezza |
+| **Aggravato**   | Robustezza (+ Armatura) — Diff 6   | Solo Robustezza           |
 
 > L’armatura aggiunge dadi o riduce il danno.
 

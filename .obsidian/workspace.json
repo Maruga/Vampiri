@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guide/Tiro dei Dadi.md",
+                "file": "Guide/Meccaniche.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Tiro dei Dadi"
+              "title": "Meccaniche"
             }
           },
           {
@@ -253,8 +253,8 @@
   },
   "active": "2e88e9ea4cb13f3a",
   "lastOpenFiles": [
-    "Guide/Meccaniche.md",
     "Guide/Tiro dei Dadi.md",
+    "Guide/Meccaniche.md",
     "Guide/Guida Giocatori.md",
     "Guide/Tipologie di Debiti (Boons).md",
     "Guide/Note di etichetta.md",
