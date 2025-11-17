@@ -1,3 +1,5 @@
+![[IlRisveglio.png]]
+
 [[Meccaniche]] dare un elenco delle meccaniche di gioco
 [[Flashback]] spiegare come funzionano, saranno utili durante l'aventura
 [[Guida Giocatori]] spiega alcune componenti del vampiro, dare nel momento adeguato
