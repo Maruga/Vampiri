@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -251,10 +251,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "2e88e9ea4cb13f3a",
+  "active": "f05607159e668c8b",
   "lastOpenFiles": [
-    "Guide/Tiro dei Dadi.md",
+    "Inizio/Immagini/CasolareSiriPennabilli.png",
     "Guide/Meccaniche.md",
+    "Guide/Tiro dei Dadi.md",
     "Guide/Guida Giocatori.md",
     "Guide/Tipologie di Debiti (Boons).md",
     "Guide/Note di etichetta.md",
@@ -268,7 +269,6 @@
     "Inizio/Materiale/Lettera rifugio.md",
     "Guide/La schiatta de’ Montefeltro.md",
     "Inizio/Materiale/Invito Elisio Pennabilli.md",
-    "Inizio/Immagini/CasolareSiriPennabilli.png",
     "Inizio/Immagini/Invito Elysium del 14 marzo.png",
     "Inizio/Immagini/MappaRifugioForesta.png",
     "Inizio/Capitoli/01/Scena 1.1 - Il risveglio.md",
@@ -292,7 +292,6 @@
     "Strumenti/timer.html",
     "Strumenti/timer 1.html",
     "Strumenti",
-    "Inizio/Png/Anarchici Pennabilli.md",
     "Inizio/Personaggi/Immagini",
     "~$Strumenti.xlsx",
     "Musica/emissary-of-darkness-250732.mp3",
