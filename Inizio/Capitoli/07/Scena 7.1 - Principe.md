@@ -6,7 +6,7 @@
 
 Le porte del salone si aprono con un gemito metallico, lento, come se la pietra stessa non volesse cedere.
 
-Davanti a voi, il cuore antico del castello di San Leo: un salone scavato nella roccia viva, illuminato da decine di candele nere.
+Davanti a voi, il cuore antico del castello di San Leo: un salone scavato nella roccia viva, illuminato da decine di candele.
 
 La luce tremolante gioca sui volti scolpiti delle statue lungo le pareti: santi mutilati, imperatori spezzati, visi che vi osservano con occhi ciechi.
 
