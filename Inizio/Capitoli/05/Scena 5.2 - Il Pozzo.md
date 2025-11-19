@@ -10,13 +10,13 @@ _La pietra dorme finché il sangue non parla.
 Il sangue chiama la pietra, il marchio ascolta._
 
 [[pozzo.png]]
-
+![[pozzo.png]]
 
 #### **1. La discesa**
 
 La scaletta metallica scende lungo il pozzo.  
 Le prime staffe cedono al tatto: arrugginite, spezzate.  
-Ma più in basso… diventano lisce, fredde, nuove.  
+Ma più in basso… diventano lisce, fredde, sembrano nuove.  
 Come se qualcuno le avesse cambiate di recente.
 
 Nessuno parla.  
@@ -28,8 +28,6 @@ Poi, la discesa curva — il pozzo piega, come se seguisse un percorso naturale 
 
 Non c’è porta, non c’è cornice. Solo **un’apertura nuda**.  
 E da dentro arriva **un silenzio più profondo del buio.**
-
----
 
 #### **2. La stanza**
 
@@ -75,7 +73,6 @@ Non è acqua.
 E quando tocca il pavimento, **viene assorbita**.  
 Come se la pietra l’avesse bevuta.
 
-
 #### **4. Il ricordo del Sire**
 
 Esaminando la porta (Percezione + Investigazione) attentamente diff. 8 si può trovare la scritta lasciata dal Sire come promemoria.
@@ -106,8 +103,6 @@ _“Solo chi porta il mio sangue può varcare la pietra viva.”_
 
 Questo serve al Sire nel caso viene intrappolato, la scritta è un promemoria. Nessun aiuto, nessuna istruzione. Non un modo per aiutare i pg, ma un promemoria del Sire per sé stesso.
 
----
-
 #### **5. Il marchio**
 
 > [!info] Se un PG disegna il marchio
@@ -124,7 +119,7 @@ Questo serve al Sire nel caso viene intrappolato, la scritta è un promemoria. N
 > 
 > Al secondo, la polvere cade come sabbia da una clessidra.
 > 
-> Al terzo, la pietra **collassa verso l’interno**, sbriciolandosi in scaglie che si dissolvono nell’aria.
+> All'ultimo, la pietra **collassa verso l’interno**, sbriciolandosi in scaglie che si dissolvono nell’aria.
 > 
 > Il suono è enorme, ma soffocato, come un tuono dentro la terra.
 > 
@@ -136,7 +131,6 @@ Questo serve al Sire nel caso viene intrappolato, la scritta è un promemoria. N
 > 
 > Quello che non avete più.
 
----
 
 #### **6. L’uscita**
 
@@ -149,4 +143,3 @@ Questo serve al Sire nel caso viene intrappolato, la scritta è un promemoria. N
 > Conducono a un livello inferiore.
 > 
 > Lì sotto, una luce sporca pulsa come un cuore nascosto.
-

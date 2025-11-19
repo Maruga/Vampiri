@@ -1,116 +1,174 @@
-# Combattimento
 
-## Azioni Multiple
-dichiarare il numero di azioni, sottrarre **N** dadi dal primo tiro e poi **–1** ulteriore per ogni azione successiva, con il limite che se il pool scende a 0 non puoi farla
+### ⚔️ Azioni Multiple - House Rule
+1. Dichiara quante azioni intendi compiere.
+2. Sottrai **un numero di dadi pari al numero di azioni** dal tuo pool iniziale.
+3. Dividi i dadi rimanenti **tra le azioni**, con almeno **1 dado minimo per azione**.
+4. Le azioni si risolvono nell’ordine dichiarato.
 
-## Iniziativa
-**Tiro:** Destrezza + Prontezza + d10  
-Chi ottiene il risultato più alto agisce per primo.  
-**Celerità** concede azioni extra, ma l’ordine base resta questo.
+### 🕰️ Iniziativa
+- **Tiro:** Destrezza + Prontezza + 1d10
+- Chi ottiene il totale più alto agisce per primo.
+- La Disciplina **Celerità** concede azioni extra, ma non altera l'iniziativa base.
 
-## Attacchi
+### 🗡️ Attacchi
 
-### Pugni / Calci (Rissa)
-- **Tiro:** Destrezza + Rissa — **Diff 6**  
-- **Difese del bersaglio:** Schivare, Blocco (vs Rissa), Parata (se ha arma)  
-- **Danni:** Forza (+ eventuale manovra)  
-- **Tipo:** Contundente
+#### 🥊 Pugni / Calci (Rissa)
+- **Tiro:** Destrezza + Rissa — **Diff 6**
+- **Difese disponibili:** Schivata, Blocco, Parata (se armati)
+- **Danni:** Forza — **Contundente**
 
-### Armi da mischia
-- **Tiro:** Destrezza + Mischia — **Diff 6–7**  
-- **Difese del bersaglio:** Schivare o Parata  
-- **Danni:** Forza + danno arma  
-- **Tipo:** di solito Letale (bastoni possono restare Contundenti)
+#### ⚔️ Armi da mischia leggere (coltelli, bastoni, tubi)
+- **Tiro:** Destrezza + Mischia — **Diff 6–7**
+- **Danni:** Forza + danno arma — **Letale o Contundente**
 
-### Armi da fuoco (es. pistola piccola)
-- **Tiro:** Destrezza + Armi da Fuoco —  
-  **Diff 6 (corta) / 7 (media) / 8 (lunga)**  
-- **Difese del bersaglio:** Schivare (contro il tiro dell’attaccante); copertura, luce e movimento danno modificatori  
-- **Danni:** come da arma (Letale)  
-- **Mira:** 1 turno → +1 dado (cumulabile, a discrezione del Narratore)
+#### 🔫 Armi da fuoco comuni (pistole, revolver)
+- **Tiro:** Destrezza + Armi da fuoco — **Diff 6–8**
+- **Danni:** come da arma — **Letale**
+- **Mira:** +1 dado per turno speso mirando (fino a 3 turni)
 
-### Colpo mirato
-Come attacco normale, ma **+1–3 Diff** secondo la parte del corpo.  
-Effetti speciali a discrezione del Narratore.
+#### 🎯 Colpo mirato
+- Come attacco normale, ma con **+1–3 Diff** a seconda del punto colpito.
+- Può causare effetti speciali (cecità, caduta, ecc.)
 
-### Presa (agganciare)
-- **Tiro:** Destrezza + Rissa — **Diff 6**, opposto a Destrezza + Rissa  
-- In presa: contestazioni **Forza + Rissa** per immobilizzare, infliggere danni o strappare oggetti.
+#### 🤼 Presa (agganciare)
+- **Tiro:** Destrezza + Rissa — **Diff 6**, opposto a Destrezza + Rissa del bersaglio
+- In presa: usa Forza + Rissa per:
+  - Immobilizzare
+  - Infliggere danni
+  - Disarmare
+  - Mordere (se vampiro)
 
-### Disarmo
-- **Tiro:** Destrezza + Mischia — **+1–2 Diff**  
-- Opposto al tiro d’attacco dell’avversario (Destrezza + Mischia)
+#### 🗡️ Disarmo
+- **Tiro:** Destrezza + Mischia — **Diff +1–2**
+- Opposto all’attacco del bersaglio (Destrezza + Mischia)
+- Se vinto, l’avversario perde l’arma.
 
+### 🧛‍♂️ Attacchi naturali del vampiro
 
-# Difese reattive (tiro contro l’attacco)
+#### 🦷 Morso Vampirico
+- Richiede che il bersaglio sia **immobilizzato**, **in presa**, o **consenziente**
+- **Tiro:** Forza + Rissa — **Diff 5** (presa già attiva)
+- **Danni:** Forza +1  
+  - **Contro umani:** effetto sedativo, +1 punto sangue succhiato/turno (max 3)
+  - **Contro vampiri:** **Aggravato**
 
-### Schivare
-- **Tiro:** Destrezza + Schivare — **Diff = tiro dell’attaccante**  
-- Ogni successo del difensore annulla un successo dell’attaccante  
-- Usabile contro Rissa, Mischia e Fuoco (a distanza)
+#### 🐾 Artigliata (Proteide 2)
+- **Tiro:** Destrezza + Rissa — **Diff 6**
+- **Danni:** Forza +1 — **Aggravato**
+- Sostituisce gli attacchi a mani nude se il potere è attivo.
 
-### Blocco
-- **Tiro:** Destrezza + Rissa — Opposto all’attacco  
-- Solo contro attacchi a mani nude o prese
+### 💥 Altre manovre di combattimento
 
-### Parata
-- **Tiro:** Destrezza + Mischia — Opposto all’attacco  
-- Richiede arma o oggetto adeguato  
+#### 🦶 Spinta / Sbilanciare
+- **Tiro:** Forza + Rissa — **Diff 6**
+- Opposto a Destrezza + Atletica del bersaglio
+- Se vinto, il bersaglio cade **prono** (a terra)
 
-> ⚠️ Dichiarare più difese nello stesso turno può dare penalità cumulative.
+#### 💢 Placcaggio / Carica
+- **Tiro:** Forza + Atletica o Rissa — **Diff 6**
+- Danni: Forza +1 (Contundente)
+- Se riesce, può far cadere il bersaglio
 
+#### 🛠️ Armi improvvisate (bottiglie, sedie, catene)
+- **Tiro:** Destrezza + Mischia — **Diff 6–7**
+- **Danni:** Forza +1 — **Contundente**
+- L’arma può rompersi in caso di fallimento
 
-## Danni e Assorbimento (Soak)
+#### 👊 Attacco potente (a due mani)
+- **Effetto:** +2 danni bonus
+- **Malus:** –1 dado all’attacco
+- Usabile con armi impugnabili a due mani
 
-I vampiri subiscono metà dei danni e arrotondano per difetto da Contundente
+#### 🔁 Attacchi combinati (con alleati)
+- Un solo attaccante tira
+- +1 dado bonus per ogni alleato che aiuta
 
-| Tipo di danno   | Tiro di assorbimento               | Note                      |
-| --------------- | ---------------------------------- | ------------------------- |
-| **Contundente** | Costituzione (+ Armatura) — Diff 6 | Costituzione + Robustezza |
-| **Letale**      | Costituzione (+ Armatura) — Diff 6 | Costituzione + Robustezza |
-| **Aggravato**   | Robustezza (+ Armatura) — Diff 6   | Solo Robustezza           |
+#### 🔄 Attacco furtivo / da sorpresa
+- Se l’attaccante non è visto: +2 dadi, difese impossibili
+- Dopo il primo turno, si entra in combattimento normale
 
-> L’armatura aggiunge dadi o riduce il danno.
+---
 
-## Azioni fisiche
+### 🛡️ Difese Reattive
 
-| Azione                   | Tiro                         | Diff | Opposto / Note                 |
+#### 🕴️ Schivata
+- **Tiro:** Destrezza + Schivare
+- **Diff = Successi attaccante**
+- Ogni successo annulla 1 successo dell’attaccante
+- Valida contro Rissa, Mischia e Fuoco
+
+#### 🛑 Blocco (mani nude)
+- **Tiro:** Destrezza + Rissa — Opposto all’attacco
+- Solo contro attacchi corpo a corpo
+
+#### 🗡️ Parata (con arma)
+- **Tiro:** Destrezza + Mischia — Opposto all’attacco
+- Richiede arma o oggetto adatto
+
+> ⚠️ Usare più difese nello stesso turno applica penalità cumulative.
+
+---
+
+### 💢 Danni e Assorbimento (Soak)
+
+| Tipo di Danno | Assorbimento                         | Note                                           |
+| ------------- | ------------------------------------ | ---------------------------------------------- |
+| Contundente   | Costituzione + Robustezza + Armatura | I vampiri dimezzano questi danni               |
+| Letale        | Costituzione + Robustezza + Armatura | I mortali li subiscono interamente             |
+| Aggravato     | **Solo** Robustezza (+ Armatura)     | Vampiri possono assorbirlo solo con Robustezza |
+
+> 🛡️ L’armatura fornisce dadi bonus o riduce danni.  
+> I vampiri dimezzano i danni Contundenti (arrotondati per difetto).
+
+---
+
+### 🏃‍♂️ Azioni Fisiche
+
+| Azione                   | Tiro                         | Diff | Note / Opposto                 |
 | ------------------------ | ---------------------------- | ---- | ------------------------------ |
-| Correre / Atletica       | Destrezza o Forza + Atletica | 6–7  |                                |
+| Correre / Fuggire        | Destrezza o Forza + Atletica | 6–7  |                                |
 | Arrampicarsi             | Forza + Atletica             | 6–8  |                                |
-| Muoversi Silenziosamente | Destrezza + Furtività        | 6–8  | Opposto a Percezione + Allerta |
-| Nascondersi              | Destrezza + Furtività        | 6–8  | Opposto a Percezione + Allerta |
+| Muoversi silenziosamente | Destrezza + Furtività        | 6–8  | Opposto a Percezione + Allerta |
+| Nascondersi              | Destrezza + Furtività        | 6–8  | Idem                           |
 | Percepire minacce        | Percezione + Allerta         | 6    |                                |
-| Inseguimenti veicolari   | Destrezza + Guida            | 6–8  | Opposto a Destrezza + Guida    |
-## Azioni sociali
+| Inseguimento veicolare   | Destrezza + Guida            | 6–8  | Opposto a Destrezza + Guida    |
 
-| Azione                  | Tiro                                             | Diff | Resistenza / Note                |
-| ----------------------- | ------------------------------------------------ | ---- | -------------------------------- |
-| Intimidire              | Forza o Carisma + Intimidazione                  | 6–8  | Forza di Volontà o sangue freddo |
-| Persuadere / Convincere | Carisma o Manipolazione + Espressione/Leadership | 6–8  | Intelligenza o Forza di Volontà  |
-| Mentire / Raggirare     | Prontezza o Manipolazione + Sotterfugio          | 6–8  | Opposto a Percezione + Empatia   |
-| Etichetta / Elysium     | Carisma + Galateo (Etichetta)                    | 6    |                                  |
-| Comandare in crisi      | Carisma + Leadership                             | 6–7  |                                  |
+---
 
-## Indagine / Tecnico
+### 🗣️ Azioni Sociali
 
-| Azione                   | Tiro                                      | Diff | Note |
-| ------------------------ | ----------------------------------------- | ---- | ---- |
-| Osservare dettagli       | Percezione + Investigazione               | 6–8  |      |
-| Scassinare (fisico)      | Destrezza + Sicurezza                     | 6–8  |      |
-| Allarmi / Impianti       | Intelligenza + Sicurezza                  | 6–8  |      |
-| Ricerca digitale / OSINT | Intelligenza + Informatica                | 6–7  |      |
-| Medicina di base         | Intelligenza + Medicina                   | 6–7  |      |
-| Occultismo               | Intelligenza + Occultismo                 | 6–8  |      |
-| Sopravvivenza            | Percezione o Intelligenza + Sopravvivenza | 6–7  |      |
+| Azione                     | Tiro                                             | Diff | Opposto / Resistenza            |
+| -------------------------- | ------------------------------------------------ | ---- | ------------------------------- |
+| Intimidire                 | Forza o Carisma + Intimidazione                  | 6–8  | Forza di Volontà o freddezza    |
+| Persuadere / Convincere    | Carisma o Manipolazione + Espressione/Leadership | 6–8  | Intelligenza o Forza di Volontà |
+| Mentire / Ingannare        | Prontezza o Manipolazione + Sotterfugio          | 6–8  | Percezione + Empatia (opposto)  |
+| Etichetta (Elysium, corte) | Carisma + Etichetta                              | 6    | Ruolo sociale                   |
+| Comandare in crisi         | Carisma + Leadership                             | 6–7  | Se fallito, caos o panico       |
 
-## Virtù, Umanità, Volontà
+---
 
-| Azione                       | Tiro                      | Diff      | Note                                                           |
-| ---------------------------- | ------------------------- | --------- | -------------------------------------------------------------- |
-| Resistere alla Frenesia      | Autocontrollo (o Istinto) | 5–9       |                                                                |
-| Resistere al Rötschreck      | Coraggio                  | 5–9       |                                                                |
-| Rimorso / Perdite di Umanità | Coscienza (o Convinzione) | variabile |                                                                |
-| **Forza di Volontà (spesa)** | —                         | —         | Spendere 1 FV = 1 successo automatico su un tiro (max 1/turno) |
+## 🧠 Indagine e Competenze Tecniche
 
-> *Sistema pensato per cronache World of Darkness / Vampiri: la Masquerade (edizioni classiche).*
+| Azione                   | Tiro                                      | Diff | Note                             |
+| ------------------------ | ----------------------------------------- | ---- | -------------------------------- |
+| Cercare indizi / prove   | Percezione + Investigazione               | 6–8  |                                  |
+| Scassinare serratura     | Destrezza + Sicurezza                     | 6–8  | Anche trappole meccaniche        |
+| Disattivare allarmi      | Intelligenza + Sicurezza                  | 6–8  |                                  |
+| Hackeraggio / OSINT      | Intelligenza + Informatica                | 6–7  | Accesso sistemi, cancellare dati |
+| Primo soccorso           | Intelligenza + Medicina                   | 6–7  | Fermare sanguinamenti, rianimare |
+| Conoscenze occulte       | Intelligenza + Occulto                    | 6–8  | Riti, creature, simboli arcani   |
+| Sopravvivenza ambientale | Percezione o Intelligenza + Sopravvivenza | 6–7  | Trovare rifugio, orientarsi      |
+
+---
+
+## 🧠 Virtù, Umanità e Forza di Volontà
+
+| Situazione                       | Tiro                      | Diff | Note                                                     |
+|----------------------------------|---------------------------|------|----------------------------------------------------------|
+| Resistere alla Frenesia          | Autocontrollo (o Istinto) | 5–9  | Modificata da fame, provocazione, e ambiente             |
+| Resistere al Rötschreck (terrore)| Coraggio                  | 5–9  | Attivato da fuoco, sole, simboli religiosi               |
+| Rimorso (perdita Umanità)        | Coscienza (o Convinzione) | variabile | Usato dopo atti disumani / violazioni dell’Umanità  |
+| Spendere Forza di Volontà        | —                         | —    | 1 FV = 1 successo automatico su un tiro (1/turno)        |
+
+> 📌 Il sistema morale è parte essenziale della narrazione. Ignorarlo significa abbracciare la Bestia.
+

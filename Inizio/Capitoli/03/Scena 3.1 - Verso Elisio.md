@@ -31,13 +31,10 @@ I PG devono decidere se parlare, nascondersi o affrontarli.
 
 > **Mauro (Croce):**  
 > «Tranquilli, non stiamo cercando rogne. Solo… sapete, la notte qui è piccola. E quando arrivano volti nuovi, ci piace capire con chi abbiamo a che fare.»  
->  
 > **Giada:**  
 > «Non puzzate di sangue umano… ma non siete nemmeno con *loro*, vero? Quelli del Principe.»  
->  
 > **Leo:**  
-> (ride sommessamente) «Forse li manda lo Sceriffo. Guarda come si tengono dritti.»  
-
+> (ride sommessamente) «Forse li manda il Dott. Flagello. Guarda come si tengono dritti.»  
 
 
 ## Tiri suggeriti
@@ -51,7 +48,6 @@ I PG devono decidere se parlare, nascondersi o affrontarli.
 
 > [!important] Rissa
 > Mauro comunque li vuole testare e in qualche modo fa scattare la risa, deve capire se eventualmente possono unirli al gruppo.
-
 
 ## Evoluzione della scena
 
@@ -102,38 +98,32 @@ Da qui, parte la **scena successiva: Alt dei Carabinieri o Fuga**.
 | --------------- | -------------------- | ------------------------ |
 | Fuga nei vicoli | Destrezza + Atletica | 4–5 prolungata 2/3 turni |
 |                 |                      |                          |
-
-
 ## Alt Carabinieri
 
 #### Obiettivi Narrativi
 
 - Far credere ai PG di avere una scelta (fuggire o arrendersi), ma nessuna via reale di fuga.  
-- Mostrare l’autorità dello Sceriffo come qualcosa di sovrumano ma *non apertamente rivelato*.  
+- Mostrare l’autorità del Flagellatore come qualcosa di sovrumano ma *non apertamente rivelato*.  
 - Chiudere con una morte “ufficiale” che mantiene intatta la Masquerade.  
 
+**Il flagellatore viene avvisato e arriva sul posto per fare un controllo, circa 30 minuti da quando vengono arrestati.**
+**Uno dei Carabinieri è un vampiro con la disciplina di Auspex**
 
 ## Sintesi dei tiri consigliati
 
 | Azione                                | Tiro                 | Difficoltà | Esito                                                |
 | ------------------------------------- | -------------------- | ---------- | ---------------------------------------------------- |
-| Resistere all’aura dello Sceriffo     | Freddezza + Volontà  | 5          | Successo = autocontrollo, Fallimento = sottomissione |
+| Resistere all’aura del Flagellatore   | Freddezza + Volontà  | 7          | Successo = autocontrollo, Fallimento = sottomissione |
 | Notare vampiro o dettagli inquietanti | Percezione + Occulto | 4          | Successo = sospetto sovrannaturale                   |
 | Opporsi fisicamente all’arresto       | Forza + Lotta        | 5          | Sconfitti dai ghoul comunque                         |
-
----
-
-Dopo qualche turno di rissa con gli anarchici, suonano le sirene dei carabinieri, i PG possono scappare oppure fermarsi all'alt dei Carabinieri. Questi intimano alt o sparo.
-
 #### Fermati dai carabinieri
 Si fermano o vengono presi.
-Un carabiniere li riconosce come quelli segnalati dai parenti come scomparsi, ha già deciso che devono morire ma non vuole fare casino e rompere la regola della Masquerade, quindi fa di tutto per trattenerli e poi simulare un incidente. In pratica sono vampiri senza sire non riconosciuti, la morte ultima è l'unica soluzione.
+Un carabiniere avvisa il suo padrone, la sentenza è ha decisa, devono morire ma non vuole fare casino e rompere la regola della Masquerade, quindi fa di tutto per trattenerli e poi simulare un incidente. In pratica sono vampiri senza sire non riconosciuti, la morte ultima è l'unica soluzione.
 
-Sceriffo: Valter Belloni
-La figura visino alla macchina.
+Maresciallo: Valter Belloni
 
 > [!NOTE] L'auto di un giocatore
-> Uno dei giocatori quando viene caricato sulla camionetta per essere, questo quello che credono i PG, portato in centrale; la sua macchina parcheggiata poco distante con uno strano individuo vicino, se vuole capire può tirare percezione + occulto diff 4, scopre che è un vampiro.
+> Uno dei giocatori quando viene caricato sulla camionetta per essere, questo quello che credono i PG, portato in centrale; la sua macchina parcheggiata poco distante con uno strano individuo vicino, se vuole capire può tirare percezione + occulto diff 4, non sembra proprio umano.
 
 Telegiornale annuncio [[Incidente Stradale]]
 

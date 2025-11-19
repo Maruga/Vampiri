@@ -43,3 +43,15 @@ Versione lunga
 Esempio:
 
 “Onoro il Principe Bellini, la Camarilla e questa corte; porgo i dovuti rispetti al Senescallo, alle Arpie e al Custode dell’Elysium. Mi presento: Alessandro Moretti, Neonato, del Clan Ventrue, progenie di Claudia Savelli, con precedente riconoscimento presso il dominio di Firenze. Giungo a Milano per affari e porto assicurazioni di condotta dal Primogenito Ventrue di Firenze. Non rechi minacce alla Masquerade, non porto faide aperte né favori pendenti in questo dominio; chiedo riconoscimento, ospitalità e permesso di caccia secondo le consuetudini locali. Resto a disposizione della corte per eventuali disposizioni.”
+
+## 🎭 Versione Media – Cerimoniale, diretta
+
+> “Rendo omaggio al Principe Conte di Cagliostro, Signore del Dominio,  
+> e porgo deferenza al Senescallo Marcus Livius Umbra,  
+> al Custode dell’Elysium, e alle nobili Arpie che vegliano su questa corte.  
+>  
+> Mi presento: **[Nome Cognome]**, Neonato del Clan **[Clan]**.  
+> Senza Sire, e non porto lettere di presentazione né segni di patrocinio.  
+>  
+> Umilmente, chiedo riconoscimento formale e permesso di caccia,  
+> affinché possa servire il dominio secondo le leggi e le consuetudini della Camarilla.”

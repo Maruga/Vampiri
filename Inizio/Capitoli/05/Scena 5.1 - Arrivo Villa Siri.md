@@ -1,6 +1,6 @@
 #Completato
 [[Villa Laboratorio.jpg]]
-
+![[VillaLaboratorioFronte.png]]
 ### Arrivo
 La strada muore davanti a un **portone massiccio** incassato in un muro alto, soffocato dall’**edera**. Il legno, scuro e gonfio d’umidità, è fasciato da **bandelle di ferro**; tra le assi spuntano **punte di chiodi** arrugginite che tradiscono una **inchiodatura dall’interno**. La **bocca della serratura** è piena di ruggine, l’anello del battente non oscilla nemmeno. 
 Ai lati, le **finestre** sono **sbarrate** con assi e grate: vetri opachi, piombo spaccato, fessure riempite di polvere.  
@@ -94,9 +94,7 @@ Sotto un olmo inclinato. Cordonata di pietra consumata **solo in un punto**, com
 **Cose che lo rendono “interessante senza dirlo”:**
 
 - L’aria **scende** nel pozzo quando tutti tacciono, poi **risale** lentamente. Si sente un **gocciare** ritmico che non coincide con il meteo.
-    
 - Sul bordo interno, strisciate sottili come di **anelli** o di **guanti ruvidi** usati spesso.
-       
 - Una **scala di pioli** è fissata alla parete: i **primi due** pioli sono **marci e rotti**, il terzo traballa… poi, scendendo la torcia/telefono, i pioli successivi appaiono **perfettamente sani**, legno più nuovo, bulloni **lucidi**.
 
 
@@ -104,21 +102,14 @@ Sotto un olmo inclinato. Cordonata di pietra consumata **solo in un punto**, com
 
 Con una luce forte si intravede, sotto i primi due metri, la parete **asciutta**, non limosa: qualcuno mantiene **pulita** la discesa. A circa 4–5 metri, la pietra cambia: inizia un **rivestimento più recente** (cemento anni ’50?) che suggerisce una **galleria laterale** o una **cisterna**.
 
-
 _Prove utili (Vampiri: la Masquerade :_
 
 - **Percezione + Allerta (Diff 6)** per notare la pietra del bordo consumata sempre nello stesso punto e il “respiro” d’aria che sale e scende dal pozzo. _+1 alla Diff se c’è vento o rumore; –1 se si chinano con luce ferma._
-    
 - **Intelligenza + Artigianato (specialità: Carpenteria/Edilizia) – Diff 7** per capire che la scala è stata **riparata di recente** _solo_ dalla terza spanna in giù (pioli nuovi, bulloni lucidi, lavoro di mano esperta). _–1 alla Diff se hanno gli attrezzi/tempo per ispezionare; –1 se usano Auspex 1 (Sensi Acuti)._
-    
 - **Autocontrollo** _(o **Istinto** se non seguono l’Umanità)_ **(Diff 6)** per reprimere l’impulso irrazionale/ansioso generato dal buio del pozzo e dall’odore ferroso. _Porta a 7 se sono già tesi o a bassa Forza di Volontà._
-    
     - **Fallimento:** mani che tremano, lieve esitazione: **+1 Diff** a prove delicate finché restano al pozzo.
-        
     - **3+ successi:** restano freddi, possono affacciarsi e valutare la discesa senza penalità.
     
-
----
 
 
 ## Casa della servitù – il cane del cortile
@@ -180,15 +171,10 @@ Con un ultimo abbaio rotto, gira la coda tra le gambe e **fugge** nella notte, s
 ## micro-eventi per tenere l’ansia (1 ogni 5–10 minuti)
 
 1. Ondine nel laghetto che **convergono** al centro senza vento.
-    
 2. Un ramo dell’olmo sopra il pozzo **scricchiola** come se ci fosse peso.
-    
 3. Un profumo breve di **mirra** vicino agli alberi incisi; sparisce se cercato.
-    
 4. Dal fondo del pozzo un **colpo sordo**, poi nulla.
-    
 5. Un’ombra passa dietro i teli della serra… ma i teli non si muovono.
-    
 6. Un cane lontano **smette** di abbaiare di colpo e non riprende.
     
 

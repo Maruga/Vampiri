@@ -205,6 +205,7 @@ Consegnateli a me, perché ora vi appartengono.”
 
 ---
 _(lascia che i giocatori dicano i loro nomi)
+[[Note di etichetta]]
 
 ---
 
