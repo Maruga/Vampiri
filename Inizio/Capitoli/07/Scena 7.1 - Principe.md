@@ -1,8 +1,8 @@
 
 #### Scena: La Sala delle Armi
 
-![[ConteCagliostro.png]]
 [[Sala Delle Armi San Leo.mp3]]
+![[PrincipeSanLeo.png]]
 
 Le porte del salone si aprono con un gemito metallico, lento, come se la pietra stessa non volesse cedere.
 
@@ -167,11 +167,11 @@ Si china appena, la voce ora come una carezza sul filo del rasoio:
 
 _I PG non vedo cosa succede.
 
-#### Pg Decapitato
+#### PG Decapitato
 Un suono tagliente, un tonfo.  
 L’odore di cenere si mescola al silenzio.
 
-#### Se un pg guarda
+#### Se un PG guarda
 ... contro ogni istinto **alzi lo sguardo**.  
 Solo allora capisci l’errore.  
 Gli occhi del Principe incontrano i tuoi — freddi, assoluti.  
