@@ -92,7 +92,7 @@
 ### 🛡️ Difese Reattive
 
 #### 🕴️ Schivata
-- **Tiro:** Destrezza + Schivare
+- **Tiro:** Destrezza + Schivare/Atletica
 - **Diff = Successi attaccante**
 - Ogni successo annulla 1 successo dell’attaccante
 - Valida contro Rissa, Mischia e Fuoco
