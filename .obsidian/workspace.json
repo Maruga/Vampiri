@@ -11,14 +11,28 @@
             "id": "6a5a1aee80f5ab75",
             "type": "leaf",
             "state": {
+              "type": "split-diff-view",
+              "state": {
+                "aFile": ".obsidian/workspace.json",
+                "bFile": ".obsidian/workspace.json",
+                "aRef": ""
+              },
+              "icon": "diff",
+              "title": "Diff: workspace.json"
+            }
+          },
+          {
+            "id": "3903464a6ca41a45",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Guide/Guida Giocatori.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guida Giocatori"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ]
@@ -202,7 +216,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -224,8 +238,9 @@
   },
   "active": "6a5a1aee80f5ab75",
   "lastOpenFiles": [
-    "Guide/La schiatta de’ Montefeltro.md",
+    "conflict-files-obsidian-git.md",
     "Guide/Guida Giocatori.md",
+    "Guide/La schiatta de’ Montefeltro.md",
     "Inizio/Immagini/13regole.png",
     "Guide/Cariche della Camarilla.md",
     "Guide/Flashback.md",
