@@ -4,7 +4,7 @@
 [[Sala Delle Armi San Leo.mp3]]
 ![[PrincipeSanLeo.png]]
 
-Le porte del salone si aprono con un gemito metallico, lento, come se la pietra stessa non volesse cedere.
+Le porte del salone si aprono con un gemito metallico, lento, come se la pietra stessa non volesse cedere...
 
 Davanti a voi, il cuore antico del castello di San Leo: un salone scavato nella roccia viva, illuminato da decine di candele.
 
