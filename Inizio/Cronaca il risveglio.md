@@ -1,9 +1,11 @@
 ![[IlRisveglio.png]]
 
+[[Tiro dei Dadi]]  Spiegazione dei pool di dadi e critici in generale
 [[Meccaniche]] dare un elenco delle meccaniche di gioco
-[[Flashback]] spiegare come funzionano, saranno utili durante l'aventura
+[[Flashback]] spiegare come funzionano, saranno utili durante l'avventura
 [[Guida Giocatori]] spiega alcune componenti del vampiro, dare nel momento adeguato
 [[Orologi]] spiega il funzionamento degli orologi ma non andare nel dettaglio
+
 
 ### "Dark Souls-like"
 
