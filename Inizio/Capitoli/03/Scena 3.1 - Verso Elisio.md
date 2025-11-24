@@ -1,9 +1,8 @@
-# Scena: Incontro con gli Anarchici (Pennabilli)
 
-**Luogo:** vie secondarie di **Pennabilli**, ore 01:30/2:00 circa.  
+### Verso Pennabilli
+I PG si avvicinano a Pennabilli, devono decidere come entrare e come attraversare il paese per andare al palazzo.
 
-
-## Introduzione per i giocatori
+### Incontro con anarchici
 
 > Pennabilli dorme. Solo il vento attraversa i vicoli, e il rumore dei vostri passi risuona come un’eco lontana.  
 > Poi, da un cortile laterale, arrivano voci soffocate, un accendino, una risata rauca.  

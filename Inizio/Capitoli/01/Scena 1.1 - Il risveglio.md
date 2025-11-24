@@ -1,37 +1,17 @@
 ### Il Primo Respiro Morto
 
-Introduzione alla cronaca.
+Qualcosa vi trascina indietro… da un luogo che non appartiene ai vivi.  
+La prima cosa che sentite è **la fame** — non uno stimolo, ma una bestia. **Viva. Furiosa. Vostra.**
+Ricordi frammentati:  
+un volto pallido, labbra gelide, dolore e piacere fusi in un morso.  
+Un ordine che non ricordate, ma che vi domina ancora.
 
-Qualcosa vi costringe a tornare.  
-Non sapete da dove… ma non è un luogo dove gli esseri umani sopravvivono.
+Il passato marcisce nei vostri pensieri.  
+Il corpo si muove prima della volontà: dita scattano, denti digrignano, la gola brucia per **sangue**.
 
-La prima sensazione è la _fame_.  
-Non una fame normale: è un artiglio che affonda dentro la vostra mente, che mastica i vostri pensieri prima ancora che possiate recuperarli.  
-È viva. È furiosa.
+Dentro di voi si è svegliato qualcosa che **non vi chiederà il permesso**.
 
-Poi arrivano i flash, taglienti come lame:  
-Un volto chino su di voi, troppo pallido.  
-Labbra fredde sulla vostra pelle.  
-Un dolore improvviso e una dolcezza aberrante che vi ha fatto tremare.  
-Il sapore caldo di qualcosa che non avreste mai dovuto assaggiare.  
-Un ordine sussurrato, che ancora vi scuote le ossa… anche se non ricordate le parole.
-
-Le vostre vecchie vite emergono a scatti:  
-un ricordo felice che si contorce e marcisce;  
-una voce amata che vi implora di tornare;  
-
-Il vostro corpo reagisce prima della vostra volontà:  
-le dita che scattano, i denti che stringono, la gola che vuole… _bere_.  
-Qualcosa di primitivo vi accompagna, una presenza che non è un pensiero:  
-è un ringhio.
-Un istinto.  
-Una bestia che reclama il mondo attraverso di voi.
-
-Vi state risvegliando.  
-E quello che sta prendendo il vostro posto…  
-…non vi chiederà il permesso.
-
-**E vuole nutrirsi.**
+**E ha fame.**
 
 > [!important] Title
 > I PG non sanno in che luogo si trovano, devono scoprirlo avventurandosi fuori dalla casa, decidere se si vuole attuare il confronto con i lupini oppure farli andare verso Pennabilli.
