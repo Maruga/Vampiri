@@ -1,4 +1,4 @@
-Mappa del palazzo, incontro con la Custode dell’Elysium (in realtà è solo un ex-ghoul) non ha questo titolo ma lei lo fregia come suo.  
+Incontro con la Custode dell’Elysium (in realtà è solo un ex-ghoul) non ha questo titolo ma lei lo fregia come suo.  
 Trovano nelle sale anche un documento che lo rende ora un Elisio decaduto, se non viene trovato la custode lo mostra. [[Elisio Pennabilli Decaduto]]
 
 > [!important]
@@ -7,7 +7,7 @@ Trovano nelle sale anche un documento che lo rende ora un Elisio decaduto, se no
 La custode se chiesto è disposta a scrivere una lettera di presentazione, l’Arpia gli deve un piccolo favore, in cambio ogni PG avrà per ora un favore minore nei confronti della custode. Se l’Arpia salva i PG diventando loro mentore allora il favore diventa maggiore.
 
 > [!important]
-> La custode conosce anche la villa segreta dove vengono fatti esperimenti, che poi è anche la causa della chiusura dell’Elisio.
+> La custode conosce anche la villa dei siri, sa di un laboratorio sotto, le voci rimbombano nell'Elysium, i siti sono la causa della chiusura dell’Elysium.
 
 Se i pg non hanno modo di come muoversi, gli presta una vecchia auto ancora funzionante. Fiat Panda (seconda generazione, 2003–2012) grigio fumo, qualche graffio, cerchioni in acciaio. “semplice come una cassetta degli attrezzi.”
 
@@ -35,7 +35,7 @@ Pennabilli dorme. Le stradine sono deserte, le luci spente, il vento trascina fo
 Il **Palazzo del Bargello** domina ancora la piazza, ma sembra più un mausoleo che un museo. Le finestre sono buie, il portone sbarrato con assi inchiodate e catene.  
 Sul muro, una targa comunale sbiadita:
 
-_“Restauro sospeso – Proprietà sotto vincolo storico.”_
+_“Restauro in corso – Proprietà sotto vincolo storico.”_
 
 Chi si avvicina percepisce qualcosa di sbagliato:  
 un silenzio troppo denso, un’eco che risponde ai passi anche quando nessuno parla.
@@ -46,16 +46,16 @@ un silenzio troppo denso, un’eco che risponde ai passi anche quando nessuno pa
 
 Sul retro del palazzo, tra due vicoli stretti, una **grata metallica** semiaperta conduce a un vecchio accesso di servizio:
 
-- Una porticina in pietra, serratura arrugginita, sigillo spezzato da tempo.
-- Dentro, un corridoio in discesa verso le fondamenta.
+- Una porticina in pietra, serratura arrugginita, lucchetto spezzato da tempo.
+- Dentro, un corridoio leggermente in salita, odore acre di chiuso, eco dei propri passi.
 - L’odore di muffa e incenso antico si mescola all’umido del tufo.
 - L’aria è ferma, ma ogni tanto si sente un _toc… toc… toc…_ come un bastone sul pavimento.
-
----
 
 #### **LA CUSTODE**
 
 [[CustodeAgataPrimoIncontro.png]]
+_Il palazzo è ancora disseminato di sensori che avvisano Agense._
+
 Dal silenzio della grande sala si leva il fruscio lieve d’un passo.  
 Una figura minuta, avvolta in un abito d’epoca che pare aver assorbito la polvere dei secoli, avanza con compostezza.  
 La sua voce è bassa, ferma, come di chi ha parlato a principi e prelati, e non teme la presenza di nuovi immortali.
@@ -143,11 +143,9 @@ Era… pace, per quanto i nostri cuori sapessero ricordarla.”
 (Pausa)  
 “Ora le parole si sono spente. Restano solo gli echi.”
 
-Se un PG commenta il silenzio:
-
+Se un PG commenta:
 “Il Bargello non tace. Sussurra.  
 Se ascoltate bene, sentirete ancora il brindisi dell’ultima notte.”
-
 
 #### **Corridoio dei Ritratti**
 
@@ -161,9 +159,7 @@ Un debito è una moneta, un favore è un’arma.
 Nessuno è libero. Nessuno.”
 
 Se un PG chiede _“E se non si paga?”_
-
 “Si scompare. Prima dalle conversazioni… poi dalle strade.”
-
 
 #### **Il Balcone del Principe**
 
@@ -172,11 +168,9 @@ Sotto, la vallata è immersa nel buio.
 
 **Agnese:**  
 “Da qui parlava il Principe. Nessuno lo guardava negli occhi.  
-Al suo fianco, lo Sceriffo. La lama della notte.  
+Al suo fianco, il Maresciallo. La lama della notte.  
 Io portavo il vino. Non ho mai sentito parole tanto fredde.”
-
 _(Un lampo illumina i tetti; lei si volta con un sorriso triste.)_
-
 “Eppure… era ordine. E l’ordine è vita.”
 
 Cercando Percezione + Investigazione
@@ -250,7 +244,7 @@ Io non ho mai chiesto. Ma da quella notte il mio Sire non tornò più.”
 
 _Agnese conosce l'ubicazione della Villa e suggerisce di andare se vogliono risposte_
 
-I siri dei giocatori e altri vampiri chiedono la chiusura perché un patto con i Lupini, nessuno deve sapere, il Custode doveva un favore maggiore ed è stato costretto a chiudere.
+_I siri dei giocatori e altri vampiri chiedono la chiusura perché un patto con i Lupini, nessuno deve sapere, il Custode doveva un favore maggiore ed è stato costretto a chiudere._
 
 Cercando si può trovare [[SentenzaUltimaMorte.png]] [[Sentenza Camarilla Romana]]
 

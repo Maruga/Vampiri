@@ -20,12 +20,12 @@ Quando vi notano, la risata si spegne. Uno di loro — un tipo alto con una giac
 | **Leo**           | Giacca militare, parla poco                          | Silenzioso e nervoso        | Ghoul al servizio di Mauro.                                      |
 | **Sacco**         | Cappuccio, volto in ombra                            | Si tiene in disparte        | È un vampiro più anziano, osserva i PG. Brujah.                  |
 
-Sono **Anarchici locali**: non ufficialmente riconosciuti, ma si muovono liberamente in Valmarecchia. Vedono i PG come potenziali reclute… li vogliono testare.
+Sono **Anarchici locali**: si muovono liberamente in Valmarecchia. Vedono i PG come potenziali reclute… li vogliono testare.
 
 ## Scena di contatto
 
 **Tono:** sospettoso, aggressivo, ma non subito violento.  
-I PG devono decidere se parlare, nascondersi o affrontarli.  
+Lo scambio di frasi o pugni comunque vada attira l'attenzione e vengono chiamati i carabinieri.
 
 > **Mauro (Croce):**  
 > «Tranquilli, non stiamo cercando rogne. Solo… sapete, la notte qui è piccola. E quando arrivano volti nuovi, ci piace capire con chi abbiamo a che fare.»  
@@ -34,98 +34,130 @@ I PG devono decidere se parlare, nascondersi o affrontarli.
 > **Leo:**  
 > (ride sommessamente) «Forse li manda il Dott. Flagello. Guarda come si tengono dritti.»  
 
-
-## Tiri suggeriti
-
-| Situazione                         | Tiro                                                | Difficoltà | Esito                                                                        |
-| ---------------------------------- | --------------------------------------------------- | ---------- | ---------------------------------------------------------------------------- |
-| Capire che non sono umani          | **Percezione + Occulto**                            | 7          | I PG notano occhi troppo lucidi, pelle troppo pallida, movimenti coordinati. |
-| Evitare che la situazione degeneri | **Carisma + Persuasione** o **Carisma + Raggirare** | 4          | Li convincono a parlare invece di combattere.                                |
-| Se provocano gli Anarchici         | **Freddezza + Intimidire**                          | 5          | Mauro reagisce male → scatta la rissa.                                       |
-| Capire che non sono umani          | Percezione + Empatia (Diff 8)                       | 8          | Auspex 2                                                                     |
-
-> [!important] Rissa
-> Mauro comunque li vuole testare e in qualche modo fa scattare la risa, deve capire se eventualmente possono unirli al gruppo.
-
 ## Evoluzione della scena
 
-- Se i PG **restano calmi**, gli Anarchici si aprono: parlano della **pressione del Principe di Rimini**, del controllo della zona e della “guerra fredda” che cova tra Camarilla e Anarchici.  
-  - Possono offrire *un patto temporaneo* o chiedere cosa fanno i PG in città.  
-  - Giada può percepire la “Bestia” e chiedere in tono crudo:  
-    > «Da quanto non bevete, eh? Non vi sentite… troppo pieni per essere nuovi?»  
+- Giada può percepire la “Bestia” e chiedere in tono crudo:  
+	- «Da quanto non bevete, eh? Non vi sentite… troppo pieni per essere nuovi?»  
 
 - Se i PG **mentono male o mostrano debolezza**, Mauro li provoca.  
-  - Si avvicina, punta il dito contro uno di loro, poi ride.  
-  - «State attenti. Qui la notte è piccola, e chi mente non arriva all’alba.»
+- Si avvicina, punta il dito contro uno di loro, poi ride.  
+	- «State attenti. Qui la notte è piccola, e chi mente non arriva all’alba.»
 
-- Se i PG **attaccano o reagiscono**, scatta la **rissa** (3–4 turni rapidi, arma bianca e mani nude).  
-  - Rumore, vetri rotti, urla → in lontananza **le sirene dei Carabinieri** (che introdurranno la scena successiva con Valter Belloni).  
+- Se i PG **attaccano o reagiscono**, scatta la **rissa** (1–2 turni rapidi, arma bianca e mani nude).  
+- Gli anarchici non usano mai le loro discipline che possono violare la Masquerade, farlo notare ai giocatori.
+- Rumore, urla → **le sirene dei Carabinieri** (che introdurranno la scena successiva con Valter Belloni).  
 
----
-
-## Atmosfera (per il Narratore)
-
-Pennabilli è antica, silenziosa, e di notte ha un’aria sospesa.  
-Gli Anarchici non appartengono a quel luogo — sembrano quasi stonare, come un errore nella realtà.  
-I lampioni tremolano, e ogni ombra sembra muoversi da sola.  
-Sotto l’apparente spavalderia, si percepisce **paura**: anche loro temono lo Sceriffo e il Principe.
-
----
-
-## Frasi utili per l’improvvisazione
+#### Frasi utili per l’improvvisazione
 
 - «Ti piacciono le colline, eh? Sotto quelle pietre ci sono più ossa che terra.»  
 - «Noi non obbediamo a nessuno, ma il Principe non dimentica. Neanche i suoi cani.»  
 - «Senti come ulula il vento? È l’unico che può gridare qui, senza che lo puniscano.»  
 
----
+### Chiusura della scena
 
-## Chiusura della scena
+_La tensione deve restare alta._  
+_Dopo qualche turno che "schiamazzano" arrivano i carabinieri._
 
-La tensione deve restare alta.  
-Appena i PG pensano di averli convinti o spaventati, in lontananza si sentono **sirene**.  
-Le luci blu riflettono sui muri del borgo.  
+Le luci blu riflettono sui muri del borgo, una machina dei Carabinieri si ferma, puzza di motore caldo.  
 Gli Anarchici si guardano tra loro:  
-
-> **Mauro:** «Merda… non è per noi. È per voi.»  
+**Mauro:** «Merda… non è per noi. È per voi.»  
 
 Poi scompaiono nei vicoli.  
 Da qui, parte la **scena successiva: Alt dei Carabinieri o Fuga**.
 
-| Azione          | Tiro                 | Difficoltà               |
-| --------------- | -------------------- | ------------------------ |
-| Fuga nei vicoli | Destrezza + Atletica | 4–5 prolungata 2/3 turni |
-|                 |                      |                          |
 ## Alt Carabinieri
 
-#### Obiettivi Narrativi
-
-- Far credere ai PG di avere una scelta (fuggire o arrendersi), ma nessuna via reale di fuga.  
-- Mostrare l’autorità del Flagellatore come qualcosa di sovrumano ma *non apertamente rivelato*.  
-- Chiudere con una morte “ufficiale” che mantiene intatta la Masquerade.  
-
-**Il flagellatore viene avvisato e arriva sul posto per fare un controllo, circa 30 minuti da quando vengono arrestati.**
-**Uno dei Carabinieri è un vampiro con la disciplina di Auspex**
-
-## Sintesi dei tiri consigliati
-
-| Azione                                | Tiro                 | Difficoltà | Esito                                                |
-| ------------------------------------- | -------------------- | ---------- | ---------------------------------------------------- |
-| Resistere all’aura del Flagellatore   | Freddezza + Volontà  | 7          | Successo = autocontrollo, Fallimento = sottomissione |
-| Notare vampiro o dettagli inquietanti | Percezione + Occulto | 4          | Successo = sospetto sovrannaturale                   |
-| Opporsi fisicamente all’arresto       | Forza + Lotta        | 5          | Sconfitti dai ghoul comunque                         |
-#### Fermati dai carabinieri
 Si fermano o vengono presi.
-Un carabiniere avvisa il suo padrone, la sentenza è ha decisa, devono morire ma non vuole fare casino e rompere la regola della Masquerade, quindi fa di tutto per trattenerli e poi simulare un incidente. In pratica sono vampiri senza sire non riconosciuti, la morte ultima è l'unica soluzione.
+Un carabiniere, in realtà un ghoul al servizio del Flagello, lancia l’allarme: ci sono vampiri non riconosciuti e non presentati.  
+La sentenza è già stabilita: devono essere eliminati. Tuttavia, per evitare disordine e soprattutto per non violare la Masquerade, l’obiettivo è trattenerli con discrezione e poi inscenare un incidente.
 
-Maresciallo: Valter Belloni
+La pattuglia che arriva sul posto è quella sotto il controllo diretto del Maresciallo. Questo perché, nella chiamata ai carabinieri, chi ha fatto la segnalazione ha menzionato gli anarchici, già noti alle forze dell’ordine. In generale, nei centri più importanti è sempre presente almeno una volante dei carabinieri o della polizia con uno o più infiltrati del Maresciallo.
 
-> [!NOTE] L'auto di un giocatore
-> Uno dei giocatori quando viene caricato sulla camionetta per essere, questo quello che credono i PG, portato in centrale; la sua macchina parcheggiata poco distante con uno strano individuo vicino, se vuole capire può tirare percezione + occulto diff 4, non sembra proprio umano.
+I carabinieri mostrano un atteggiamento rassicurante: il loro unico apparente intento è portare i soggetti in centrale. In realtà non ci arriveranno mai. Il loro compito è mantenere la calma fino al momento dell’intervento finale. Poi... telegiornale annuncio [[Incidente Stradale]]
 
-Telegiornale annuncio [[Incidente Stradale]]
+### **All’avvicinamento**
+- «Ragazzi, tutto a posto? Vi abbiamo visto con gente che non è proprio il massimo… ci serve solo capire com’è andata.»
+- «Oh, tranquilli eh. Non siete voi quelli nei guai. È che certi tipi li conosciamo: ci fate due parole?»
+- «Buonasera. Possiamo sapere cosa ci facevate con quei soggetti? Nulla di grave, serve solo una dichiarazione.»
+- «Guardate, quei ragazzi con cui eravate non sono proprio dei santi. Dobbiamo solo chiarire un paio di cose.»
 
+### **Per convincerli a seguirli**
+- «Venite un attimo in caserma, così mettiamo giù due righe e vi leviamo dai pensieri.»
+- «È routine, ragazzi: quando c’è di mezzo certa gente, a noi tocca fare un verbale. Dieci minuti e avete finito.»
+- «Dai, venite con noi. È solo per chiarire: meglio farlo adesso che ritrovarvi in mezzo ai casini.»
+- «Meglio parlare in caserma, qui in strada non è il posto. Poi vi riportiamo dove volete.»
+
+### **Per rassicurarli**
+- «State sereni, non siete accusati di niente. Vogliamo solo che nessuno vi tiri in mezzo.»
+- «Se non avete fatto nulla, è una passeggiata. Una dichiarazione e ve ne andate.»
+- «È per tutelarvi, capito? Meglio chiarire voi subito che farvi passare per amici loro.»
+- «Non vi preoccupate. I problemi li hanno loro, non voi. A noi basta la vostra versione.»
+
+### **Durante il tragitto o mentre li accompagnano**
+- «Rilassatevi, ragazzi. È tutto di routine: a noi interessa solo chi c’era e com’è partita la cosa.»  
+- «Il maresciallo vuole solo capire se vi hanno coinvolto o vi siete trovati in mezzo per caso.»
+- «Capita di finire vicino a certe compagnie… succede. L’importante è che lo diciate a noi.»
+- «Tra poco siamo in caserma. Due chiacchiere, una firma, e siete a posto.»
 
 ## Fuga
 
-Se riuscissero a scappare si dovrebbero nascondere e dirigere all’Elisio di Pennabilli.
+Se riescono a scappare si dovrebbero nascondere e dirigere all’Elisio di Pennabilli.
+Scena per far capire una azione prolungata.
+
+### **Esempi di combinazioni:**
+
+- **Destrezza + Atletica** – correre e saltare ostacoli.
+- **Prontezza + Furtività** – nascondersi nei vicoli o nel buio.
+- **Percezione + Sopravvivenza** – trovare un sentiero o via alternativa.
+- **Persuasione + Sotterfugio** – depistare, usare un'esca, confondere i militari.
+
+### **Elementi ambientali narrativi da inserire**
+- Vicolo cieco con un muretto da scavalcare.  
+- Anziana che guarda dalla finestra.
+- Madonnina illuminata accanto a un sentiero che scende.
+- Sentiero sterrato che taglia il paese.
+- Portone aperto che offre riparo.
+
+#### CONTESTO INIZIALE
+
+> _I lampeggianti tingono il paese di blu. Due carabinieri vi fissano mentre si avvicinano. Nessun tempo per pensare. Nessun luogo conosciuto. Dovete muovervi. Ora._
+
+#### 🏃‍♂️ **1° TURNO – Intelligenza + Allerta (Dif. 6)**
+
+> _Capire dove scappare, senza conoscere nulla._
+
+- ✅ **1 successo** → _“Un vicolo stretto si apre tra due muri. Puzza di muffa e piscio, ma è coperto. Ti ci infili.”_
+- ✅ **2 successi** → _“Scorgi una scala in discesa verso un’area. Poca luce, nessuna uscita visibile. Ma li confonderà.”_
+- ✅ **3 successi** → _“La tua mente corre più veloce del pericolo. Noti un passaggio basso dietro un magazzino. Nessun umano lo noterebbe.”_
+- ❌ **0 successi (fallimento)** → _“Ti guardi intorno, disorientato. Niente si distingue. La voce di un carabiniere si fa più vicina. Non c’è tempo per pensare.”_  
+    → **+1 difficoltà al turno 2**
+- ❌ **–1 successo (fallimento critico)** → _“Scatti d’istinto… ma nella direzione sbagliata. Una torcia ti colpisce in pieno viso. Un urlo. Mani ti bloccano. Preso.”_  
+    → **Fine per il PG**
+
+#### 🏃‍♀️ **2° TURNO – Destrezza + Atletica (Dif. 7 + malus)**
+
+> _Saltare recinzioni, evitare ostacoli, guadagnare terreno._
+
+- ✅ **1 successo** → _“Superi a fatica una cancellata. Un rumore metallico echeggia, ma sei ancora in movimento.”_
+- ✅ **2 successi** → _“Scatti tra due case, eviti un cassonetto. La bestia ti guida come un animale.”_
+- ✅ **3 successi** → _“Ti muovi come una creatura nata per la notte. Silenzioso, rapido. Nessuno può seguirti.”_
+- ❌ **0 successi (fallimento)** → _“Sbuchi in una strada troppo illuminata. Una macchina frena. Urla. Li hai addosso.”_  
+    → **+1 difficoltà al turno 3**
+- ❌ **–1 successo (fallimento critico)** → _“Un piede su una grata bagnata: scivoli. Una figura ti afferra con forza sovrumana. Preso.”_  
+    → **Fine per il PG**
+
+#### 🕳️ **3° TURNO – Prontezza + Furtività (Dif. 7 + malus)**
+
+> _L’ultima possibilità: svanire nella notte._
+
+- ✅ **1 successo** → _“Ti schiacci tra due muri, resti immobile. Le torce passano, una sfiora la tua guancia…”_
+- ✅ **2 successi** → _“Ti infili sotto una tettoia rotta, coperto da detriti. I passi rallentano. Silenzio...”_
+- ✅ **3 successi** → _“Non sei più lì. Ti fondi nel buio, come se non fossi mai esistito. Nessun suono, nessun respiro, aspetti...”_
+- ❌ **0 successi (fallimento)** → _“Tentavi di nasconderti, ma un colpo di scarponi ti tradisce. Una torcia si gira. ‘Eccolo!’”_
+- ❌ **–1 successo (fallimento critico)** → _“Apri una porta in legno per nasconderti… e dietro c’è un carabiniere armato. Ti punta. Fine.”_  
+    → **Fine per il PG**
+
+## 🏁 **ESITO FINALE**
+
+- **Totale successi ≥ 7** → _“La notte ti protegge. Nessuno ti segue. Per ora.”_
+- **<7 successi o 1 fallimento critico** → _“Mani fredde ti afferrano. Preso.”_
