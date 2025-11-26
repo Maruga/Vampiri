@@ -152,8 +152,8 @@ Durata: 1 scena o finché l’emozione non viene placata.
 
 **Liv. 2**: Fai percepire allucinazioni uditive e visive che confondono la vittima.  
 Tiro: Prontezza + Sotterfugio  
-Resistenza avversario: Percezione + Prontezza, Dif. 7  
-Effetto: Il bersaglio agisce con penalità (Distraendo, rallentando, spaventando, ecc.)
+Resistenza avversario: Percezione + Autocontrollo 
+Effetto: Il bersaglio agisce con penalità (Distraendo, rallentando, spaventando, ecc.) -1 Dado
 
 **Liv. 3**: Induci **una crisi mentale momentanea** (paranoia, fobie, isteria, deliri).  
 Tiro: Carisma + Intimidazione  
