@@ -1,31 +1,8 @@
-==“fare spazio”==
-
-#### Ricordi al Risveglio Step 1
-_...paillettes che galleggiano nello specchio... il ronzio delle lampadine a globo..._
-_Una voce giovane, tremante: "Mama, ho il panico..."_
-
-_...la coda dell'abito disegna strade sul palco... qualcuno applaude... no, piange..._
-_"Se la stanza non è sicura, la rendiamo sicura."_
-
-_...un ventaglio appoggiato come una bandiera... l'odore di Viale Ceccarini... salmastro e fritto..._
-_Chi era Luna? Perché tremava?_
-
-#### Un Viaggio senza meta Step 2
-**Il nome torna per primo.**
-Paolo. _Paolo Venturi._ Ti chiamavano Mama Polari — e quando lo dicevano, sorridevano. Viale Ceccarini, Riccione. Il camerino con le lampadine a globo. Il ventaglio come una bacchetta. Le ragazze che tremavano prima di salire sul palco e tu che dicevi _"se la stanza non è sicura, la rendiamo sicura."_
-
-Facevi spazio. Era il tuo lavoro — non sul palco, ma _dopo_. Dieci minuti a luci basse, quando qualcuno si giocava la notte su una frase.
-
-**L'ultima sera:** Un locale nuovo. Non il tuo solito. Qualcuno ti aveva chiesto di venire — _chi?_ — per "vedere una cosa". C'era musica che non riconoscevi. Un corridoio stretto. Un drink che non avevi ordinato.
-
-**_Perché sei andato?_
-
----
-Note: 
-
 ![[PaoloVenturi.png]]
 
----
+# Paolo Venturi - _Brujah_
+==“fare spazio”==
+
 ### Profilo Completo
 Le luci spente non sono mai davvero buie. Dal camerino di **Riccione** filtra il violetto del corridoio, le lampadine a globo fanno un ronzio sottile e il tuo specchio è un lago dove galleggiano **paillettes, colla per ciglia, rossetti**. Metti in fila gli attrezzi come una minuscola orchestra: primer, fondotinta, cipria; poi il ventaglio, la tua bacchetta magica. Il telefono vibra. Messaggi vocali:
 
@@ -61,3 +38,30 @@ A casa, specchio di nuovo. Ti strucchi piano, senza punirti, come si libera un v
 Sul comodino c’è un quaderno con una frase scritta a penna grossa: **“Dì la verità, ma cantala.”** La tocchi con l’indice, come si fa con i talismani. Prima di spegnere, mandi un vocale al gruppo delle esordienti: “Brave. Le scarpe fanno male a tutte, all’inizio. Anche a me. **Domani si prova di nuovo.** E ricordatevi: se la stanza non è sicura, la rendiamo sicura. Se qualcuno **vi stringe**, apriamo una finestra. Ci penso io, ci pensiamo insieme.”
 
 Chiudi gli occhi. Non sogni luci o applausi. Sogni **una porta** che si apre sempre un po’ di più. Sogni una fila di ragazze e ragazzi che entrano senza chiedere scusa. Sogni il pubblico che capisce, ride, si ferma, cambia idea. E ti svegli già con addosso **la voce** che serve per far sì che succeda davvero, anche stasera, anche domani, **finché ce n’è**.
+
+<!-- SALTO PAGINA -->
+<div style="page-break-before: always;"></div>
+<!-- SALTO PAGINA -->
+
+#### Ricordi al Risveglio Step 1
+_...paillettes che galleggiano nello specchio... il ronzio delle lampadine a globo..._
+_Una voce giovane, tremante: "Mama, ho il panico..."_
+
+_...la coda dell'abito disegna strade sul palco... qualcuno applaude... no, piange..._
+_"Se la stanza non è sicura, la rendiamo sicura."_
+
+_...un ventaglio appoggiato come una bandiera... l'odore di Viale Ceccarini... salmastro e fritto..._
+_Chi era Luna? Perché tremava?_
+
+#### Un Viaggio senza meta Step 2
+**Il nome torna per primo.**
+Paolo. _Paolo Venturi._ Ti chiamavano Mama Polari — e quando lo dicevano, sorridevano. Viale Ceccarini, Riccione. Il camerino con le lampadine a globo. Il ventaglio come una bacchetta. Le ragazze che tremavano prima di salire sul palco e tu che dicevi _"se la stanza non è sicura, la rendiamo sicura."_
+
+Facevi spazio. Era il tuo lavoro — non sul palco, ma _dopo_. Dieci minuti a luci basse, quando qualcuno si giocava la notte su una frase.
+
+**L'ultima sera:** Un locale nuovo. Non il tuo solito. Qualcuno ti aveva chiesto di venire — _chi?_ — per "vedere una cosa". C'era musica che non riconoscevi. Un corridoio stretto. Un drink che non avevi ordinato.
+
+**_Perché sei andato?_
+
+---
+Note: 

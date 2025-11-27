@@ -1,4 +1,37 @@
+![[EnricoBusChiti.png]]
+
+
+# Enrico Chiti - _Malkavian_
 ==“respira e basta”==
+
+### Profilo Completo
+Il tramonto **inghiotte la spiaggia libera** e tu sistemi due candele dentro barattoli di vetro. Niente scenografie, niente tappeti etnici: asciugamani stesi, cerchio largo, il mare che fa il metronomo. “Sedetevi comodi,” dici, “oggi non si vola da nessuna parte. **Si atterra**.” C’è chi sorride, chi ha gli occhi lucidi, chi finge indifferenza. Tu appoggi lo speaker a volume basso: piano, quasi niente.
+
+Sei nato lontano, dall’altra parte dell’oceano, ma **Rimini** ti ha insegnato che la gente viene qui per **ricominciare senza fare troppo rumore**. Tu gli dai strumenti semplici: respiro, postura, **parole piccole**. Tiri fuori un quaderno macchiato di sciroppo d’agave, segni presenze come all’asilo: non per controllare, per ricordarti i nomi. Ogni nome è un nodo: se sai da dove parte, sai anche come **scioglierlo**.
+
+“Quattro conti in su, sei in giù,” spieghi. “Se viene l’ansia, le diamo **un compito**.” Qualcuno ridacchia. Poi, al terzo giro, la ridarella si scioglie. L’aria diventa **più pesante e più gentile**. A metà cerchio **Giulia** si irrigidisce; il respiro le scappa via come una moneta rotolata sotto il frigo. Ti metti a fianco, non davanti. “Guardami le spalle,” sussurri. “Sono larghe. **Utile** usarle.” Lei fissa un punto sulla tua maglietta, ripete il ritmo, torna in stanza senza lacrime plateali. Il cerchio non applaude. Meglio così: **non è uno spettacolo**.
+
+Dopo un’ora la gente resta. Qualcuno chiede di infusi “che aiutano”. Tiri fuori **due bottiglie**: una con tisana allo zenzero, una con limone e miele. “Questo è quello che c’è,” dici. “Il resto è roba da farmacista e io oggi sono solo un **DJ coi polmoni**.” Ridono. Ti piace quando ridono e non ti mettono sul piedistallo. I piedistalli si rompono sempre sulle caviglie di chi li sale.
+
+La mattina dopo sei al **Palacongressi** per una fiera del benessere. Un vecchio collega di laboratorio ti intercetta. Camice sulla sedia, badge appeso, sorriso che conosci. “Rico,” ti chiama come quando facevate **notte in bianco** davanti ai reagenti. “Ho una proposta: pacchetti ‘respiro + microdosi’ per manager stressati. Legale, controllato.” Ti tende una cartellina che profuma di soldi. Tu la prendi, la sfogli, la richiudi. “Io **non spingo** nessuno da nessuna parte,” dici. “Se vogliono aria, gliela insegno.” Lui insiste, tocca le parole giuste: “Responsabilità. Se non lo fai tu, lo fa uno scriteriato.” Ecco la trappola. La riconosci perché usa **la tua parte buona** contro di te. Sorridi amaro. “Meglio insegnare **pazienza** che vendere scorciatoie.”
+
+Nel pomeriggio metti i piatti in borsa: **vinili veri** per un set lento al chiosco 72. Il proprietario ti vuole bene perché suoni per far **respirare il posto**, non per farlo urlare. Due ragazze ballano in piedi sulla sabbia, un bimbo addormenta la madre appoggiato alla spalla, un tizio in giacca e mocassini chiude finalmente il telefono. Ogni volta che alzi lo sguardo e vedi **schiene che scendono**, capisci che stai lavorando. La musica, come il respiro, serve a ciò che **leva**, non a ciò che aggiunge.
+
+Tra un lato A e un lato B, si presenta **un uomo con troppa fretta**. Ti vede, non ti ascolta. “Big Keith, giusto? Seratina privata, gente facoltosa. Vorrebbero ‘l’esperienza totale’: respiro, storia, un pizzico di mistero. **Cash**.” Ti porge un biglietto con un indirizzo nelle colline. Fai una domanda sola: “Quanto dura?” “Un’ora, due… finché se la sentono.” Gli restituisci il biglietto. “Io smetto quando la gente **sta bene**, non quando se lo può permettere.” Se ne va convinto che tu sia un ingenuo. Va bene così.
+
+La sera, **cerchio al Borgo San Giuliano**. Dieci persone, una panchina, odore di piadina e vernice dei murales. Non fai il guru. Fai **il facilitatore**: “Chi vuole parla, chi non vuole ascolta.” Si parla di insonnia, genitori, lavoro che cambia pelle. Una ragazza con capelli viola dice che quando chiude gli occhi vede **immagini** che la spaventano. Le chiedi se ha bevuto abbastanza acqua. Ti guarda come se fosse una **battuta**. Non lo è. Le fai provare un esercizio con le mani a coppa sugli zigomi, **respiri corti** come quelli dei neonati, poi un respiro lungo che esce dalla bocca come vapore. Non vendi magie: vendi **metodi**.
+
+A fine incontro, uno **ti aspetta all’angolo**. Lo riconosci: era al set del chiosco, occhiali tondi, scarpe lucide. “Senti,” dice, “se non vuoi portare certe cose tu, posso pensarci io. La domanda c’è.” Lo guarda come si guarda un campo minato: scegli dove mettere il piede, non dove esplodere. “La domanda non è un alibi,” rispondi. “E io **non faccio male** per conto terzi.” Lui ride, lascia il suo numero “nel caso cambi idea”. Lo pieghi e lo infili sotto la cintura della borsa: un promemoria per **non chiamarlo mai**.
+
+Tornando a casa, **telefonata alla madre** dall’altra parte del mondo. Le racconti del mare, di una ricetta nuova di sciroppo, del bambino che si è addormentato sulla musica. Lei ti chiede se mangi, se dormi, se ti **fai rispettare**. “Ci provo,” dici. La verità è che non lo sai sempre. Ma sai riconoscere quando ti stai spostando dalla parte sbagliata: di solito succede quando ti ascoltano **troppo**.
+
+A casa apri il quaderno. Tre righe, come ogni giorno. *Oggi: Giulia è tornata a respirare.* *Ho detto no due volte senza arrabbiarmi.* *Ho suonato piano, ma la spiaggia si è alzata lo stesso.* Ti basta. Domani si ricomincia. Spiaggia, cerchio, barattoli, **nessuna promessa grande**. E una regola, solo una: se uno ti chiede di **chiudere gli occhi**, tu glieli fai aprire. Se uno ti chiede di volare, gli insegni prima ad **atterrare**.
+
+Prima di dormire, metti il telefono in un cassetto. Silenzio. Ti allunghi sul tappeto, spalle a terra, palmi rivolti all’insù. Senti la casa respirare, i vicini che parlano piano, la città che **si sgonfia** dopo l’ultima corsa. E ti dici che il tuo lavoro non è guarire nessuno. È **tenere il ritmo** finché ciascuno trova il suo. Il resto — i pacchetti, i soldi facili, il mistero in bottiglia — può aspettare fuori dalla porta.
+
+<!-- SALTO PAGINA -->
+<div style="page-break-before: always;"></div>
+<!-- SALTO PAGINA -->
 
 #### Ricordi al Risveglio Step 1
 ...candele in barattoli di vetro... il mare che fa il metronomo... "Oggi non si vola. Si atterra."
@@ -26,31 +59,3 @@ Una collina. Qualcuno aveva insistito — "esperienza totale, gente facoltosa" �
 
 ---
 Note: 
-
-![[EnricoBusChiti.png]]
-
----
-### Profilo Completo
-Il tramonto **inghiotte la spiaggia libera** e tu sistemi due candele dentro barattoli di vetro. Niente scenografie, niente tappeti etnici: asciugamani stesi, cerchio largo, il mare che fa il metronomo. “Sedetevi comodi,” dici, “oggi non si vola da nessuna parte. **Si atterra**.” C’è chi sorride, chi ha gli occhi lucidi, chi finge indifferenza. Tu appoggi lo speaker a volume basso: piano, quasi niente.
-
-Sei nato lontano, dall’altra parte dell’oceano, ma **Rimini** ti ha insegnato che la gente viene qui per **ricominciare senza fare troppo rumore**. Tu gli dai strumenti semplici: respiro, postura, **parole piccole**. Tiri fuori un quaderno macchiato di sciroppo d’agave, segni presenze come all’asilo: non per controllare, per ricordarti i nomi. Ogni nome è un nodo: se sai da dove parte, sai anche come **scioglierlo**.
-
-“Quattro conti in su, sei in giù,” spieghi. “Se viene l’ansia, le diamo **un compito**.” Qualcuno ridacchia. Poi, al terzo giro, la ridarella si scioglie. L’aria diventa **più pesante e più gentile**. A metà cerchio **Giulia** si irrigidisce; il respiro le scappa via come una moneta rotolata sotto il frigo. Ti metti a fianco, non davanti. “Guardami le spalle,” sussurri. “Sono larghe. **Utile** usarle.” Lei fissa un punto sulla tua maglietta, ripete il ritmo, torna in stanza senza lacrime plateali. Il cerchio non applaude. Meglio così: **non è uno spettacolo**.
-
-Dopo un’ora la gente resta. Qualcuno chiede di infusi “che aiutano”. Tiri fuori **due bottiglie**: una con tisana allo zenzero, una con limone e miele. “Questo è quello che c’è,” dici. “Il resto è roba da farmacista e io oggi sono solo un **DJ coi polmoni**.” Ridono. Ti piace quando ridono e non ti mettono sul piedistallo. I piedistalli si rompono sempre sulle caviglie di chi li sale.
-
-La mattina dopo sei al **Palacongressi** per una fiera del benessere. Un vecchio collega di laboratorio ti intercetta. Camice sulla sedia, badge appeso, sorriso che conosci. “Rico,” ti chiama come quando facevate **notte in bianco** davanti ai reagenti. “Ho una proposta: pacchetti ‘respiro + microdosi’ per manager stressati. Legale, controllato.” Ti tende una cartellina che profuma di soldi. Tu la prendi, la sfogli, la richiudi. “Io **non spingo** nessuno da nessuna parte,” dici. “Se vogliono aria, gliela insegno.” Lui insiste, tocca le parole giuste: “Responsabilità. Se non lo fai tu, lo fa uno scriteriato.” Ecco la trappola. La riconosci perché usa **la tua parte buona** contro di te. Sorridi amaro. “Meglio insegnare **pazienza** che vendere scorciatoie.”
-
-Nel pomeriggio metti i piatti in borsa: **vinili veri** per un set lento al chiosco 72. Il proprietario ti vuole bene perché suoni per far **respirare il posto**, non per farlo urlare. Due ragazze ballano in piedi sulla sabbia, un bimbo addormenta la madre appoggiato alla spalla, un tizio in giacca e mocassini chiude finalmente il telefono. Ogni volta che alzi lo sguardo e vedi **schiene che scendono**, capisci che stai lavorando. La musica, come il respiro, serve a ciò che **leva**, non a ciò che aggiunge.
-
-Tra un lato A e un lato B, si presenta **un uomo con troppa fretta**. Ti vede, non ti ascolta. “Big Keith, giusto? Seratina privata, gente facoltosa. Vorrebbero ‘l’esperienza totale’: respiro, storia, un pizzico di mistero. **Cash**.” Ti porge un biglietto con un indirizzo nelle colline. Fai una domanda sola: “Quanto dura?” “Un’ora, due… finché se la sentono.” Gli restituisci il biglietto. “Io smetto quando la gente **sta bene**, non quando se lo può permettere.” Se ne va convinto che tu sia un ingenuo. Va bene così.
-
-La sera, **cerchio al Borgo San Giuliano**. Dieci persone, una panchina, odore di piadina e vernice dei murales. Non fai il guru. Fai **il facilitatore**: “Chi vuole parla, chi non vuole ascolta.” Si parla di insonnia, genitori, lavoro che cambia pelle. Una ragazza con capelli viola dice che quando chiude gli occhi vede **immagini** che la spaventano. Le chiedi se ha bevuto abbastanza acqua. Ti guarda come se fosse una **battuta**. Non lo è. Le fai provare un esercizio con le mani a coppa sugli zigomi, **respiri corti** come quelli dei neonati, poi un respiro lungo che esce dalla bocca come vapore. Non vendi magie: vendi **metodi**.
-
-A fine incontro, uno **ti aspetta all’angolo**. Lo riconosci: era al set del chiosco, occhiali tondi, scarpe lucide. “Senti,” dice, “se non vuoi portare certe cose tu, posso pensarci io. La domanda c’è.” Lo guarda come si guarda un campo minato: scegli dove mettere il piede, non dove esplodere. “La domanda non è un alibi,” rispondi. “E io **non faccio male** per conto terzi.” Lui ride, lascia il suo numero “nel caso cambi idea”. Lo pieghi e lo infili sotto la cintura della borsa: un promemoria per **non chiamarlo mai**.
-
-Tornando a casa, **telefonata alla madre** dall’altra parte del mondo. Le racconti del mare, di una ricetta nuova di sciroppo, del bambino che si è addormentato sulla musica. Lei ti chiede se mangi, se dormi, se ti **fai rispettare**. “Ci provo,” dici. La verità è che non lo sai sempre. Ma sai riconoscere quando ti stai spostando dalla parte sbagliata: di solito succede quando ti ascoltano **troppo**.
-
-A casa apri il quaderno. Tre righe, come ogni giorno. *Oggi: Giulia è tornata a respirare.* *Ho detto no due volte senza arrabbiarmi.* *Ho suonato piano, ma la spiaggia si è alzata lo stesso.* Ti basta. Domani si ricomincia. Spiaggia, cerchio, barattoli, **nessuna promessa grande**. E una regola, solo una: se uno ti chiede di **chiudere gli occhi**, tu glieli fai aprire. Se uno ti chiede di volare, gli insegni prima ad **atterrare**.
-
-Prima di dormire, metti il telefono in un cassetto. Silenzio. Ti allunghi sul tappeto, spalle a terra, palmi rivolti all’insù. Senti la casa respirare, i vicini che parlano piano, la città che **si sgonfia** dopo l’ultima corsa. E ti dici che il tuo lavoro non è guarire nessuno. È **tenere il ritmo** finché ciascuno trova il suo. Il resto — i pacchetti, i soldi facili, il mistero in bottiglia — può aspettare fuori dalla porta.

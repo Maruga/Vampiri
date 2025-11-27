@@ -1,31 +1,10 @@
-==“regole sul tatami”==
-
-#### Ricordi al Risveglio Step 1
-...odore di detergente al limone... il metronomo pulsa piano... serve al respiro, non ai colpi...
-"Guardami. Non devi piacermi. Devi fidarti del tuo passo."
-
-...un ragazzo abbassa lo sguardo... una madre sospira...
-Il tatami racconta la verità con un suono secco. Chi mente lo sente nelle costole.
-
-...un promoter con scarpe lucide... "Borsa facile, due riprese..."
-"La forza è anche dire no." Chi l'ha detto? Una nonna? La tua?
-
-#### Un Viaggio senza meta Step 2
-**Il corpo ricorda prima della mente.**
-Matteo. _Matteo Bechara. Il dojo a Miramare, l'odore di detergente al limone, i tappetini allineati. Insegnavi a cadere — sempre, ogni lezione. _"Cadere senza rompersi."_ E poi le leve, il respiro, la regola che ripetevi: _"Non spingere forte, spingi giusto."_
-
-Avevi un codice. Niente incontri clandestini. Arbitraggio vero. Se qualcuno bara, si ferma tutto. L'uomo con le scarpe lucide continuava a tornare — _"borsa facile, Mutaz"_ — e tu continuavi a dire no.
-
-**L'ultima sera:** Non eri al dojo. Eri... _dove?_ Un parcheggio. O un capannone. Qualcuno ti aveva chiamato per "vedere se era tutto in regola". Doveva essere veloce. Non era veloce.
-
-**_Chi ti ha chiamato?_
-
----
-Note: 
 
 ![[MatteoBechara.png]]
 
----
+
+# Matteo Bechara - _Gangrel_
+==“regole sul tatami”==
+
 ### Profilo Completo
 Al mattino presto **Miramare** è una riga chiara tra ferrovia e mare. Apri il dojo quando i bar stanno ancora tirando su le serrande: odore di detergente al limone, tappetini allineati, corde appese come serpenti addormentati. Premi play: un metronomo a volume basso. Il ritmo non serve ai colpi, serve al **respiro**.
 
@@ -50,3 +29,30 @@ Rientri al dojo. Odore di sudore, luci basse, tappetini che sembrano acqua scura
 Prima di chiudere, **bussa qualcuno**. È il promoter di stamattina, senza sorriso. “Ok, Mutaz. Ho parlato con chi di dovere. Mettiamo arbitro, medici e regole. Ma vogliamo lo show.” Lo guardi in silenzio tre secondi, abbastanza per fargli sentire che qui lo show lo fa **il rispetto**. “Se è vero, porta i nomi. Domani alle dieci. Se non è vero, non tornare.” Lui dice che è vero. Non gli credi ancora, ma gli **lasci la porta**.
 
 Spegnendo le luci, ti accorgi che fuori il mare si sente. È sempre lì, a ricordarti che **forza** e **pazienza** sono la stessa cosa a velocità diverse. Esci, chiudi a doppia mandata, fai un passo nella notte. Non cerchi applausi. Cerchi **avversari degni**, mani pulite, regole chiare. Tutto il resto — i soldi, i video, i sorrisi lucidi — è rumore. Il suono che ami è un altro: quello del **tatami** quando qualcuno cade bene e si rialza ancora meglio.
+
+<!-- SALTO PAGINA -->
+<div style="page-break-before: always;"></div>
+<!-- SALTO PAGINA -->
+
+#### Ricordi al Risveglio Step 1
+...odore di detergente al limone... il metronomo pulsa piano... serve al respiro, non ai colpi...
+"Guardami. Non devi piacermi. Devi fidarti del tuo passo."
+
+...un ragazzo abbassa lo sguardo... una madre sospira...
+Il tatami racconta la verità con un suono secco. Chi mente lo sente nelle costole.
+
+...un promoter con scarpe lucide... "Borsa facile, due riprese..."
+"La forza è anche dire no." Chi l'ha detto? Una nonna? La tua?
+
+#### Un Viaggio senza meta Step 2
+**Il corpo ricorda prima della mente.**
+Matteo. _Matteo Bechara. Il dojo a Miramare, l'odore di detergente al limone, i tappetini allineati. Insegnavi a cadere — sempre, ogni lezione. _"Cadere senza rompersi."_ E poi le leve, il respiro, la regola che ripetevi: _"Non spingere forte, spingi giusto."_
+
+Avevi un codice. Niente incontri clandestini. Arbitraggio vero. Se qualcuno bara, si ferma tutto. L'uomo con le scarpe lucide continuava a tornare — _"borsa facile, Mutaz"_ — e tu continuavi a dire no.
+
+**L'ultima sera:** Non eri al dojo. Eri... _dove?_ Un parcheggio. O un capannone. Qualcuno ti aveva chiamato per "vedere se era tutto in regola". Doveva essere veloce. Non era veloce.
+
+**_Chi ti ha chiamato?_
+
+---
+Note: 
