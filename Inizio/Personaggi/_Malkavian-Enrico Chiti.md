@@ -29,7 +29,7 @@ Note:
 
 ![[EnricoBusChiti.png]]
 
-
+---
 ### Profilo Completo
 Il tramonto **inghiotte la spiaggia libera** e tu sistemi due candele dentro barattoli di vetro. Niente scenografie, niente tappeti etnici: asciugamani stesi, cerchio largo, il mare che fa il metronomo. “Sedetevi comodi,” dici, “oggi non si vola da nessuna parte. **Si atterra**.” C’è chi sorride, chi ha gli occhi lucidi, chi finge indifferenza. Tu appoggi lo speaker a volume basso: piano, quasi niente.
 

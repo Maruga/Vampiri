@@ -25,7 +25,7 @@ Note:
 
 ![[MatteoBechara.png]]
 
-
+---
 ### Profilo Completo
 Al mattino presto **Miramare** è una riga chiara tra ferrovia e mare. Apri il dojo quando i bar stanno ancora tirando su le serrande: odore di detergente al limone, tappetini allineati, corde appese come serpenti addormentati. Premi play: un metronomo a volume basso. Il ritmo non serve ai colpi, serve al **respiro**.
 
