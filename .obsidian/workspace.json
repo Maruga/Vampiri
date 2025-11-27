@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inizio/Personaggi/_Brujah-Paolo Venturi.md",
+                "file": "Guide/Guida Giocatori.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "_Brujah-Paolo Venturi"
+              "title": "Guida Giocatori"
             }
           }
         ]
@@ -225,8 +225,12 @@
   },
   "active": "822ef4186a3eedff",
   "lastOpenFiles": [
-    "Inizio/Personaggi/Levi Maccari - Macca.md",
+    "86407710",
+    "Guide/Cariche della Camarilla.md",
+    "Guide/Clan.md",
+    "Guide/Discipline Riviste.md",
     "Inizio/Personaggi/_Brujah-Paolo Venturi.md",
+    "Inizio/Personaggi/Levi Maccari - Macca.md",
     "Inizio/Personaggi/Base.md",
     "Inizio/Personaggi/_Gangrel-Matteo Bechara.md",
     "Inizio/Personaggi/_Malkavian-Enrico Chiti.md",
@@ -246,7 +250,6 @@
     "Inizio/Personaggi/Diarmid Cane Matto Dunsirn.md",
     "Inizio/Personaggi/Immagini/ChatGPT Image 11 nov 2025, 20_36_39.png",
     "Inizio/Personaggi/Immagini/ChatGPT Image 11 nov 2025, 20_32_52.png",
-    "Guide/Discipline Riviste.md",
     "0A73E610",
     "ACC2E610",
     "9DFED610",
@@ -262,13 +265,11 @@
     "Inizio/Personaggi/NPC - Alfio Rossellini (Alfie).md",
     "Inizio/Personaggi/Ezechiele Coyotl.md",
     "Inizio/Capitoli/05/Scena 5.1 - Arrivo Villa Siri.md",
-    "Guide/Clan.md",
     "Inizio/Capitoli/04/Scena 4.1 - Viaggio verso Rimini.md",
     "Inizio/Capitoli/03/Scena 3.2 - Elisio e la custode.md",
     "Inizio/Immagini/TabvlaSangvinis.png",
     "Inizio/Capitoli/03/Scena 3.1 - Verso Elisio.md",
     "Inizio/Capitoli/02/Scena 2.1 - Il bosco.md",
-    "Inizio/Capitoli/01/Scena 1.2 - Casolare di Pennabilli.md",
-    "Strumenti.md"
+    "Inizio/Capitoli/01/Scena 1.2 - Casolare di Pennabilli.md"
   ]
 }
