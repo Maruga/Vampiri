@@ -15,34 +15,6 @@
 - Evitare dettagli superflui su debiti/boon in pubblico; limitarsi a “nessun favore pendente” o “disponibile a regolare secondo usi”.
 
 
-## Esempio di Presentazione ufficiale in Elysium
-
-Ecco tre formule di presentazione “alla Camarilla” per Vampiri: la Masquerade, pronte in versione breve, media e lunga, con segnaposto da compilare o esempi già pronti. Sono adatte alla corte, all’Elysium o a un primo incontro con il Principe, il Senescallo o un’Arpia.
-
-Versione semplice
-
-“Rendo omaggio al Principe [Nome]. Sono [Nome Cognome], del Clan [Clan], progenie di [Sire]; chiedo riconoscimento e ospitalità in [Città].”
-
-Esempio:
-
-“Rendo omaggio al Principe Bellini. Sono Alessandro Moretti, del Clan Ventrue, progenie di Claudia Savelli; chiedo riconoscimento e ospitalità a Milano.”
-
-Versione media
-
-“Rendo omaggio al Principe [Nome] e porgo deferenza al Senescallo e al Custode dell’Elysium. Sono [Nome Cognome], [Status: Neonato/Ancilla], del Clan [Clan], progenie di [Sire], già riconosciuto a [Città di origine]. Giungo a [Città] per [scopo: affari/clan/ricerca/ospitalità] e chiedo riconoscimento formale e permesso di caccia secondo usi e domini.”
-
-Esempio:
-
-“Rendo omaggio al Principe Bellini e porgo deferenza al Senescallo e al Custode dell’Elysium. Sono Alessandro Moretti, Neonato, del Clan Ventrue, progenie di Claudia Savelli, già riconosciuto a Firenze. Giungo a Milano per affari di clan e chiedo riconoscimento formale e permesso di caccia secondo usi e domini.”
-
-Versione lunga
-
-“Onoro il Principe [Nome], la Camarilla e questa corte; porgo i dovuti rispetti al Senescallo, alle Arpie e al Custode dell’Elysium. Mi presento: [Nome Cognome], [Status: Neonato/Ancilla], del Clan [Clan], progenie di [Sire], con precedente riconoscimento presso il dominio di [Città di origine]. Giungo a [Città] per [scopo] e porto lettere/assicurazioni di condotta da [Patrocinante/Mentore, se presenti]. Non rechi minacce alla Masquerade, non porto faide aperte né favori pendenti in questo dominio; chiedo riconoscimento, ospitalità e permesso di caccia secondo le consuetudini locali. Resto a disposizione della corte per eventuali disposizioni.”
-
-Esempio:
-
-“Onoro il Principe Bellini, la Camarilla e questa corte; porgo i dovuti rispetti al Senescallo, alle Arpie e al Custode dell’Elysium. Mi presento: Alessandro Moretti, Neonato, del Clan Ventrue, progenie di Claudia Savelli, con precedente riconoscimento presso il dominio di Firenze. Giungo a Milano per affari e porto assicurazioni di condotta dal Primogenito Ventrue di Firenze. Non rechi minacce alla Masquerade, non porto faide aperte né favori pendenti in questo dominio; chiedo riconoscimento, ospitalità e permesso di caccia secondo le consuetudini locali. Resto a disposizione della corte per eventuali disposizioni.”
-
 ## 🎭 Versione Media – Cerimoniale presentazione
 
 “Rendo omaggio al Principe Conte di Cagliostro, Signore del Dominio,  
@@ -54,3 +26,27 @@ Senza Sire, e non porto lettere di presentazione né segni di patrocinio.
  
 Umilmente, chiedo riconoscimento formale e permesso di caccia,  
 affinché possa servire il dominio secondo le leggi e le consuetudini della Camarilla.”
+
+
+## Esempio di Presentazione ufficiale in Elysium
+
+Ecco tre formule di presentazione “alla Camarilla” per Vampiri: la Masquerade, pronte in versione breve, media e lunga, con segnaposto da compilare o esempi già pronti. Sono adatte alla corte, all’Elysium o a un primo incontro con il Principe, il Senescallo o un’Arpia.
+
+**Versione semplice**
+“Rendo omaggio al Principe [Nome]. Sono [Nome Cognome], del Clan [Clan], progenie di [Sire]; chiedo riconoscimento e ospitalità in [Città].”
+
+**Esempio:**
+“Rendo omaggio al Principe Bellini. Sono Alessandro Moretti, del Clan Ventrue, progenie di Claudia Savelli; chiedo riconoscimento e ospitalità a Milano.”
+
+**Versione media**
+“Rendo omaggio al Principe [Nome] e porgo deferenza al Senescallo e al Custode dell’Elysium. Sono [Nome Cognome], [Status: Neonato/Ancilla], del Clan [Clan], progenie di [Sire], già riconosciuto a [Città di origine]. Giungo a [Città] per [scopo: affari/clan/ricerca/ospitalità] e chiedo riconoscimento formale e permesso di caccia secondo usi e domini.”
+
+**Esempio:**
+“Rendo omaggio al Principe Bellini e porgo deferenza al Senescallo e al Custode dell’Elysium. Sono Alessandro Moretti, Neonato, del Clan Ventrue, progenie di Claudia Savelli, già riconosciuto a Firenze. Giungo a Milano per affari di clan e chiedo riconoscimento formale e permesso di caccia secondo usi e domini.”
+
+**Versione lunga**
+“Onoro il Principe [Nome], la Camarilla e questa corte; porgo i dovuti rispetti al Senescallo, alle Arpie e al Custode dell’Elysium. Mi presento: [Nome Cognome], [Status: Neonato/Ancilla], del Clan [Clan], progenie di [Sire], con precedente riconoscimento presso il dominio di [Città di origine]. Giungo a [Città] per [scopo] e porto lettere/assicurazioni di condotta da [Patrocinante/Mentore, se presenti]. Non rechi minacce alla Masquerade, non porto faide aperte né favori pendenti in questo dominio; chiedo riconoscimento, ospitalità e permesso di caccia secondo le consuetudini locali. Resto a disposizione della corte per eventuali disposizioni.”
+
+**Esempio:**
+“Onoro il Principe Bellini, la Camarilla e questa corte; porgo i dovuti rispetti al Senescallo, alle Arpie e al Custode dell’Elysium. Mi presento: Alessandro Moretti, Neonato, del Clan Ventrue, progenie di Claudia Savelli, con precedente riconoscimento presso il dominio di Firenze. Giungo a Milano per affari e porto assicurazioni di condotta dal Primogenito Ventrue di Firenze. Non rechi minacce alla Masquerade, non porto faide aperte né favori pendenti in questo dominio; chiedo riconoscimento, ospitalità e permesso di caccia secondo le consuetudini locali. Resto a disposizione della corte per eventuali disposizioni.”
+
