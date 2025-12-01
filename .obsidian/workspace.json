@@ -11,12 +11,14 @@
             "id": "bca68118ec031120",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Cripta Montebello/Immagini/DettaglioCatacombe.png"
+                "file": "Cripta Montebello/Scena 10 - Imboscata del Sabbat.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "DettaglioCatacombe"
+              "icon": "lucide-file",
+              "title": "Scena 10 - Imboscata del Sabbat"
             }
           },
           {
@@ -248,32 +250,33 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bca68118ec031120",
+  "active": "b3a230c9b92ae9bd",
   "lastOpenFiles": [
+    "Cripta Montebello/Immagini/Isabella.png",
+    "Cripta Montebello/Scena 11 - The enD.md",
+    "Cripta Montebello/Scena 6 - Elisyum di Rimini.md",
+    "Cripta Montebello/Idee per avventura.md",
+    "Cripta Montebello/Doni di Teodoro di Monteferetro.md",
     "Cripta Montebello/Immagini/catacombe.png",
-    "Cripta Montebello/Immagini/DettaglioCatacombe.png",
     "Cripta Montebello/Immagini/CopertinaFascicolo.png",
+    "Cripta Montebello/Immagini/DettaglioCatacombe.png",
     "Cripta Montebello/Immagini/FotoIngresso.png",
     "Cripta Montebello/Immagini/Ghoul.png",
     "Cripta Montebello/Immagini/GuardianoConGuardie.png",
     "Cripta Montebello/Immagini/MedaglioSerpente.png",
     "Cripta Montebello/Immagini/Teodoro.jpeg",
     "Cripta Montebello/Scena 10 - Imboscata del Sabbat.md",
-    "Cripta Montebello/Scena 11 - The enD.md",
-    "Cripta Montebello/Idee per avventura.md",
     "Inizio/Capitoli/06/Scena 6.1 - Incontro Arpia.md",
     "Cripta Montebello/Scena 3 - Chiesa di San Giovanni.md",
     "Guide/La schiatta de’ Montefeltro.md",
     "Inizio/Materiale/Lettera rifugio.md",
     "Inizio/Capitoli/01/Scena 1.2 - Casolare di Pennabilli.md",
     "Cripta Montebello/Scena 9 - Teodoro del Montefeltro.md",
-    "Cripta Montebello/Scena 6 - Elisyum di Rimini.md",
     "Cripta Montebello/Scena 4 - Capo Squadra.md",
     "Cripta Montebello/Scena 2 - Fascicolo Nazista.md",
     "Cripta Montebello/Scena 1 - Prologo.md",
     "Cripta Montebello/Scena 7 - La porta della cripta.md",
     "Cripta Montebello/Scena 8 - Il Guardiano.md",
-    "Cripta Montebello/Doni di Teodoro di Monteferetro.md",
     "Cripta Montebello/Trama.md",
     "Cripta Montebello/Scheda Teodoro di Montefeltro.md",
     "Cripta Montebello/Scheda Guardiano Scheletri.md",
@@ -287,7 +290,6 @@
     "Inizio/Capitoli/01/Scena 1.1 - Il risveglio.md",
     "Inizio/Immagini/VillaLaboratorioFronte.png",
     "Inizio/Immagini/Villa Laboratorio.jpg",
-    "Inizio/Immagini/TramontoAlba.png",
     "338B0C10",
     "6BD9FB10",
     "0969FB10",

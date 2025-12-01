@@ -59,6 +59,7 @@ Le portiere si aprono.
 ---
 
 ### Isabella Dragan, Lasombra
+![[Isabella.png]]
 
 Scende dal lato passeggero.
 
