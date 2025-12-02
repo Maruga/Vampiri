@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Link.md",
+                "file": "DnD/Movimento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Link"
+              "title": "Movimento"
             }
           },
           {
@@ -252,7 +252,12 @@
   },
   "active": "bca68118ec031120",
   "lastOpenFiles": [
+    "DnD/Combattimento.md",
+    "DnD/Movimento.md",
+    "DnD/PG/Selwyn Greyspire - 5th Level Fighter.md",
     "DnD/02 - Stanza Goblin.md",
+    "DnD/Link.md",
+    "DnD/PG",
     "DnD/Classi.md",
     "DnD/01 - Prologo Avventura.md",
     "DnD/Oggetti Magici.md",
@@ -262,10 +267,7 @@
     "DnD/Pozioni.md",
     "DnD/Servitori.md",
     "DnD/Peso Oggetti.md",
-    "DnD/Combattimento.md",
-    "DnD/Movimento.md",
     "DnD/Ingombro.md",
-    "DnD/Link.md",
     "DnD/Combattimento",
     "Cripta Montebello/Scena 10 - Imboscata del Sabbat.md",
     "Cripta Montebello/Immagini/Isabella.png",
@@ -287,7 +289,6 @@
     "Inizio/Materiale/Lettera rifugio.md",
     "Inizio/Capitoli/01/Scena 1.2 - Casolare di Pennabilli.md",
     "Cripta Montebello/Scena 9 - Teodoro del Montefeltro.md",
-    "Cripta Montebello/Scena 4 - Capo Squadra.md",
     "Cripta Montebello/Immagini",
     "Cripta Montebello",
     "Inizio/Immagini/VillaLaboratorioFronte.png",
@@ -296,7 +297,6 @@
     "0969FB10",
     "EB37FB10",
     "~$Strumenti.xlsx",
-    "4CFABB10",
-    "4E878710"
+    "4CFABB10"
   ]
 }

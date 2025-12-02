@@ -24,15 +24,25 @@ Se nessuno è sorpreso, si passa all'iniziativa.
     → due creature possono uccidersi a vicenda nello stesso round.
 
 ### **3. Movimento**
-Il lato con l’iniziativa può:
-- **Muoversi e poi attaccare**, oppure  
-- **Spostarsi due volte (correre)**, oppure
-- **Ritirarsi** (fuga ordinata → il nemico NON attacca gratis), oppure
-- **Fuggire** (disordine → il nemico ottiene un attacco gratuito “di opportunità”).
+Il lato con l’iniziativa agisce per primo. Ogni personaggio può:
+- **Muoversi fino alla sua velocità base e attaccare**, oppure
+- **Correre fino al triplo della sua velocità** (running) ma **non può attaccare né lanciare incantesimi**, oppure
+- **Ritirarsi (B/X 1981)**
+	- Movimento massimo: **metà** del movimento base.  
+	- Movimento ordinato, senza dare aperture.  
+	- **Non provoca attacchi gratuiti**.  
+	- Non si può attaccare o lanciare magie.  
+- **Fuggire (B/X 1981)**
+	- Movimento massimo: **intero movimento base**.  
+	- Fuga precipitosa, spalle al nemico.  
+	- **Il nemico ottiene un attacco gratuito**.  
+	- Dal round successivo può correre ×3.  
 Regole importanti:
-- **Chi lancia un incantesimo NON deve muoversi oltre metà movimento.**
+- **Chi lancia un incantesimo non deve muoversi oltre metà della sua velocità.**
 - **Armatura e ingombro riducono la velocità.**
-Poi si muove il lato che ha perso l’iniziativa.
+
+Dopo che il lato vincitore ha agito, **si muove il lato che ha perso l’iniziativa**.
+
 
 ### **4. Fase Magica**
 Ordine della magia:
