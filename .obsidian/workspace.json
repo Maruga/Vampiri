@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Link.md",
+                "file": "DnD/Viaggo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Link"
+              "title": "Viaggo"
+            }
+          },
+          {
+            "id": "ebe6ea9a6ef2a5f6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/03 - Viaggio di Ritorno.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03 - Viaggio di Ritorno"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,17 +237,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "590b75815eb58e57",
+  "active": "ebe6ea9a6ef2a5f6",
   "lastOpenFiles": [
-    "Link Utili.md",
-    "DnD/Link.md",
-    "DnD/Combattimento.md",
-    "DnD/Movimento.md",
     "DnD/02 - Stanza Goblin.md",
-    "DnD/Incontri Erranti.md",
-    "DnD/03 - Viaggio.md",
+    "DnD/03 - Viaggio di Ritorno.md",
     "DnD/Blocco Lancio Incantesimi.md",
+    "DnD/01 - Prologo Avventura.md",
+    "DnD/Viaggo.md",
+    "DnD/Materiale/Oggetti presenti nelle due città.md",
+    "DnD/Materiale",
+    "DnD/Oggetti Magici.md",
+    "DnD/Pergamene.md",
+    "DnD/Peso Oggetti.md",
+    "DnD/Pozioni.md",
+    "DnD/Servitori.md",
+    "DnD/Movimento.md",
+    "DnD/Incontri Erranti.md",
+    "DnD/Immagini/Mappa.png",
+    "DnD/Immagini",
+    "DnD/Classi.md",
+    "DnD/Combattimento.md",
     "DnD/Effetti di Stato.md",
+    "DnD/Ingombro.md",
+    "DnD/Link.md",
+    "Link Utili.md",
     "DnD/Incantesimi Arcani.md",
     "DnD/PG/Selwyn Greyspire - 5th Level Fighter.md",
     "Cripta Montebello/Scena 11 - The enD.md",
@@ -244,31 +272,18 @@
     "Cripta Montebello/Immagini/CopertinaFascicolo.png",
     "Cripta Montebello/Immagini/catacombe.png",
     "DnD/PG",
-    "DnD/Classi.md",
-    "DnD/01 - Prologo Avventura.md",
-    "DnD/Oggetti Magici.md",
     "DnD/Incantesimi Clericali.md",
-    "DnD/Pergamene.md",
-    "DnD/Pozioni.md",
-    "DnD/Servitori.md",
-    "DnD/Peso Oggetti.md",
-    "DnD/Ingombro.md",
     "DnD/Combattimento",
     "Cripta Montebello/Scena 10 - Imboscata del Sabbat.md",
     "Cripta Montebello/Scena 6 - Elisyum di Rimini.md",
     "Cripta Montebello/Idee per avventura.md",
-    "Cripta Montebello/Doni di Teodoro di Monteferetro.md",
     "Cripta Montebello/Immagini/MedaglioSerpente.png",
     "Cripta Montebello/Immagini/Teodoro.jpeg",
-    "Inizio/Capitoli/06/Scena 6.1 - Incontro Arpia.md",
     "Cripta Montebello/Immagini",
     "Cripta Montebello",
-    "Inizio/Immagini/VillaLaboratorioFronte.png",
     "338B0C10",
     "6BD9FB10",
     "0969FB10",
-    "EB37FB10",
-    "~$Strumenti.xlsx",
-    "4CFABB10"
+    "EB37FB10"
   ]
 }

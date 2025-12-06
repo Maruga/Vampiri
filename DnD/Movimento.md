@@ -36,3 +36,53 @@ Se porti 50 kg addosso:
 - NON puoi saltare precipizi
 - NON puoi combattere agilmente in spazi stretti
 - NON puoi usare un’arma a due mani se stai portando roba con due mani
+
+
+
+## Movimento Giornaliero (Hex/giorno)
+
+| Mezzo            | Strada | Pianura | Foresta | Collina | Montagna | Palude |
+|------------------|--------|---------|---------|---------|----------|--------|
+| A piedi          | 3      | 2       | 1       | 1       | ½        | ½      |
+| Mulo (carico)    | 2      | 2       | 1       | 1       | ½        | ½      |
+| Cavallo sella    | 4      | 3       | 2       | 2       | 1        | —      |
+| Cavallo guerra   | 3      | 2       | 1       | 1       | ½        | —      |
+| Carro            | 2      | 1       | —       | —       | —        | —      |
+| Barca (fiume)    | 4      | —       | —       | —       | —        | 2      |
+
+### Note
+- **1 hex = 6 miglia / 10 km**
+- **½** = 1 hex ogni 2 giorni
+- **—** = terreno impraticabile per quel mezzo
+- Marcia forzata: +1 hex/giorno, tiro Costituzione o fatica
+- Maltempo: dimezza il movimento
+
+
+## Perdersi durante il Viaggio
+
+### Tiro Giornaliero (1d6)
+
+| Terreno              | Persi con... |
+|----------------------|--------------|
+| Strada/sentiero      | Mai          |
+| Pianura aperta       | 1            |
+| Collina              | 1            |
+| Foresta              | 1-2          |
+| Montagna             | 1-2          |
+| Palude               | 1-3          |
+| Giungla              | 1-3          |
+| Deserto              | 1-3          |
+
+### Modificatori
+
+| Condizione                        | Effetto        |
+|-----------------------------------|----------------|
+| Esploratore/ranger nel gruppo     | -1 al risultato |
+| Guida locale                      | Nessun tiro    |
+| Mappa accurata + bussola          | -1 al risultato |
+| Nebbia/notte/maltempo             | +1 al risultato |
+
+### Effetto se Persi
+- Direzione casuale (1d6 → hex adiacente)
+- Tempo perso: ½ giornata
+- I PG non se ne accorgono finché non trovano un punto di riferimento

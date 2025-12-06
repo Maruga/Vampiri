@@ -1,14 +1,28 @@
 - I giocatori scelgono il loro personaggio
 - Quando sono in città possono comprare oggetti e guariscono da tutto
+	- Dare la lista degli oggetti acquistabili
+	- [[Oggetti presenti nelle due città]]
 
-I pg si trovano già nel Dungeon e stanno combattendo alcuni mostri, cosa molto semplice e blanda, un amico a chiesto loro di andare a riprendere il proprio figlio che si è avveenturato con altri PNG. 
-La scena è qualle finale del combattimento, i PG ntervengono a salvare il party. 
-Salvato il party tornano in città per la missione vera e propria.
-Questo primo combattimento molto semplice serve per far capire velocemente le dinamiche ai giocatori e per partire in un modo insolito.
+### Note per il Master
+**Situazione iniziale:** I PG sono già dentro il dungeon. Un amico ha chiesto loro di recuperare suo figlio, partito con un gruppo di avventurieri inesperti.
 
-INIZIO
-State cercando il party del figlio di un vostro carissimo amico, la ricerca non è difficile, il dungeon in cui siete entrato , le fondamenta di un vecchio castello sono praticamente tutte crollate e ci sono poche stanze. 
-Avete già esaminato alcune stanze ma non avete trovato nulla se non qualche copro di Goblin con qualche ratto che li sta mangiando.
-Quando vi addentrate in lontanza sentire ruomer di combattimento e delle urla, sentite chiaramente lo schianto di una clava o qualcosa di simile, lo riconoscete bene, poi un tonfo e infine un urlo disperato. qualcuno è sicuramente morto. Correte nella direzione sperando che non sia troppo tardi e qualche goblin vi rubi la vostra ricompensa. Dovete salvare il figlio di un vostro amico in cambio vi dara 1000mo in più tutto quello che trovate è vostro.
+**Scopo della scena:** Combattimento semplice e veloce per insegnare le meccaniche ai giocatori e partire in modo insolito (in media res). Dopo il salvataggio, si torna in città dove inizia la vera missione.
+
+**Testo da leggere ai giocatori:**
+> [!info]
+> State cercando il party del figlio di un vostro caro amico. La ricerca non è difficile: il dungeon — le fondamenta di un vecchio castello — è in gran parte crollato. Restano poche stanze.
+> Avete già esplorato alcune aree senza trovare nulla, solo corpi di goblin e qualche ratto che li sta divorando.
+> Poi, in lontananza, sentite rumori di combattimento. Urla. Lo schianto inconfondibile di una clava. Un tonfo. Infine un grido disperato.
+> Qualcuno è appena morto.
+> Correte nella direzione del rumore, sperando di non arrivare troppo tardi.
+
+**Ricompensa:** 1000 mo + tutto ciò che trovano nel dungeon.
 
 [[02 - Stanza Goblin]]
+[[03 - Viaggio di Ritorno]]
+
+
+
+
+
+

@@ -1,3 +1,26 @@
+**SCENA — Da leggere ai giocatori**
+
+> [!info]
+> Correte lungo il corridoio. I rumori si fanno più forti: ringhi, grida, il clangore del metallo.
+> Sbucate in una grande sala con il pavimento a lastre di pietra grigia. Torce alle pareti illuminano la scena.
+> 
+> Ecco cosa vedete:
+> **Al centro della sala** — Un goblin enorme, deforme, con una clava insanguinata. Ai suoi piedi, il corpo sfracellato di un giovane avventuriero. Non si muove più.
+> **Sulla destra** — Un lupo mostruoso, grande come un cavallo, tiene alle strette un ragazzo con una spada corta. Lo riconoscete: è il figlio del vostro amico. Si difende a malapena. Il lupo non attacca per uccidere. Si sta divertendo.
+> **In fondo alla sala** — Un goblin in armatura con uno spadone urla ordini. Accanto a lui, uno sciamano con un bastone ossuto mormora qualcosa.
+> **Dietro le macerie sulla vostra destra** — Intravedete movimento. Due figure rannicchiate, terrorizzate. Altri sopravvissuti del gruppo.
+> 
+> I goblin non vi hanno ancora notato.
+> Le torce crepitano.
+> Cosa fate?
+
+**Note per il Master:**
+
+- I goblin agiranno per spegnere le torce se il combattimento si prolunga
+- Il lupo continua a "giocare" col figlio per 2 round, poi attacca seriamente
+- I due PNG nascosti non combatteranno, sono in shock
+
+
 
 ## ⚔️ **Incontro - “La Sala del Massacro Goblin”**
 
@@ -77,7 +100,6 @@ Più grande di un lupo gigante, con saliva corrosiva.
 ---
 
 # 💰 **TESORO – “Filo di Arianna”**
-Il party PNG serviva per guidare i PG, quindi hanno addosso un **tesoro modesto**:
 Tesoro trovato nella sala:
 - Borsa del capo: **300 mo**
 - Un anello goblin di ferro con pietra rossa (valore **75 mo**)
@@ -94,3 +116,7 @@ Tesoro trovato nella sala:
 
 Diviso per 4 PG = **240 PX a testa**  
 → _ottimo “riscaldamento”!_
+
+
+Pietra Maledetta.
+I goblin e tutti hanno lasciato la pietra al suo posto, si trova incastonata sulla parete in alto sulla destra. La pietra è in realtà una specie di pietra del ritorno e se trasportata dopo qualche tempo , solitamente la sera, nel raggio di alcuni metri teletrasporta tutti in una stanza buoi, da qui inzia il Dungeon per i PG per uscire e ritornare al loro mondo.
