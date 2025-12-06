@@ -1,3 +1,5 @@
+![[SotterraneiCastello.png]]
+
 **SCENA — Da leggere ai giocatori**
 
 > [!info]
@@ -197,7 +199,7 @@ Dopo il combattimento, quando i PG esplorano la stanza o cercano tesori.
 | --------------------- | --------------------------------------------------------- |
 | **Durante il giorno** | Nulla. La pietra sembra inerte.                           |
 | **Al tramonto**       | La pietra diventa leggermente più fredda. Impercettibile. |
-| **Sera (dopo cena)**  | Attivazione. Tutti entro 12m vengono teletrasportati.     |
+| **Sera**              | Attivazione. Tutti entro 12m vengono teletrasportati.     |
 
 ### Attivazione:
 

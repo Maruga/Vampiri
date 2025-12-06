@@ -1,5 +1,6 @@
 
 # Ritorno in Città
+![[Mappa.png]]
 
 ## Rifornimenti
 I PG possono acquistare equipaggiamento come da tabella del Prologo.
@@ -22,7 +23,7 @@ I PG possono acquistare equipaggiamento come da tabella del Prologo.
 - Cappella (cure divine a pagamento)
 
 
-## Descrizione Città Grande (1009)
+## Descrizione Città Grande
 
 ### Da leggere:
 
@@ -83,63 +84,33 @@ Se i PG li fermano dal picchiarsi, offrono uno sconto del 10% su gemme e metalli
 Figura incappucciata in un angolo. Non mangia, non beve. Osserva. Se i PG si avvicinano, se n'è già andato.
 
 
-## La Scena — Tutto Scompare
-
-### Quando leggere:
-Dopo che i PG hanno ordinato, parlato con qualche PNG, si sono rilassati.
-
-### Da leggere:
-
-> [!NOTE]
-> State mangiando. Il boccale è freddo in mano. La carne è buona. Uno di voi sta parlando.
-> Poi — nulla.
-> La sedia scompare sotto di voi. Cadete. Il pavimento non c'è. Cadete nel vuoto.
-> Atterrate su pietra fredda. Dura.
-> Buio totale. Non vedete niente. Neanche le vostre mani davanti al viso.
-> Provate a chiamare i compagni.
-> Nessun suono esce dalla vostra bocca.
-> Silenzio assoluto.
-
-## Situazione Meccanica
-
-| Effetto | Dettagli |
-|---------|----------|
-| **Buio magico** | Nessuna fonte di luce funziona. Torce, lanterne, incantesimi Luce — nulla. Solo Dissolvi Magie rimuove l'effetto. |
-| **Silenzio magico** | Nessun suono. Impossibile parlare, lanciare incantesimi verbali, sentire i compagni. |
-| **Posizione PG** | Sparsi nella stanza, a 2d6 × 1,5m l'uno dall'altro. Non sanno dove sono gli altri. |
-| **Stanza** | 15m × 15m, pavimento di pietra liscia, pareti di pietra. Una porta di ferro (chiusa). |
-
-## Opzioni per i PG
-
-| Azione                    | Risultato                                   |
-| ------------------------- | ------------------------------------------- |
-| Muoversi a tentoni        | Dopo 1d4 round trova un muro o un compagno  |
-| Accendere torcia/lanterna | Non funziona (buio magico)                  |
-| Lanciare Luce             | Non funziona                                |
-| Lanciare Dissolvi Magie   | Rimuove uno dei due effetti (scelta del PG) |
-| Toccare un compagno       | Comunicazione a gesti, stringere mani       |
-| Gridare                   | Nessun suono (Silenzio)                     |
-| Infravisione              | Non funziona (buio magico sovrascrive)      |
-
-## Sviluppo
-
-In una zona della stanza si trova una botolo, se un pg ci passa sopra questa si muove, il PG può provare ad aprirla o a sfondarla. Quando un PG si muove tirare 2d6, con 12 trova la botola.
-
-### Da leggere:
-
-La porta cede. O forse il buio si dissolve.
-
-Vedete. Finalmente.
-
-Siete in una cella di pietra. Umida. Vecchia. Nessuna finestra.
-
-Non siete più nella locanda.
-
-Non sapete dove siete.
-
-Ma qualcuno vi ha portati qui. E vi sta aspettando.
-
 ---
 
-*[Qui inizia la vera avventura.]*
+## Nota per il Master — Radunare i PG
 
+### Obiettivo
+Tutti i PG devono trovarsi entro 12m dalla pietra al momento dell'attivazione (sera). Anche eventuali PNG nel raggio vengono teletrasportati.
+
+### Opzioni per Radunarli
+
+**Opzione A — Locanda**
+I PG cenano insieme alla locanda. Quello che porta la pietra l'ha nello zaino o in tasca. La sera si attiva e teletrasporta tutti.
+
+**Opzione B — Incontro col figlio**
+Il figlio dell'amico chiede di incontrarli per:
+- Dare informazioni sulla pietra
+- Proporre un nuovo lavoro legato alla pietra
+- Avvertirli di qualcosa di strano ("Da quando l'avete presa mi sento osservato...")
+
+L'incontro avviene in un luogo chiuso (locanda, casa, magazzino). Tutti insieme, la pietra si attiva.
+
+**Opzione C — Consegna della pietra**
+I PG si riuniscono per consegnare la pietra al mercante. Prima che la transazione avvenga, si attiva.
+
+### Importante
+Non importa come li raduni. L'unica condizione è: tutti entro 12m dalla pietra quando cala la sera.
+
+Se un PG si allontana dal gruppo, non viene teletrasportato → problema narrativo. Evita questa situazione.
+
+
+[[05 - Stanza Buia e Silenziosa]]

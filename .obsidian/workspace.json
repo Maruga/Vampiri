@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Link.md",
+                "file": "DnD/05 - Stanza Buia e Silenziosa.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Link"
+              "title": "05 - Stanza Buia e Silenziosa"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#house",
+                "query": "Buia e Silenziosa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,12 +239,25 @@
   },
   "active": "ebe6ea9a6ef2a5f6",
   "lastOpenFiles": [
+    "DnD/04 - Ritorno in città.md",
+    "DnD/05 - Stanza Buia e Silenziosa.md",
+    "DnD/PG/05 - Stanza Buia e silenziosa.md",
+    "DnD/Immagini/Mappa.png",
+    "DnD/Immagini/MappaAccampamentoForesta.png",
+    "DnD/Immagini/SotterraneiCastello.png",
+    "DnD/02 - Stanza Goblin.md",
+    "DnD/01 - Prologo Avventura.md",
+    "DnD/Illuminazione.md",
+    "DnD/Peso Oggetti.md",
+    "DnD/Combattimento.md",
+    "DnD/Effetti di Stato.md",
+    "DnD/Incantesimi Arcani.md",
+    "DnD/Movimento.md",
+    "DnD/03 - Viaggio di Ritorno.md",
+    "DnD/Link.md",
     "Strumenti/3860D300",
     "Strumenti/~$Strumenti.xlsx",
-    "DnD/01 - Prologo Avventura.md",
-    "DnD/02 - Stanza Goblin.md",
     "DnD/Materiale/Oggetti presenti nelle due città.md",
-    "DnD/Immagini/Mappa.png",
     "Guide/Discipline Riviste.md",
     "Guide/Clan.md",
     "Guide/Cariche della Camarilla.md",
@@ -263,27 +276,14 @@
     "Cripta Montebello/Immagini/Ghoul.png",
     "Cripta Montebello/Immagini/FotoIngresso.png",
     "Cripta Montebello/Immagini/DettaglioCatacombe.png",
-    "Cripta Montebello/Immagini/CopertinaFascicolo.png",
-    "Cripta Montebello/Immagini/catacombe.png",
-    "DnD/Link.md",
     "Strumenti/F9AAB300",
     "Strumenti/~$Schede_DnD_BX91.xlsx",
     "DnD/Oggetti Magici.md",
-    "DnD/Movimento.md",
-    "DnD/Ingombro.md",
-    "DnD/Incontri Erranti.md",
-    "DnD/Viaggo.md",
-    "DnD/03 - Viaggio di Ritorno.md",
-    "DnD/PG/Selwyn Greyspire - 5th Level Fighter.md",
-    "Inizio/Capitoli/05/Scena 5.1 - Arrivo Villa Siri.md",
-    "Inizio/Capitoli/04/Scena 4.1 - Viaggio verso Rimini.md",
-    "Inizio/Capitoli/03/Scena 3.2 - Elisio e la custode.md",
     "DnD/Materiale",
     "DnD/Immagini",
     "DnD/PG",
     "DnD/Combattimento",
     "Cripta Montebello/Immagini",
-    "Cripta Montebello",
-    "338B0C10"
+    "Cripta Montebello"
   ]
 }

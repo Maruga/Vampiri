@@ -83,3 +83,6 @@
 |Scrigno grande|300|15|1000 cn|
 |Barile|200|10|ingombrante|
 |Bottiglia|5|0,25|—|
+
+
+

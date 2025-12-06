@@ -1,4 +1,4 @@
-![[Mappa.png]]
+![[MappaAccampamentoForesta.png]]
 
 Dalla città più piccola dove partono i giocatori, ci sono due strade possibili strade:
 1. La più veloce che passa in mezzo alla foresta, impiegano circa 3 giorni
@@ -197,7 +197,7 @@ Importante: è un incontro che deve dare idea di essere in un combattimento vero
 
 ### Se un PG illumina un Goblin con una torcia
 
-*[Goblin: -2 ai tiri per colpire per 1 round]*
+*[Goblin: -2 ai tiri per colpire per 1 round]* #HouseRule
 
 ### Se un PG carica gli arcieri nel buio
 

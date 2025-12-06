@@ -1,7 +1,36 @@
 
 # 🧿 **EFFETTI DI STATO – OSR / B/X 1981 (con home rules opzionali)**
 
----
+
+ELENCO DA DEFINIRE
+ciechi.
+ciondoli.
+concentrazione.
+assordati.
+esaurimento.
+spaventati
+rampe.
+incapaci
+invisibili.
+paralizzati.
+pietrificati.
+avvelenati.
+inclini
+trattenuto.
+Stunned
+Inconscio
+Beato
+Maledetti.
+Estratti
+marchio cacciatore
+furia.
+
+
+
+
+
+
+
 
 ## 😴 **ADDORMENTATO (Sleep)**
 
