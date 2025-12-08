@@ -11,14 +11,12 @@
             "id": "590b75815eb58e57",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "DnD/Link.md",
-                "mode": "source",
-                "source": false
+                "file": "DnD/Immagini/MappaXstampa.png"
               },
-              "icon": "lucide-file",
-              "title": "Link"
+              "icon": "lucide-image",
+              "title": "MappaXstampa"
             }
           },
           {
@@ -238,13 +236,18 @@
   },
   "active": "590b75815eb58e57",
   "lastOpenFiles": [
-    "DnD/Immagini/mappaPgPergamena.png",
+    "DnD/Immagini/StanzaUscitaTentacoli.png",
+    "DnD/Immagini/MappaXstampa.png",
+    "DnD/Immagini/StanzaScale.png",
+    "DnD/Immagini/StanzaScalaCripta.png",
+    "DnD/Immagini/StanzaRagni.png",
+    "DnD/Immagini/StanzaMago.png",
+    "DnD/Immagini/StanzaCripta.png",
+    "DnD/Immagini/StanzaCentrale.png",
     "DnD/Immagini/mappaPgDM.player.png",
-    "DnD/Immagini/mappaPgDM.png",
     "DnD/Immagini/MappaPgOriginale.jpg",
-    "DnD/Immagini/SotterraneiCastello.png",
-    "DnD/Immagini/MappaAccampamentoForesta.png",
-    "DnD/Immagini/Mappa.png",
+    "DnD/Immagini/mappaPgDM.png",
+    "DnD/Link.md",
     "DnD/05 - Stanza Buia e Silenziosa.md",
     "DnD/06 - Stanza Centrale.md",
     "DnD/11 - Salto sul fiume.md",
@@ -261,7 +264,6 @@
     "DnD/09 - Scale per l'uscita.md",
     "DnD/08a - Cripta - Scala.md",
     "DnD/08b - Cripta - Scheletri.md",
-    "DnD/Link.md",
     "DnD/04 - Ritorno in città.md",
     "DnD/PG/05 - Stanza Buia e silenziosa.md",
     "DnD/02 - Stanza Goblin.md",
@@ -272,10 +274,6 @@
     "DnD/Incantesimi Arcani.md",
     "Strumenti/3860D300",
     "Strumenti/~$Strumenti.xlsx",
-    "Cripta Montebello/Immagini/Teodoro.jpeg",
-    "Cripta Montebello/Immagini/MedaglioSerpente.png",
-    "Cripta Montebello/Immagini/Isabella.png",
-    "Cripta Montebello/Immagini/GuardianoConGuardie.png",
     "Strumenti/F9AAB300",
     "Strumenti/~$Schede_DnD_BX91.xlsx",
     "DnD/Materiale",
