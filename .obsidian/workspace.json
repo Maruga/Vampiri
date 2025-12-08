@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/Viaggo.md",
+                "file": "DnD/11 - Salto sul fiume.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Viaggo"
+              "title": "11 - Salto sul fiume"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/10 - Ragni.md",
+                "file": "DnD/Movimento.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 - Ragni"
+              "title": "Movimento"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -237,14 +236,21 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "ebe6ea9a6ef2a5f6",
+  "active": "590b75815eb58e57",
   "lastOpenFiles": [
+    "DnD/Saltare.md",
+    "DnD/Movimento.md",
+    "DnD/11 - Salto sul fiume.md",
+    "DnD/12 - Riepilogo.md",
+    "DnD/Viaggo.md",
+    "DnD/Peso Oggetti.md",
+    "DnD/10 - Stanza dei Ragni.md",
+    "DnD/Materiale/Ragnatela Ragni.md",
+    "DnD/08c - Cripta - Stanza segreta.md",
+    "DnD/07 - Stanza del Mago.md",
+    "DnD/PG/Selwyn Greyspire - 5th Level Fighter.md",
     "DnD/09 - Scale per l'uscita.md",
     "DnD/06 - Stanza Centrale.md",
-    "DnD/07 - Stanza del Mago.md",
-    "DnD/08c - Cripta - Stanza segreta.md",
-    "DnD/11 - Salto sul fiume.md",
-    "DnD/10 - Ragni.md",
     "DnD/08a - Cripta - Scala.md",
     "DnD/08b - Cripta - Scheletri.md",
     "DnD/05 - Stanza Buia e Silenziosa.md",
@@ -257,19 +263,12 @@
     "DnD/02 - Stanza Goblin.md",
     "DnD/01 - Prologo Avventura.md",
     "DnD/Illuminazione.md",
-    "DnD/Peso Oggetti.md",
     "DnD/Combattimento.md",
     "DnD/Effetti di Stato.md",
     "DnD/Incantesimi Arcani.md",
-    "DnD/Movimento.md",
     "DnD/03 - Viaggio di Ritorno.md",
     "Strumenti/3860D300",
     "Strumenti/~$Strumenti.xlsx",
-    "DnD/Materiale/Oggetti presenti nelle due città.md",
-    "Guide/Discipline Riviste.md",
-    "Guide/Clan.md",
-    "Guide/Cariche della Camarilla.md",
-    "Cripta Montebello/Scheda Teodoro di Montefeltro.md",
     "Cripta Montebello/Immagini/Teodoro.jpeg",
     "Cripta Montebello/Immagini/MedaglioSerpente.png",
     "Cripta Montebello/Immagini/Isabella.png",

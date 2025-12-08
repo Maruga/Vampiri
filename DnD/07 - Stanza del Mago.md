@@ -72,15 +72,16 @@ Nulla. Polvere.
 
 ### Contenuto — Libreria 1 (Pozioni e Ampolle)
 
-| Oggetto                         | Quantità | Effetto/Valore   |
-| ------------------------------- | -------- | ---------------- |
-| Pozione Cura Ferite Leggere     | 2        | 2d4+2 HP         |
-| Pozione Invisibilità            | 1        | 4 turni          |
-| Pozione Lettura Linguaggi       | 1        | 2 turni          |
-| Ampolle vuote                   | 8        | 1 mo ciascuna    |
-| Boccetta liquido verde (veleno) | 1        | TS o 2d6 danni   |
-| Acqua santa                     | 2 fiale  | 1d8 vs non-morti |
-| Diamante                        | 1        | Per Enigma       |
+| Oggetto                         | Quantità | Effetto/Valore                         |
+| ------------------------------- | -------- | -------------------------------------- |
+| Pozione Cura Ferite Leggere     | 2        | 2d4+2 HP                               |
+| Pozione Invisibilità            | 1        | 4 turni                                |
+| Pozione Lettura Linguaggi       | 1        | 2 turni                                |
+| Ampolle vuote                   | 8        | 1 mo ciascuna                          |
+| Boccetta liquido verde (veleno) | 1        | TS o 2d6 danni                         |
+| Pozione Neutralizza Veleno      | 3        | Neutralizza qualsiasi veleno nel corpo |
+| Acqua santa                     | 2 fiale  | 1d8 vs non-morti                       |
+| Diamante                        | 1        | Per Enigma                             |
 
 ### Contenuto — Libreria 2 (Pergamene)
 

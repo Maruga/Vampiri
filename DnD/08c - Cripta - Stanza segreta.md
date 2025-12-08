@@ -86,11 +86,12 @@ Se si avvicinano alle uova
 
 #### Anta Destra — Scaffali
 
-| Oggetto                    | Dettaglio                     |
-| -------------------------- | ----------------------------- |
-| Scatola di legno sigillata | Intatta                       |
-| Boccette vuote (3)         | Vetro, sporche                |
-| Libro rilegato in pelle    | Pagine incollate dall'umidità |
+| Oggetto                        | Dettaglio                     |
+| ------------------------------ | ----------------------------- |
+| Scatola di legno sigillata     | Intatta                       |
+| Boccette vuote (3)             | Vetro, sporche                |
+| Pozione Neutralizza Veleno (2) | Qualsiasi veleno              |
+| Libro rilegato in pelle        | Pagine incollate dall'umidità |
 ### Scatola di Legno
 
 Sigillata con ceralacca. Simbolo: una stella a otto punte.
