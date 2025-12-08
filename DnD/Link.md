@@ -14,3 +14,6 @@ https://www.raffoslab.com/
 Creare mappe Free
 https://deepnight.net/tools/rpg-map/
 https://watabou.github.io/
+
+Creare caricatore personaggi sprite
+https://www.dungeonsprite.com/

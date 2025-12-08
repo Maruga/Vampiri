@@ -11,12 +11,14 @@
             "id": "590b75815eb58e57",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "DnD/Immagini/mappaPgPergamena.png"
+                "file": "DnD/Link.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "mappaPgPergamena"
+              "icon": "lucide-file",
+              "title": "Link"
             }
           },
           {
@@ -236,8 +238,8 @@
   },
   "active": "590b75815eb58e57",
   "lastOpenFiles": [
-    "DnD/Immagini/mappaPgDM.player.png",
     "DnD/Immagini/mappaPgPergamena.png",
+    "DnD/Immagini/mappaPgDM.player.png",
     "DnD/Immagini/mappaPgDM.png",
     "DnD/Immagini/MappaPgOriginale.jpg",
     "DnD/Immagini/SotterraneiCastello.png",
