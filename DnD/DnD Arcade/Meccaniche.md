@@ -60,6 +60,8 @@ Dettagli che il Master può inserire per creare atmosfera (i PG attenti potrebbe
 Ogni mappa ha un **portale di ingresso** e **portale di uscita** (fisso, visibile dall'inizio).
 Al primo regalo che aprono l'elfo spiega la dinamica del labirinto e il suo timer, vedi labirinto PacMac.
 
+Maghi/chierici recuperano incantesimi al passaggio tra i livelli.
+
 **Timer:**
 - 45 minuti: esplorazione libera
 - Allo scadere: evento di pressione, iniziano ad apparire tantissimi mosti

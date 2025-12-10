@@ -1,3 +1,4 @@
+Se non hai letto prima di proseguire leggi [[DnD/DnD Arcade/README]]
 
 ## Note per il Master - La Verità
 
@@ -47,18 +48,12 @@ Questo non cambia nulla meccanicamente, ma crea la base per:
 > Accanto al portale, su un piedistallo che non c'era prima, trovate delle **pergamene** — una per ciascuno di voi. La carta è calda al tatto, e le parole scritte brillano di una luce dorata:
 > _"Se il sogno dovesse spezzarti, questo ti riporterà. Ma il tempo perso non torna."_
 > Un elfo appare sulla soglia della porta — o forse era sempre stato lì.
-> 
 > **"Il varco è aperto,"** dice semplicemente. **"Oltre quella luce c'è l'incubo dove il nostro padrone è prigioniero. Le ombre che lo tengono non vi lasceranno passare facilmente."**
-> 
 > Si ferma, vi guarda uno per uno.
-> 
 > **"Là dentro troverete doni sparsi — frammenti del potere natalizio che le ombre hanno rubato. Raccoglietene quanti più potete. Vi serviranno per affrontare ciò che troverete alla fine."**
-> 
 > Il portale pulsa, impaziente.
-> 
 > **"Andate ora. Lo Spirito del Natale vi attende. E con lui... il destino di tutti i Natali a venire."**
 
----
 
 ### Atto IV - La Soglia
 
