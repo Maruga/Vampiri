@@ -234,15 +234,6 @@ L'emporio appare dopo il terzo labirinto, prima del boss finale. Gestito da un e
 |Bacchetta dei Proiettili Magici (10 cariche)|1|2.000|2d6+2 danni, colpo automatico, gittata 150'. 1 carica/uso|
 |Bacchetta di Paralisi (6 cariche)|1|3.000|TS Bacchette o paralizzato 1d4 round, gittata 60'. 1 carica/uso|
 
-## Oggetti Esclusivi Emporio
-
-|Oggetto|Slot|Costo (mo)|Meccanica|
-|---|---|---|---|
-|Amuleto Anti-Non Morti|0|1.500|I non morti hanno -2 TxC contro chi lo indossa. Permanente|
-|Olio Sacro (x3)|1|150|Unge un'arma. +1d6 danni vs non morti per 1 combattimento (10 round)|
-|Simbolo Sacro Potenziato|0|500|Solo Chierici: +2 a scacciare non morti. Permanente|
-|Guanti della Forza dell'Orco|1|2.500|FOR 18 (+3 TxC, +3 danni mischia). Permanente finché indossati|
-
 # NOTE PER IL MASTER
 
 ## Distribuzione Regali per Mappa
@@ -259,7 +250,7 @@ Oppure random: tira d6 per determinare il colore di ogni regalo.
 
 ## Come Tirare
 
-1. PG apre regalo → guarda il colore
+1. PG apre regalo in base al colore
 2. Tira d10 sulla tabella del colore corrispondente
 3. Se esce 10 → scelta libera dalla lista (per il Nero: solo tra i premi)
 4. Riceve l'oggetto
