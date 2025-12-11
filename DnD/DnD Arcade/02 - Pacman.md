@@ -192,95 +192,56 @@ Spiriti di festività antiche, divorate dal rancore. **Unici — se muoiono, res
 
 1. **Se un mostro vede un PG (linea di vista)** → abbandona il percorso e lo attacca
 2. **Se un minion incontra un Fantasmino** → inizia a seguirlo
-3. **Altrimenti** → segue i waypoint del suo colore
+3. **Altrimenti** → segue la Lista Direzioni
 
-## Waypoint Colorati
+## Meccanica Movimento
 
-Ogni mostro segue SOLO i waypoint del suo colore. Arrivato all'ultimo, riparte dal primo (loop).
+1. Il mostro legge la sua direzione dalla lista
+2. **Prosegue dritto** nel corridoio
+3. **Al primo incrocio** che permette di girare nella direzione indicata → gira
+4. Se nessun incrocio disponibile → continua dritto fino al prossimo
+5. Al turno successivo → passa alla direzione seguente nella lista
 
-### Simboli sulla Mappa
+**Esempio:** Direzione = E (Est). Il mostro cammina dritto, ignora gli incroci N/S, al primo incrocio con passaggio a Est gira.
 
-|Tipo|Simbolo|
+## Azioni Speciali
+
+|Simbolo|Azione|Effetto|
+|---|---|---|
+|**N**|Nord|Gira a Nord al primo incrocio disponibile|
+|**S**|Sud|Gira a Sud al primo incrocio disponibile|
+|**E**|Est|Gira a Est al primo incrocio disponibile|
+|**O**|Ovest|Gira a Ovest al primo incrocio disponibile|
+|**P**|Pausa|Fermo 1 turno, non si muove|
+|**A**|Ascolta|Fermo 1 turno. Se PG entro 30'/9m/6□ → lo rileva e insegue|
+|**T**|Pattuglia|Inverte direzione, torna sui suoi passi|
+
+## Lista Direzioni (20 passi)
+Se un movimento non è possibile, esempio tornare indietro quando si inizia, passa al prossimo.
+
+|1|2|3|4|5|6|7|8|9|10|
+|---|---|---|---|---|---|---|---|---|---|
+|N|E|A|S|O|P|N|T|E|S|
+
+|11|12|13|14|15|16|17|18|19|20|
+|---|---|---|---|---|---|---|---|---|---|
+|O|A|N|E|P|S|T|O|N|E|
+
+## Passo Iniziale per Mostro
+
+|Mostro|Passo|
 |---|---|
-|Scheletri|● (pallino)|
-|Elfi|▲ (triangolo)|
+|Scheletro 1|1|
+|Scheletro 2|2|
+|Scheletro 3|3|
+|Scheletro 4|4|
+|Elfo 1|5|
+|Elfo 2|6|
+|Elfo 3|7|
 
----
+**Ogni round:** ogni mostro avanza al passo successivo. Finita la lista (20), ricomincia da 1.
 
-## Percorsi Scheletri (●)
-
-### 🔵 Scheletro 1 — Blu (Quadrante Alto-Sinistra)
-
-|WP|X|Y|
-|---|---|---|
-|1|4|37|
-|2|4|32|
-|3|10|32|
-|4|10|37|
-|→ torna a 1|||
-
-### 🟢 Scheletro 2 — Verde (Quadrante Alto-Destra)
-
-|WP|X|Y|
-|---|---|---|
-|1|24|37|
-|2|24|32|
-|3|18|32|
-|4|18|37|
-|→ torna a 1|||
-
-### 🟡 Scheletro 3 — Giallo (Quadrante Basso-Sinistra)
-
-|WP|X|Y|
-|---|---|---|
-|1|4|8|
-|2|4|14|
-|3|10|14|
-|4|10|8|
-|→ torna a 1|||
-
-### ⚫ Scheletro 4 — Nero (Quadrante Basso-Destra)
-
-|WP|X|Y|
-|---|---|---|
-|1|24|8|
-|2|24|14|
-|3|18|14|
-|4|18|8|
-|→ torna a 1|||
-
----
-
-## Percorsi Elfi (▲)
-
-### 🟣 Elfo 1 — Viola (Corridoio Centrale)
-
-|WP|X|Y|
-|---|---|---|
-|1|4|24|
-|2|14|24|
-|3|24|24|
-|→ torna a 1|||
-
-### 🟤 Elfo 2 — Marrone (Perimetro Esterno)
-
-|WP|X|Y|
-|---|---|---|
-|1|4|8|
-|2|4|37|
-|3|24|37|
-|4|24|8|
-|→ torna a 1|||
-
-### ⚪ Elfo 3 — Bianco (Zona Spawn)
-
-|WP|X|Y|
-|---|---|---|
-|1|10|20|
-|2|10|28|
-|3|18|28|
-|4|18|20|
-|→ torna a 1|||
+**Tutti i mostri partono dalla casa spawn andando a NORD.**
 
 ---
 
@@ -337,7 +298,6 @@ Quando un PG trova il **Power-Up** (regalo speciale, a discrezione del Master):
 
 ---
 
-
 # NOTE PER IL MASTER
 
 ## Ordine di Gioco (Round)
@@ -372,3 +332,57 @@ Quando un PG trova il **Power-Up** (regalo speciale, a discrezione del Master):
 |Scheletri|4|Sì (immediato)|
 |Elfi|3|No|
 |**Totale**|**11**|—|
+
+---
+
+# SCHEDA RAPIDA — STAMPA E GIOCA
+
+## Fantasmini (HD 5 | HP 25 | CA 5 [14] | Mov 40'/12m/8□)
+
+|Nome|Colore|Attacco|Effetto|Blocco|AI|
+|---|---|---|---|---|---|
+|**Saturno**|🔴 Rosso|1d8|-2 CA 1 round|Zone Rosse|Insegue sempre|
+|**Yula**|🩷 Rosa|1d8|No corsa 1 round|Zone Gialle|Anticipa, taglia strada|
+|**Modraniht**|🩵 Ciano|1d6|Teleport 20' dopo attacco|Zone Gialle|Erratica|
+|**Koleda**|🟠 Arancione|1d8|Ruba 1 oggetto (slot 0-1)|Zone Rosse|Fugge se in minoranza|
+
+**Speciale:** Incorporei — armi normali: danno dimezzato | TS G5 | Morale 9
+
+---
+
+## Minion
+
+|Mostro|HD|HP|CA|Mov|Attacco|Speciale|
+|---|---|---|---|---|---|---|
+|**Scheletro**|3|14|5 [14]|30'/9m/6□|Artiglio 1d8|Immune freddo, fuoco x2, +2 TxC se 2+ su stesso bersaglio|
+|**Elfo**|3+1|16|4 [15]|40'/12m/8□|Pugnale 1d6+2 / Ghiacciolo 1d4 (30')|Mischia: -10' mov 2 round|
+
+**Scheletri:** 4 in campo, respawn immediato | TS G3 | Morale 12 **Elfi:** 3 in campo, no respawn | TS G3 | Morale 8
+
+---
+
+## Lista Direzioni Rapida
+
+**N**=Nord | **S**=Sud | **E**=Est | **O**=Ovest | **P**=Pausa | **A**=Ascolta (30') | **T**=Pattuglia (torna indietro)
+Se un movimento non è possibile, esempio tornare indietro quando si inizia, passa al prossimo.
+
+```
+1-N   2-E   3-A   4-S   5-O   6-P   7-N   8-T   9-E   10-S
+11-O  12-A  13-N  14-E  15-P  16-S  17-T  18-O  19-N  20-E
+```
+
+|Mostro|Passo iniziale|
+|---|---|
+|Scheletro 1-4|1, 2, 3, 4|
+|Elfo 1-3|5, 6, 7|
+
+**Meccanica:** Prosegue dritto → gira al primo incrocio nella direzione indicata
+
+---
+
+## Timer
+
+|Fase|Tempo|
+|---|---|
+|Esplorazione|45 min|
+|Rintocco → Fuga|15 min|
