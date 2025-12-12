@@ -23,7 +23,7 @@
 > 
 > **LIVELLO 1 — START**
 
----
+![[01 Game Start.wav]]
 
 ## Il Primo Regalo — L'Elfo Guida
 
@@ -53,7 +53,6 @@
 > 
 > Scompare. Resta l'odore di pino. Il regalo tra le mani. E il silenzio che ora sembra vivo.
 
----
 
 ## Mappa — Legenda
 
@@ -242,6 +241,8 @@ Quando un PG trova il **Power-Up** (regalo speciale, a discrezione del Master):
 |Fuga verso l'uscita|15 minuti reali|
 
 ### Cosa Succede al Rintocco
+
+![[02 Intermission.wav]]
 
 > _Leggere quando scade il tempo:_
 > 

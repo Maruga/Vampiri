@@ -23,7 +23,7 @@
 > 
 > **LIVELLO 2 — START**
 
----
+![[01 Normal Game.wav]]
 
 ## Il Dono dell'Elfo — La Bomba
 
@@ -160,7 +160,7 @@ Se **tutti i fantasmini perdono** la linea di vista → allerta termina, tornano
 
 > _Quando scatta l'allerta:_ Un fischio. Acuto. Non nelle orecchie — dentro la testa. Come un ago di ghiaccio nel cervello. Vi hanno trovato. E ora vi stanno cercando tutti.
 
----
+![[09 Continue.wav]]
 
 # MOSTRI
 
@@ -278,9 +278,7 @@ Spiriti di festività antiche legate al suono e al silenzio. **Unici — se muoi
 > _Leggere quando attraversano l'uscita:_
 > 
 > La luce vi accoglie. Il fischio nelle orecchie svanisce.
-> 
 > Ma il freddo resta. Diverso ancora. Più umido. Più... vivo.
-> 
 > Il terzo livello vi attende.
 > 
 > **LIVELLO 3 — READY**

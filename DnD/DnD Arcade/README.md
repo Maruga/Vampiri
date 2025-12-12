@@ -28,3 +28,7 @@ Lo Spirito del Natale è stato catturato da antiche festività dimenticate e cor
 
 Gli elfi, custodi del castello, hanno fatto l'unica cosa possibile: hanno creato un varco nel sogno. Ma loro non possono attraversarlo — solo mortali con _cuore puro_ e spirito avventuroso possono entrare nell'incubo e liberare il loro padrone.
 
+
+Link ai temi dei giochi
+https://vgmrips.net/packs/
+

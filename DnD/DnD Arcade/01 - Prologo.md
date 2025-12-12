@@ -1,5 +1,7 @@
 Se non hai letto prima di proseguire leggi [[DnD/DnD Arcade/README]]
 
+![[Dungeon & Arcade.png]]
+
 ## Note per il Master - La Verità
 
 I PG non lo sanno, ma **sono già nel sogno dal momento in cui si sono "svegliati"**.

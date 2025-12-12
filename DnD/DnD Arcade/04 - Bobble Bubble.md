@@ -22,7 +22,7 @@
 > 
 > **LIVELLO 3 — START**
 
----
+![[01 Introduction.wav]]
 
 ## Mappa — Legenda
 
@@ -205,6 +205,8 @@ Spiriti di festività legate all'acqua e ai fiumi sacri. **Unici — se muoiono,
 > E i fantasmini? Non più tattiche. Non più attese.
 > 
 > **Vi vogliono nell'acqua. Tutti.**
+
+![[02 Hurry.wav]]
 
 **Meccanica:**
 

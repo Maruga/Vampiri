@@ -8,31 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c032d6793c631e90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DnD/DnD Arcade/03 - Dynablaster.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "03 - Dynablaster"
-            }
-          },
-          {
             "id": "403c25d909624d1c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "DnD/DnD Arcade/Tabelle Regali.md",
-                "mode": "source",
-                "source": false
+                "file": "DnD/OneShot - Persi/Immagini/StanzaMago.png"
               },
-              "icon": "lucide-file",
-              "title": "Tabelle Regali"
+              "icon": "lucide-image",
+              "title": "StanzaMago"
             }
           }
         ]
@@ -236,52 +220,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c032d6793c631e90",
+  "active": "403c25d909624d1c",
   "lastOpenFiles": [
-    "DnD/DnD Arcade/04 - Bobble Bubble.md",
-    "DnD/DnD Arcade/05 - Lo Spirito.md",
-    "DnD/DnD Arcade/02 - Pacman.md",
-    "DnD/DnD Arcade/03 - Dynablaster.md",
+    "DnD/OneShot - Persi/Immagini/StanzaRagni.png",
+    "DnD/OneShot - Persi/Immagini/StanzaScalaCripta.png",
+    "DnD/OneShot - Persi/Immagini/StanzaScale.png",
+    "DnD/OneShot - Persi/Immagini/StanzaUscitaTentacoli.png",
+    "DnD/OneShot - Persi/Immagini/StanzaCentrale.png",
+    "DnD/OneShot - Persi/Immagini/StanzaCripta.png",
+    "DnD/OneShot - Persi/Immagini/StanzaMago.png",
+    "DnD/OneShot - Persi/Immagini/SotterraneiCastello.png",
+    "DnD/OneShot - Persi/Immagini/MappaXstampa.png",
+    "DnD/OneShot - Persi/Immagini/mappaPgPergamena.png",
+    "DnD/OneShot - Persi/Immagini/MappaPgOriginale.jpg",
+    "DnD/OneShot - Persi/Materiale/Ragnatela Ragni.md",
+    "DnD/OneShot - Persi/Materiale/Oggetti presenti nelle due città.md",
     "DnD/DnD Arcade/01 - Prologo.md",
-    "DnD/DnD Arcade/Meccaniche.md",
+    "DnD/DnD Arcade/04 - Bobble Bubble.md",
+    "DnD/DnD Arcade/03 - Dynablaster.md",
+    "DnD/DnD Arcade/Musica/Dynablaster/08 Time Up.wav",
+    "DnD/DnD Arcade/Musica/Dynablaster/09 Continue.wav",
+    "DnD/DnD Arcade/02 - Pacman.md",
+    "DnD/DnD Arcade/Musica/Dynablaster/14 Defeat.wav",
     "DnD/DnD Arcade/README.md",
-    "DnD/DnD Arcade/Immagini/TestaDragoBianco.jpeg",
-    "DnD/DnD Arcade/Immagini/DragoCorrotto.jpeg",
+    "DnD/DnD Arcade/Musica/Dynablaster/01 Normal Game.wav",
+    "DnD/DnD Arcade/Musica/Dynablaster/14 Vs. Game ~ Defeat.wav",
+    "DnD/DnD Arcade/Musica/Dynablaster/01 Normal Game ~ Intro.wav",
+    "DnD/DnD Arcade/Musica/Dynablaster",
+    "DnD/DnD Arcade/Musica/BubbleBobble/04 Secret Room.wav",
+    "DnD/DnD Arcade/Musica/BubbleBobble/01 Introduction.wav",
+    "DnD/DnD Arcade/Musica/BubbleBobble/09 Game Over.wav",
     "DnD/DnD Arcade/Tabelle Regali.md",
-    "Strumenti/~$Schede_DnD_BX91.xlsx",
-    "DnD/DnD Arcade/Musica",
-    "DnD/DnD Arcade/Immagini",
+    "DnD/DnD Arcade/05 - Lo Spirito.md",
+    "DnD/DnD Arcade/Meccaniche.md",
     "DnD/Viaggo.md",
     "DnD/OneShot - Persi/01 - Prologo Avventura.md",
     "Link Utili.md",
-    "DnD/OneShot - Persi",
-    "DnD/DnD Arcade",
     "README.md",
     "Vampiri la Masquerade/README.md",
     "Vampiri la Masquerade/Il Risveglio/Png/Bambina Segrete Tzime.md",
     "Vampiri la Masquerade/Capitolo - Cripta Montebello/Trama.md",
     "Vampiri la Masquerade/Il Risveglio/Materiale/RAPPORTO TOSSICOLOGICO – Campione “Sangue Blu”.md",
-    "DnD/OneShot - Persi/Immagini/StanzaScalaCripta.png",
     "Vampiri la Masquerade/Il Risveglio/Capitoli/05/Scena 5.3 - Laboratori Villa.md",
-    "Vampiri la Masquerade/Musica/Sinfonia.mp3",
-    "Vampiri la Masquerade/Musica/Sala Delle Armi San Leo.mp3",
-    "Vampiri la Masquerade/Musica/emissary-of-darkness-250732.mp3",
     "Vampiri la Masquerade/Capitolo - Cripta Montebello/Doni di Teodoro di Montefeltro.md",
     "Vampiri la Masquerade/Capitolo - Cripta Montebello/README.md",
-    "Vampiri la Masquerade/Capitolo - Cripta Montebello/Immagini/Teodoro.jpeg",
-    "Vampiri la Masquerade/Capitolo - Cripta Montebello/Immagini/MedaglioSerpente.png",
-    "Vampiri la Masquerade/Capitolo - Cripta Montebello/Immagini/Isabella.png",
-    "Vampiri la Masquerade/Capitolo - Cripta Montebello/Immagini/GuardianoConGuardie.png",
-    "Vampiri la Masquerade/Capitolo - Cripta Montebello/Immagini/Ghoul.png",
-    "Vampiri la Masquerade/Capitolo - Cripta Montebello/Immagini/FotoIngresso.png",
-    "Vampiri la Masquerade/Capitolo - Cripta Montebello/Immagini/DettaglioCatacombe.png",
     "Vampiri la Masquerade/Capitolo - Cripta Montebello/Idee per avventura.md",
     "Vampiri la Masquerade/Il Risveglio/README.md",
     "Vampiri la Masquerade/Il Risveglio/Orologi.md",
-    "Vampiri la Masquerade/Capitolo - Cripta Montebello/Scena 1 - Prologo.md",
-    "Vampiri la Masquerade/Code/Strumenti.md",
-    "Vampiri la Masquerade/Code",
-    "Vampiri la Masquerade.md",
-    "Vampiri la Masquerade"
+    "Vampiri la Masquerade/Capitolo - Cripta Montebello/Scena 1 - Prologo.md"
   ]
 }
