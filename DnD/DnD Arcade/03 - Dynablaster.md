@@ -1,13 +1,16 @@
 # LIVELLO 2 — BOMBERJACK
 
+![[03 - Dynablaster.png]]
+
 ## Mappa
 
 - **Dimensioni:** 28 x 40 quadretti (1 quadretto = 5' = 1,5m)
 - **Origine:** 0,0 in basso-sinistra
 - **Ingresso:** Lato sinistro
 - **Uscita:** Lato destro
+- **Passaggi Segreti:** 2
 
----
+
 
 ## Ingresso nel Livello
 
@@ -73,28 +76,25 @@ Spiegare la dinamica della bomba ai PG.
 
 ## Mappa — Legenda
 
-|Elemento|Nome|Descrizione|
-|---|---|---|
-|**Lastre di Ghiaccio Antico**|Vetrate|Si rompono automaticamente, rumore forte|
-|**Portali Sigillati**|Porte|Scassinare o sfondare|
-|**Blocchi di Neve Compressa**|Muri distruttibili (rettangolari)|CA 10, HP 8|
-|**Pilastri di Tronco Ghiacciato**|Muri indistruttibili (quadrati)|Indistruttibili|
-|**Regali (x6)**|Sparsi nella mappa|Colori visibili, contenuto nascosto|
-
----
+| Elemento                          | Nome                              | Descrizione                              |
+| --------------------------------- | --------------------------------- | ---------------------------------------- |
+| **Lastre di Ghiaccio Antico**     | Vetrate                           | Si rompono automaticamente, rumore forte |
+| **Portali Sigillati**             | Porte                             | Scassinare o sfondare                    |
+| **Blocchi di Neve Compressa**     | Muri distruttibili (rettangolari) | CA 10, HP 8                              |
+| **Pilastri di Tronco Ghiacciato** | Muri indistruttibili (quadrati)   | Indistruttibili                          |
+| **Regali (x6)**                   | Sparsi nella mappa                | Colori visibili, contenuto nascosto      |
 
 ## Ostacoli — Meccaniche
 
 ### Lastre di Ghiaccio Antico (Vetrate)
 
-|Stat|Valore|
-|---|---|
-|HP|0 — si rompono al tocco|
-|Rumore|**12 quadretti** (60'/18m)|
+| Stat   | Valore                     |
+| ------ | -------------------------- |
+| HP     | 0 — si rompono al tocco    |
+| Rumore | **12 quadretti** (60'/18m) |
 
 > _Quando si rompono:_ Il ghiaccio esplode in mille frammenti. Un suono cristallino, acuto, che echeggia nel silenzio come un grido. Ovunque siate, qualcosa vi ha sentito.
 
----
 
 ### Portali Sigillati (Porte)
 
@@ -105,7 +105,6 @@ Spiegare la dinamica della bomba ai PG.
 
 > _Quando si sfonda:_ Il legno antico cede con uno schianto secco. L'eco rimbalza tra i pilastri di ghiaccio. Non siete più soli.
 
----
 
 ### Blocchi di Neve Compressa (Muri Distruttibili)
 
@@ -118,13 +117,11 @@ Spiegare la dinamica della bomba ai PG.
 
 > _Quando si colpisce:_ Ogni colpo è un tonfo sordo che vibra nell'aria gelida. Qualcuno potrebbe avvicinarsi per controllare.
 
----
 
 ### Pilastri di Tronco Ghiacciato (Muri Indistruttibili)
 
 Indistruttibili. Bloccano linea di vista e movimento.
 
----
 
 # SISTEMA RUMORE
 
@@ -170,18 +167,18 @@ Spiriti di festività antiche legate al suono e al silenzio. **Unici — se muoi
 
 ### Statistiche Base (tutti)
 
-|Stat|Valore|
-|---|---|
-|Dadi Vita|5|
-|Punti Ferita|25|
-|Classe Armatura|5 [14]|
-|Movimento|40'/12m/8 quadretti|
-|Attacco|Tocco gelido|
-|Tiri Salvezza|G5|
-|Morale|9|
-|Speciale|Incorporei — armi normali: danno dimezzato|
+| Stat            | Valore                                     |
+| --------------- | ------------------------------------------ |
+| Dadi Vita       | 5                                          |
+| Punti Ferita    | 25                                         |
+| Classe Armatura | 5 [14]                                     |
+| Movimento       | 40'/12m/8 quadretti                        |
+| Attacco         | Tocco gelido                               |
+| Tiri Salvezza   | G5                                         |
+| Morale          | 9                                          |
+| Speciale        | Incorporei — armi normali: danno dimezzato |
+| Infravisione    | 60'/ 18m / 12 quadretti                    |
 
----
 
 ### 🔴 TARANIS — Il Rosso
 
@@ -260,9 +257,7 @@ Spiriti di festività antiche legate al suono e al silenzio. **Unici — se muoi
 > _Leggere quando scade il tempo:_
 > 
 > Un rintocco. Profondo. Il silenzio si spezza.
-> 
 > E con esso — i fantasmini. Tutti e quattro. Insieme. Non più pattern, non più attese.
-> 
 > **Vi danno la caccia.**
 
 **Meccanica:**
@@ -271,7 +266,6 @@ Spiriti di festività antiche legate al suono e al silenzio. **Unici — se muoi
 - Morale sale a 12
 - L'uscita brilla — visibile da ovunque
 
----
 
 # USCITA DAL LIVELLO
 
@@ -302,14 +296,6 @@ Spiriti di festività antiche legate al suono e al silenzio. **Unici — se muoi
 ---
 
 # NOTE PER IL MASTER
-
-## Ordine di Gioco (Round)
-
-1. **PG si muovono**
-2. **PG agiscono** (rompono ostacoli, prendono regali, attaccano)
-3. **Risolvi rumore** (determina raggio, quali fantasmini sentono)
-4. **Fantasmini reagiscono** (secondo comportamento)
-5. **Combattimento**
 
 ## Consigli
 

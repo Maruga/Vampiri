@@ -103,7 +103,7 @@ All'inizio di ogni mappa vedono:
 
 - Debolezze dei mostri
 - Contenuto dei regali
-- Posizione di alcuni mosstri
+- Posizione di alcuni mostri
 
 ## Mappe
 

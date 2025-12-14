@@ -1,13 +1,15 @@
 # LIVELLO 1 — PACMAN
 
+![[02 - Pacman.png]]
+
 ## Mappa
 
 - **Dimensioni:** 28 x 40 quadretti (1 quadretto = 5' = 1,5m)
 - **Origine:** 0,0 in basso-sinistra
 - **Ingresso:** X=0, Y=24 (lato sinistro)
 - **Uscita:** X=28, Y=24 (lato destro)
+- **Passaggi Segreti:** 2 (Vicino all'ingresso nasconde un regalo random, tirare per decidere il colore del regalo 1d6)
 
----
 
 ## Ingresso nel Livello
 
@@ -86,18 +88,17 @@ Spiriti di festività antiche, divorate dal rancore. **Unici — se muoiono, res
 
 ### Statistiche Base (tutti)
 
-|Stat|Valore|
-|---|---|
-|Dadi Vita|5|
-|Punti Ferita|25|
-|Classe Armatura|5 [14]|
-|Movimento|40'/12m/8 quadretti|
-|Attacco|Tocco gelido|
-|Tiri Salvezza|G5|
-|Morale|9|
-|Speciale|Incorporei — armi normali: danno dimezzato|
-
----
+| Stat            | Valore                                     |
+| --------------- | ------------------------------------------ |
+| Dadi Vita       | 5                                          |
+| Punti Ferita    | 25                                         |
+| Classe Armatura | 5 [14]                                     |
+| Movimento       | 40'/12m/8 quadretti                        |
+| Attacco         | Tocco gelido                               |
+| Tiri Salvezza   | G5                                         |
+| Morale          | 9                                          |
+| Speciale        | Incorporei — armi normali: danno dimezzato |
+| Infravisione    | 60'/ 18m / 12 quadretti                    |
 
 ### 🔴 SATURNO — Il Rosso
 
@@ -276,32 +277,7 @@ Quando un PG trova il **Power-Up** (regalo speciale, a discrezione del Master):
 
 ---
 
-# REGALI
-
-## Distribuzione Suggerita
-
-|Posizione|Colore|Contenuto|
-|---|---|---|
-|Alto-sinistra|🟢 Verde|Utility|
-|Alto-centro|🟢 Verde|Utility|
-|Alto-destra|🔴 Rosso|Arma|
-|Centro (sotto spawn)|🟣 Rosa|Magia|
-|Destra-centro|⚪ Bianco|Cura|
-|Basso-sinistra|🟢 Verde|Utility|
-|Basso-centro|🟡 Giallo|Oro|
-|**Porta segreta (alto)**|⚫ Nero|Rischio|
-
----
-
 # NOTE PER IL MASTER
-
-## Ordine di Gioco (Round)
-
-1. **PG si muovono** (movimento da combattimento)
-2. **PG agiscono** (prendono regali, attaccano, aprono porte)
-3. **Fantasmini si muovono** (ognuno secondo la sua AI)
-4. **Minion si muovono** (seguono waypoint o PG/Fantasmini)
-5. **Combattimento** (se mostri raggiungono PG)
 
 ## Consigli
 
@@ -326,7 +302,6 @@ Quando un PG trova il **Power-Up** (regalo speciale, a discrezione del Master):
 |Scheletri|4|Sì (immediato)|
 |**Totale**|**8**|—|
 
----
 
 # SCHEDA RAPIDA — STAMPA E GIOCA
 

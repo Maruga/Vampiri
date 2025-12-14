@@ -1,14 +1,16 @@
 # LIVELLO 3 — BUBBLE BOBBLE
 
+![[04 - Bobble Bubble.png]]
+
 ## Mappa
 
 - **Dimensioni:** 28 x 40 quadretti (1 quadretto = 5' = 1,5m)
-- **Origine:** 0,0 in basso-sinistra
+- **Origine:** in basso-destra
 - **Ingresso:** Alto (centro-alto)
 - **Uscita:** Basso (una delle due porte centrali)
-- **Passaggi Segreti:** 2 (uno vicino al regalo basso-sinistra, uno dentro la stanza basso-destra)
+- **Passaggi Segreti:** 3 
+- **Livello illuminato**
 
----
 
 ## Ingresso nel Livello
 
@@ -34,8 +36,6 @@
 |**Passaggi Segreti ($)**|2 necessari per raggiungere l'uscita|
 |**Regali (x6)**|Sparsi nella mappa|
 |**Uscita**|Una delle due porte in basso al centro|
-
----
 
 # MECCANICA CORRENTE
 
@@ -65,7 +65,6 @@ Le frecce indicano la direzione e la forza da quel punto in poi.
 
 > _Quando un PG viene trascinato:_ L'acqua vi afferra come una mano gelida. Non potete respirare, non potete pensare — solo il ruggito della corrente nelle orecchie mentre vi trascina verso il basso. Il mondo diventa un turbine di bolle e freddo.
 
----
 
 # MOSTRI
 
@@ -85,7 +84,6 @@ Spiriti di festività legate all'acqua e ai fiumi sacri. **Unici — se muoiono,
 |Morale|9|
 |Speciale|Incorporei — armi normali: danno dimezzato|
 
----
 
 ### 🔴 TIBERINUS — Il Rosso (ACQUA)
 

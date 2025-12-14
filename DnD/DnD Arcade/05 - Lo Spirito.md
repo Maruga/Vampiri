@@ -1,7 +1,8 @@
-
 ### Emporio
 Prima del combattimento i giocatori possono acquistare oggetti dall'emporio oppure venderne per acquistarne altri.
 vedi tabella emporio: [[Tabelle Regali]]
+
+![[CavernaDrago.png]]
 
 
 # Boss Finale — Lo Scontro con Skarn
@@ -30,6 +31,8 @@ vedi tabella emporio: [[Tabelle Regali]]
 
 
 ## La Prima Vista del Drago
+
+![[04 Secret Room.wav]]
 
 > _Pausa. Lasciare che i giocatori realizzino._
 > Al centro della caverna, avvolto su se stesso come un gatto mostruoso, giace un **drago**.
