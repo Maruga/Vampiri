@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/OneShot - Arcade/02 - Pacman.md",
+                "file": "DnD/OneShot - Escape Room/Idee.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 - Pacman"
+              "title": "Idee"
             }
           }
         ],
@@ -239,6 +239,7 @@
   },
   "active": "6a436a476e8616f4",
   "lastOpenFiles": [
+    "DnD/OneShot - Arcade/02 - Pacman.md",
     "DnD/OneShot - Arcade/README.md",
     "DnD/OneShot - Arcade/Meccaniche.md",
     "DnD/Viaggo.md",
@@ -260,7 +261,7 @@
     "DnD/Combattimento.md",
     "DnD/Classi.md",
     "DnD/Blocco Lancio Incantesimi.md",
-    "Idee.md",
+    "DnD/OneShot - Escape Room/Idee.md",
     "DnD/OneShot - Arcade/Immagini/Righelli DnD.af",
     "DnD/OneShot - Arcade/01 - Prologo.md",
     "DnD/DnD Arcade/02 - Pacman.md",
@@ -283,7 +284,6 @@
     "DnD/OneShot - Arcade/Immagini/04 - Bobble Bubble.player.png",
     "DnD/OneShot - Arcade/Immagini/03 - Dynablaster.player.png",
     "DnD/OneShot - Arcade/Immagini/03 - Dynablaster.png",
-    "DnD/OneShot - Arcade/Tabelle Regali.md",
-    "DnD/OneShot - Arcade/05 - Lo Spirito.md"
+    "DnD/OneShot - Arcade/Tabelle Regali.md"
   ]
 }
