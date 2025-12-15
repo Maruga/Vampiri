@@ -1,4 +1,4 @@
-# Il Sogno dello Spirito Natalizio
+## Game Over, Santa
 
 **Game Over, Santa**
 Lo Spirito del Natale è scomparso. Voi dovete trovarlo — attraversando livelli ispirati ai classici arcade anni '80: Pac-Man, Bomberman, Bubble Bobble. Timer reale, power-up da raccogliere, boss finale da affrontare.
