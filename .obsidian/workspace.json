@@ -13,7 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DnD/DnD Arcade/02 - Pacman.md",
+                "file": "DnD/OneShot - Arcade/01 - Prologo.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01 - Prologo"
+            }
+          },
+          {
+            "id": "6a436a476e8616f4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DnD/OneShot - Arcade/02 - Pacman.md",
                 "mode": "source",
                 "source": false
               },
@@ -21,7 +35,8 @@
               "title": "02 - Pacman"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -222,52 +237,53 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "403c25d909624d1c",
+  "active": "6a436a476e8616f4",
   "lastOpenFiles": [
-    "DnD/DnD Arcade/05 - Lo Spirito.md",
-    "DnD/DnD Arcade/02 - Pacman.md",
-    "DnD/DnD Arcade/04 - Bobble Bubble.md",
-    "DnD/DnD Arcade/03 - Dynablaster.md",
-    "DnD/DnD Arcade/01 - Prologo.md",
-    "DnD/DnD Arcade/Meccaniche.md",
-    "DnD/DnD Arcade/Immagini/CavernaDrago.png",
-    "DnD/DnD Arcade/Musica/BubbleBobble/04 Secret Room.wav",
-    "DnD/DnD Arcade/Musica/Dynablaster/14 Defeat.wav",
-    "DnD/DnD Arcade/Musica/Dynablaster/09 Continue.wav",
-    "DnD/DnD Arcade/Musica/Dynablaster/08 Time Up.wav",
-    "DnD/DnD Arcade/Musica/Pacman/01 Game Start.wav",
-    "DnD/DnD Arcade/Immagini/DragoCorrotto.jpeg",
-    "DnD/DnD Arcade/Immagini/Dungeon & Arcade.png",
-    "DnD/DnD Arcade/Immagini/Dungeon & Arcade Natale.png",
-    "DnD/DnD Arcade/Immagini/TestaDragoBianco.jpeg",
-    "DnD/DnD Arcade/Immagini/02 - Pacman.png",
-    "DnD/DnD Arcade/Immagini/02 - Pacman.player.png",
-    "DnD/DnD Arcade/Immagini/03 - Dynablaster.png",
-    "DnD/DnD Arcade/Immagini/03 - Dynablaster.player.png",
-    "DnD/DnD Arcade/Immagini/04 - Bobble Bubble.png",
-    "DnD/Link.md",
-    "DnD/OneShot - Persi/11 - Salto sul fiume.md",
-    "DnD/OneShot - Persi/12 - Riepilogo.md",
-    "DnD/OneShot - Persi/Materiale/Ragnatela Ragni.md",
-    "DnD/OneShot - Persi/Materiale/Oggetti presenti nelle due città.md",
-    "DnD/DnD Arcade/README.md",
-    "DnD/DnD Arcade/Musica/Dynablaster/01 Normal Game.wav",
-    "DnD/DnD Arcade/Musica/Dynablaster/14 Vs. Game ~ Defeat.wav",
-    "DnD/DnD Arcade/Musica/Dynablaster/01 Normal Game ~ Intro.wav",
-    "DnD/DnD Arcade/Musica/Dynablaster",
-    "DnD/DnD Arcade/Musica/BubbleBobble/01 Introduction.wav",
-    "DnD/DnD Arcade/Tabelle Regali.md",
+    "DnD/OneShot - Arcade/README.md",
+    "DnD/OneShot - Arcade/Meccaniche.md",
     "DnD/Viaggo.md",
-    "DnD/OneShot - Persi/01 - Prologo Avventura.md",
-    "Link Utili.md",
-    "README.md",
-    "Vampiri la Masquerade/README.md",
-    "Vampiri la Masquerade/Il Risveglio/Png/Bambina Segrete Tzime.md",
-    "Vampiri la Masquerade/Capitolo - Cripta Montebello/Trama.md",
-    "Vampiri la Masquerade/Il Risveglio/Materiale/RAPPORTO TOSSICOLOGICO – Campione “Sangue Blu”.md",
-    "Vampiri la Masquerade/Il Risveglio/Capitoli/05/Scena 5.3 - Laboratori Villa.md",
-    "Vampiri la Masquerade/Capitolo - Cripta Montebello/Doni di Teodoro di Montefeltro.md",
-    "Vampiri la Masquerade/Capitolo - Cripta Montebello/README.md",
-    "Vampiri la Masquerade/Capitolo - Cripta Montebello/Idee per avventura.md"
+    "DnD/Servitori.md",
+    "DnD/Saltare.md",
+    "DnD/Riposo e Mattina.md",
+    "DnD/Pozioni.md",
+    "DnD/Peso Oggetti.md",
+    "DnD/Pergamene.md",
+    "DnD/Oggetti Magici.md",
+    "DnD/Movimento.md",
+    "DnD/Link.md",
+    "DnD/Ingombro.md",
+    "DnD/Incontri Erranti.md",
+    "DnD/Incantesimi Clericali.md",
+    "DnD/Incantesimi Arcani.md",
+    "DnD/Illuminazione.md",
+    "DnD/Effetti di Stato.md",
+    "DnD/Combattimento.md",
+    "DnD/Classi.md",
+    "DnD/Blocco Lancio Incantesimi.md",
+    "Idee.md",
+    "DnD/OneShot - Arcade/Immagini/Righelli DnD.af",
+    "DnD/OneShot - Arcade/01 - Prologo.md",
+    "DnD/DnD Arcade/02 - Pacman.md",
+    "DnD/OneShot - Arcade/Musica/Pacman/02 Intermission.wav",
+    "DnD/OneShot - Arcade/Musica/Pacman/03 Miss.wav",
+    "DnD/OneShot - Arcade/Musica/Dynablaster/14 Defeat.wav",
+    "DnD/OneShot - Arcade/Musica/Pacman/01 Game Start.wav",
+    "DnD/OneShot - Arcade/Musica/Dynablaster/09 Continue.wav",
+    "DnD/OneShot - Arcade/Musica/Dynablaster/08 Time Up.wav",
+    "DnD/OneShot - Arcade/Musica/BubbleBobble/02 Hurry.wav",
+    "DnD/OneShot - Arcade/Musica/Dynablaster/01 Normal Game.wav",
+    "DnD/OneShot - Arcade/Musica/BubbleBobble/09 Game Over.wav",
+    "DnD/OneShot - Arcade/Immagini/TestaDragoBianco.jpeg",
+    "DnD/OneShot - Arcade/Immagini/DragoCorrotto.jpeg",
+    "DnD/OneShot - Arcade/Immagini/scheletroGhiaccio.png",
+    "DnD/OneShot - Arcade/Immagini/Dungeon & Arcade.png",
+    "DnD/OneShot - Arcade/Immagini/Dungeon & Arcade Natale.png",
+    "DnD/OneShot - Arcade/Immagini/CavernaDrago.png",
+    "DnD/OneShot - Arcade/Immagini/04 - Bobble Bubble.png",
+    "DnD/OneShot - Arcade/Immagini/04 - Bobble Bubble.player.png",
+    "DnD/OneShot - Arcade/Immagini/03 - Dynablaster.player.png",
+    "DnD/OneShot - Arcade/Immagini/03 - Dynablaster.png",
+    "DnD/OneShot - Arcade/Tabelle Regali.md",
+    "DnD/OneShot - Arcade/05 - Lo Spirito.md"
   ]
 }
