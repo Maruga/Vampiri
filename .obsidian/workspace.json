@@ -11,12 +11,14 @@
             "id": "6a436a476e8616f4",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "DnD/OneShot - Level Up/Immagini/scheletroGhiaccio.png"
+                "file": "DnD/OneShot - Escape Room/Idee.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "scheletroGhiaccio"
+              "icon": "lucide-file",
+              "title": "Idee"
             }
           }
         ]
@@ -222,8 +224,8 @@
   },
   "active": "6a436a476e8616f4",
   "lastOpenFiles": [
-    "DnD/OneShot - Level Up/Immagini/TestaDragoBianco.jpeg",
     "DnD/OneShot - Level Up/Immagini/scheletroGhiaccio.png",
+    "DnD/OneShot - Level Up/Immagini/TestaDragoBianco.jpeg",
     "DnD/OneShot - Level Up/Immagini/Dungeon & Arcade Natale.png",
     "DnD/OneShot - Level Up/Immagini/Dungeon & Arcade.png",
     "DnD/OneShot - Level Up/Immagini/DragoCorrotto.jpeg",
