@@ -131,20 +131,11 @@ All'inizio di ogni mappa vedono:
 |Buio parziale|50%|-2 a colpire, sorpreso su 1-3|
 |Buio totale|25%|-4 a colpire, sorpreso su 1-4|
 
-**Torcia:** Illumina 30' (6 quadretti), durata da definire
+**Torcia:** Illumina 30' (6 quadretti), durata **1 ora** (6 turni di esplorazione)
 
 ## I 4 Mini-Boss (Fantasmini)
 Rappresentano festività passate/corrotte.
-
-|Colore|Festività|Movimento|Debolezza|Seguito|
-|---|---|---|---|---|
-|Rosso|Da definire|Insegue sempre il PG più vicino|Da definire|Da definire|
-|Rosa|Da definire|Anticipa, taglia la strada|Da definire|Da definire|
-|Ciano|Da definire|Erratico, imprevedibile|Da definire|Da definire|
-|Arancione|Da definire|Insegue ma fugge se in inferiorità|Da definire|Da definire|
-
 **Meccanica speciale:** Quando esce il "tiro speciale" da un regalo, tutti i non morti scappano nella casa centrale per 1d4 round.
-
 **Respawn:** I mini-boss sono unici (morti restano morti). I minion respawnano dalla casa centrale.
 
 # PARTE IV - SISTEMA INGOMBRO
