@@ -193,12 +193,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cripta Montebello/Immagini/DettaglioCatacombe.png",
+                "file": "DnD/OneShot - Level Up/Meccaniche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Collegamenti in uscita da DettaglioCatacombe"
+              "title": "Collegamenti in uscita da Meccaniche"
             }
           }
         ],
@@ -222,25 +222,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a436a476e8616f4",
+  "active": "43fbdfe1b055bf03",
   "lastOpenFiles": [
-    "Strumenti/9151E710",
-    "DnD/Movimento.md",
+    "Strumenti/01554810",
+    "Strumenti/250E3810",
+    "Strumenti/691C3810",
+    "DnD/OneShot - Level Up/02 - Pacman.md",
+    "Strumenti/BA1D2810",
+    "Strumenti/73072810",
+    "Strumenti/C4762810",
+    "Strumenti/67A12810",
+    "Strumenti/8A1F1810",
+    "Strumenti/889E1810",
+    "Strumenti/DC3D1810",
+    "Strumenti/EA3B1810",
     "DnD/OneShot - Level Up/Meccaniche.md",
-    "Strumenti/1037D710",
+    "DnD/Movimento.md",
     "DnD/OneShot - Level Up/Tabelle Regali.md",
     "DnD/OneShot - Level Up/README.md",
     "DnD/OneShot - Level Up/Note Tattiche.md",
-    "DnD/OneShot - Level Up/02 - Pacman.md",
     "DnD/OneShot - Level Up/04 - Bobble Bubble.md",
     "DnD/OneShot - Level Up/03 - Dynablaster.md",
     "DnD/Armature CA.md",
     "DnD/Ingombro.md",
-    "Strumenti/723A9710",
-    "Strumenti/0D959710",
-    "Strumenti/C17D6710",
-    "Strumenti/C8F86710",
-    "Strumenti/~$Schede_DnD_BX91.xlsx",
     "DnD/OneShot - Level Up/Immagini/02 - Pacman.png",
     "DnD/OneShot - Level Up/Immagini/02 - Pacman.player.png",
     "DnD/OneShot - Level Up/Immagini/03 - Dynablaster.png",
@@ -252,10 +256,6 @@
     "DnD/OneShot - Level Up/Immagini/Dungeon & Arcade Natale.png",
     "DnD/OneShot - Level Up/Immagini/scheletroGhiaccio.png",
     "DnD/OneShot - Escape Room/Idee.md",
-    "Strumenti/E8278410",
-    "Strumenti/6FE90310",
-    "DnD/OneShot - Level Up/Materiale",
-    "DnD/OneShot - Level Up/Nuova cartella",
     "DnD/OneShot - Level Up/01 - Prologo.md",
     "DnD/OneShot - Level Up/05 - Lo Spirito.md",
     "DnD/OneShot - Arcade/02 - Pacman.md",
