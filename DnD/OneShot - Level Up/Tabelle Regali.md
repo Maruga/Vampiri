@@ -100,18 +100,18 @@ Quando un PG trova un oggetto con cariche, tira il dado corrispondente per deter
 
 # 🟣 REGALO ROSA — Magia e Pozioni
 
-|d10|Oggetto|Slot|Costo (mo)|Meccanica|
-|---|---|---|---|---|
-|1|Pozione di Velocità|1|400|Movimento raddoppiato, 2 attacchi per round. Durata: 1 turno (10 round). Azione: bere|
-|2|Pozione di Forza Gigante|1|500|FOR 18 (+3 TxC, +3 danni in mischia). Durata: 1 turno. Azione: bere|
-|3|Pozione di Invisibilità|1|600|Invisibile. Termina se attacchi o lanci incantesimi. Nemici -4 per colpirti. Azione: bere|
-|4|Pergamena: Palla di Fuoco|0|750|6d6 danni fuoco, raggio 20', TS Incantesimi dimezza. Solo Mago/Elfo|
-|5|Pergamena: Fulmine|0|750|6d6 danni fulmine, linea 60'×5', TS Incantesimi dimezza. Solo Mago/Elfo|
-|6|Pozione di Volo|1|800|Vola a 120' (40' combattimento). Durata: 1d6 turni. Azione: bere|
-|7|Bacchetta del Gelo (6 cariche)|1|1.500|3d6 danni freddo, cono 30', TS Bacchette dimezza. 1 carica per uso|
-|8|Bacchetta dei Proiettili Magici (10 cariche)|1|2.000|2d6+2 danni, colpo automatico (no TxC), gittata 150'. 1 carica per uso|
-|9|Bacchetta di Paralisi (6 cariche)|1|3.000|Bersaglio TS Bacchette o paralizzato 1d4 round, gittata 60'. 1 carica per uso|
-|10|**SCELTA LIBERA**|-|-|Il PG sceglie qualsiasi oggetto 1-9|
+| d10 | Oggetto                                      | Slot | Costo (mo) | Meccanica                                                                                                                  |
+| --- | -------------------------------------------- | ---- | ---------- | -------------------------------------------------------------------------------------------------------------------------- |
+| 1   | Pozione di Velocità                          | 1    | 400        | Movimento raddoppiato, 2 attacchi per round. Durata: 1 turno (10 round). Azione: bere                                      |
+| 2   | Pozione di Forza Gigante                     | 1    | 500        | FOR 18 (+3 TxC, +3 danni in mischia). Durata: 1 turno. Azione: bere                                                        |
+| 3   | Pozione di Invisibilità                      | 1    | 600        | Invisibile. Termina se attacchi o lanci incantesimi. Nemici -4 per colpirti. Azione: bere                                  |
+| 4   | Pergamena: Palla di Fuoco                    | 0    | 750        | 6d6 danni fuoco, raggio 20', TS Incantesimi dimezza. Solo Mago/Elfo                                                        |
+| 5   | Pergamena: Fulmine                           | 0    | 750        | 6d6 danni fulmine, linea 60'×5', TS Incantesimi dimezza. Solo Mago/Elfo                                                    |
+| 6   | Pozione di Volo                              | 1    | 800        | Vola a 120' (40' combattimento). Durata: 1d6 turni. Azione: bere                                                           |
+| 7   | Bacchetta del Gelo (6 cariche)               | 1    | 1.500      | 3d6 danni freddo, cono 30', TS Bacchette dimezza. 1 carica per uso                                                         |
+| 8   | Bacchetta dei Proiettili Magici (10 cariche) | 1    | 2.000      | 2d6+2 danni, colpo automatico (no TxC), gittata 150'. 1 carica per uso                                                     |
+| 9   | Bacchetta di Luce Accecante (6 cariche)      | 1    | 3.000      | Flash in cono 30'. Creature viventi: TS Incantesimi o accecate 1d4 round (-4 TxC, nemici hanno +4 a colpirle). Gittata 60' |
+| 10  | **SCELTA LIBERA**                            | -    | -          | Il PG sceglie qualsiasi oggetto 1-9                                                                                        |
 
 # 🟢 REGALO VERDE — Utilità ed Equipaggiamento
 

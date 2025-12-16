@@ -137,6 +137,7 @@ All'inizio di ogni mappa vedono:
 Rappresentano festività passate/corrotte.
 **Meccanica speciale:** Quando esce il "tiro speciale" da un regalo, tutti i non morti scappano nella casa centrale per 1d4 round.
 **Respawn:** I mini-boss sono unici (morti restano morti). I minion respawnano dalla casa centrale.
+**Scacciare:** Sì. Dopo **3d4 round** l'effetto termina e possono tornare.
 
 
 # PARTE IV - SISTEMA INGOMBRO
@@ -277,3 +278,10 @@ Se vuoi rendere il gioco più dinamico, usa questa house rule:
 |Skarn (Drago)|1-4 su d6|Sensi acuti, quasi sempre sente|
 
 _□ = 5 ft_
+
+
+## Parte VII - Oggetti Lasciati a Terra
+
+Gli oggetti abbandonati dai PG restano dove sono. I mostri non li raccolgono.
+
+**Eccezione:** Koleda (fantasmino arancione) può raccogliere oggetti e portarli nella casa spawn. I PG devono andare lì a recuperarli.
