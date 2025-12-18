@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "DnD/OneShot - Level Up/Immagini/scheletroGhiaccio.png"
+                "file": "DnD/OneShot - Level Up/Immagini/ScheletriGruppo.png"
               },
               "icon": "lucide-image",
-              "title": "scheletroGhiaccio"
+              "title": "ScheletriGruppo"
             }
           }
         ]
@@ -220,8 +220,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6a436a476e8616f4",
+  "active": "b3a230c9b92ae9bd",
   "lastOpenFiles": [
+    "DnD/OneShot - Level Up/02 - Pacman.md",
+    "DnD/OneShot - Level Up/Immagini/ScheletriGruppo.png",
+    "DnD/OneShot - Level Up/Immagini/scheletroGhiaccio.png",
     "DnD/OneShot - Level Up/Immagini/Dungeon & Arcade Natale.png",
     "DnD/OneShot - Level Up/Immagini/Dungeon & Arcade.png",
     "DnD/OneShot - Level Up/Immagini/DragoCorrotto.jpeg",
@@ -239,8 +242,6 @@
     "DnD/Blocco Lancio Incantesimi.md",
     "DnD/Combattimento.md",
     "DnD/OneShot - Level Up/Meccaniche.md",
-    "DnD/OneShot - Level Up/02 - Pacman.md",
-    "DnD/OneShot - Level Up/Immagini/scheletroGhiaccio.png",
     "DnD/OneShot - Level Up/03 - Dynablaster.md",
     "DnD/Armature CA.md",
     "DnD/Link.md",
@@ -255,8 +256,6 @@
     "DnD/OneShot - Level Up/Immagini/03 - Dynablaster.png",
     "DnD/OneShot - Level Up/Immagini/03 - Dynablaster.player.png",
     "DnD/OneShot - Level Up/Immagini/04 - Bobble Bubble.png",
-    "DnD/OneShot - Level Up/Immagini/04 - Bobble Bubble.player.png",
-    "DnD/OneShot - Level Up/Immagini/CavernaDrago.png",
     "DnD/OneShot - Escape Room/Idee.md",
     "DnD/OneShot - Level Up/01 - Prologo.md",
     "DnD/OneShot - Level Up/05 - Lo Spirito.md",
