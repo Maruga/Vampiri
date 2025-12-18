@@ -16,13 +16,9 @@
 > _Leggere quando i PG attraversano il portale:_
 
 > La luce argentea vi inghiotte. Per un istante, niente — poi il freddo vi morde la pelle.
-> 
 > Aprite gli occhi. Corridoi di ghiaccio azzurro, pareti lisce come specchi. L'aria sa di menta e metallo. Un ronzio basso vibra sotto la pelle.
-> 
 > Il labirinto si estende davanti a voi. Angoli ciechi, ombre che si muovono dove non dovrebbero.
-> 
 > E ovunque — pacchetti. Regali. Scatole colorate con nastri che brillano nel buio.
-> 
 > **LIVELLO 1 — START**
 
 ![[01 Game Start.wav]]

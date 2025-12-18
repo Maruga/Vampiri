@@ -110,7 +110,8 @@ vedi tabella emporio: [[Tabelle Regali]]
 > Vi gettate a terra, vi riparate dietro gli scudi, invocate protezioni. Il gelo vi sfiora invece di travolgervi.
 
 > [!Pergamene del risveglio si attivano]
-> Le pergamene nei loro zaini prendono fuoco — una fiamma dorata che non brucia, ma ricostruisce. La luce li avvolge, entra nelle ferite, riempie il vuoto. I corpi si inarcano. Un respiro. Gli occhi si riaprono.
+>Vedete il vostro compagno morto
+>Le pergamene nei loro zaini prendono fuoco — una fiamma dorata che non brucia, ma ricostruisce. La luce li avvolge, entra nelle ferite, riempie il vuoto. I corpi si inarcano. Un respiro. Gli occhi si riaprono.
 
 > [!Il drago inizia il volo]
 > Skarn spalanca le ali. Con un battito possente si alza in volo, volteggiando sopra di voi. Gli artigli sfiorano il soffitto di ghiaccio.

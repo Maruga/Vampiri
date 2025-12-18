@@ -22,40 +22,30 @@ Questo non cambia nulla meccanicamente, ma crea la base per:
 
 ### Atto I - Il Viaggio
 
-> Il vento ulula tra le vette innevate mentre il vostro gruppo avanza faticosamente attraverso la tempesta. Da settimane seguite le tracce — villaggi senza regali, bambini con gli occhi spenti, caminetti freddi la mattina del venticinque.
-> Babbo Natale è scomparso.
-> Non il vecchio in rosso delle storie. Non un simbolo. L'**essenza stessa del Natale** — lo spirito che porta calore nei cuori più freddi, che accende la speranza nel buio dell'inverno — è stata strappata dal mondo.
-> E voi avete giurato di riportarla indietro: alcuni per amore, alcuni pera fama, alcuni per soldi.
+# Prologo
 
+> Da settimane seguite le tracce nella tempesta — villaggi senza regali, caminetti freddi, bambini con gli occhi spenti. **Babbo Natale è scomparso.** L'essenza stessa del Natale è stata strappata dal mondo.
+> Poi lo vedete: un castello di ghiaccio e pietra, luci fioche alle finestre. Le porte si aprono prima che possiate bussare. Un'ondata di aria tiepida vi avvolge — odore di cannella e legno bruciato, ma sotto qualcosa di stantio.
+> Gli elfi vi accolgono in silenzio, volti segnati dalla preoccupazione. Ghirlande appassite, laboratori fermi, campanelli muti.
+> **"Siete venuti,"** dice il più anziano. **"Lo Spirito è prigioniero. Antiche ombre lo tengono."**
+> Vi offrono zuppa calda, sidro speziato, un letto per la notte. Un elfo indica un emporio: **"Prendete ciò che vi serve. Per voi, metà prezzo."**
+> Domani vi mostreremo la via.
 
 ### Atto II - Il Castello
+I giocatori possono acquistare dall'emporio interno, date tempo massimo 5/10 minuti.
 
-> Dopo giorni di marcia impossibile, lo vedete finalmente: un castello di ghiaccio e pietra antica, incastonato nella montagna più alta del nord. Luci tremolanti brillano alle finestre — non il bagliore allegro che vi aspettavate, ma una luce fioca, malata.
-> Le porte si aprono prima che possiate bussare.
-> Gli elfi vi accolgono in silenzio. I loro volti, solitamente allegri, sono segnati dalla preoccupazione. Vi guidano attraverso corridoi decorati con ghirlande appassite, oltre laboratori silenziosi dove i giocattoli giacciono incompiuti.
-> **"Siete venuti,"** dice il più anziano, la voce come carta vetrata. **"Sapevamo che qualcuno avrebbe risposto alla chiamata."**
-> Vi racconta quello che sa: lo Spirito è stato portato via. Antiche ombre, spiriti di festività dimenticate e corrotte dal rancore, lo tengono prigioniero.
-> Vi viene offerto cibo caldo, un letto morbido. Domani, dicono, vi mostreranno la via.
-> Accettate.
 
 ### Atto III - Il Risveglio
 
 > _Pausa drammatica_
-
-> Vi svegliate di soprassalto.
-> Il cuore batte forte nel petto. Qualcosa non va — lo sentite nelle ossa, in quel modo in cui si sente il pericolo prima ancora di vederlo.
-> La stanza è la stessa in cui vi siete addormentati... eppure diversa. Le ombre sembrano più profonde. Il silenzio è troppo assoluto. E nell'aria c'è un odore che non c'era prima — neve, sì, ma anche qualcosa di più antico. Di dimenticato.
-> Vi alzate, vi guardate attorno. Uscite dalla stanza e nel mezzo del salone lo vedete.
-> Nel centro della stanza, dove ieri sera c'era solo il pavimento di pietra, ora arde un **portale**. Un arco di luce argentea, screziata di blu e bianco, che pulsa come un cuore. Attraverso di esso intravedete corridoi di ghiaccio, ombre che si muovono.> 
-> Accanto al portale, su un piedistallo che non c'era prima, trovate delle **pergamene** — una per ciascuno di voi. La carta è calda al tatto, e le parole scritte brillano di una luce dorata:
+> Vi svegliate di soprassalto. Qualcosa non va — lo sentite nelle ossa. Le ombre sono più profonde, il silenzio troppo assoluto. Nell'aria, un odore antico, dimenticato.
+> Nel salone, dove ieri c'era solo pietra, ora arde un **portale** — un arco di luce argentea che pulsa come un cuore. Attraverso di esso: corridoi di ghiaccio, ombre che si muovono.
+> Su un piedistallo, **pergamene** — una per ciascuno. La carta è calda, le parole brillano d'oro:
 > _"Se il sogno dovesse spezzarti, questo ti riporterà. Ma il tempo perso non torna."_
-> Un elfo appare sulla soglia della porta — o forse era sempre stato lì.
-> **"Il varco è aperto,"** dice semplicemente. **"Oltre quella luce c'è l'incubo dove il nostro padrone è prigioniero. Le ombre che lo tengono non vi lasceranno passare facilmente."**
-> Si ferma, vi guarda uno per uno.
-> **"Là dentro troverete doni sparsi — frammenti del potere natalizio che le ombre hanno rubato. Raccoglietene quanti più potete. Vi serviranno per affrontare ciò che troverete alla fine."**
+> Un elfo appare sulla soglia.
+> **"Oltre quella luce c'è l'incubo dove il nostro padrone è prigioniero. Troverete doni sparsi — frammenti del potere natalizio rubato. Raccoglietene quanti potete. Vi serviranno per ciò che vi attende alla fine."**
 > Il portale pulsa, impaziente.
-> **"Andate ora. Lo Spirito del Natale vi attende. E con lui... il destino di tutti i Natali a venire."**
-
+> **"Andate. Lo Spirito del Natale vi attende — e con lui, il destino di tutti i Natali a venire."**
 
 ### Atto IV - La Soglia
 
@@ -65,6 +55,5 @@ Questo non cambia nulla meccanicamente, ma crea la base per:
 > Ma c'è anche speranza.
 > C'è anche Natale.
 > **Siete pronti ad attraversare?**
-
 
 
