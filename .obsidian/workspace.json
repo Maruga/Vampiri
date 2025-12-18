@@ -11,14 +11,12 @@
             "id": "6a436a476e8616f4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "DnD/OneShot - Level Up/Tabelle Regali.md",
-                "mode": "source",
-                "source": false
+                "file": "DnD/OneShot - Level Up/Immagini/PortalePergamene.png"
               },
-              "icon": "lucide-file",
-              "title": "Tabelle Regali"
+              "icon": "lucide-image",
+              "title": "PortalePergamene"
             }
           }
         ]
@@ -224,13 +222,15 @@
   },
   "active": "6a436a476e8616f4",
   "lastOpenFiles": [
-    "DnD/OneShot - Level Up/Meccaniche.md",
     "DnD/OneShot - Level Up/Immagini/ScheletriGruppo.png",
+    "DnD/OneShot - Level Up/Immagini/scheletroGhiaccio.png",
+    "DnD/OneShot - Level Up/Immagini/TestaDragoBianco.jpeg",
+    "DnD/OneShot - Level Up/Tabelle Regali.md",
+    "DnD/OneShot - Level Up/Meccaniche.md",
     "DnD/OneShot - Level Up/01 - Prologo.md",
     "DnD/OneShot - Level Up/Immagini/PortalePergamene.png",
     "DnD/OneShot - Level Up/Immagini/GuerrieriDraugr.png",
     "DnD/OneShot - Level Up/Emporio Castello.md",
-    "DnD/OneShot - Level Up/Tabelle Regali.md",
     "Strumenti/38BBD300",
     "DnD/OneShot - Level Up/Condizioni.md",
     "DnD/OneShot - Level Up/02 - Pacman.md",
@@ -238,7 +238,6 @@
     "DnD/OneShot - Level Up/04 - Bobble Bubble.md",
     "DnD/Esplorare un Dungeon.md",
     "DnD/OneShot - Level Up/03 - Dynablaster.md",
-    "DnD/OneShot - Level Up/Immagini/scheletroGhiaccio.png",
     "DnD/OneShot - Level Up/Immagini/Dungeon & Arcade Natale.png",
     "DnD/OneShot - Level Up/Immagini/Dungeon & Arcade.png",
     "DnD/OneShot - Level Up/Immagini/DragoCorrotto.jpeg",
