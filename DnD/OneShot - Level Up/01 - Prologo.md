@@ -37,6 +37,8 @@ I giocatori possono acquistare dall'emporio interno, date tempo massimo 5/10 min
 
 ### Atto III - Il Risveglio
 
+![[PortalePergamene.png]]
+
 > _Pausa drammatica_
 > Vi svegliate di soprassalto. Qualcosa non va — lo sentite nelle ossa. Le ombre sono più profonde, il silenzio troppo assoluto. Nell'aria, un odore antico, dimenticato.
 > Nel salone, dove ieri c'era solo pietra, ora arde un **portale** — un arco di luce argentea che pulsa come un cuore. Attraverso di esso: corridoi di ghiaccio, ombre che si muovono.

@@ -151,6 +151,8 @@ Quando un PG trova un oggetto con cariche, tira il dado corrispondente per deter
 
 ### Draugr del Gelo
 
+![[GuerrieriDraugr.png]]
+
 > Il regalo si apre. Dentro, nulla — solo oscurità.
 > Il pavimento geme. Il ghiaccio si crepa, linee nere che si espandono come ragnatele.
 > Mani artigliate sfondano il ghiaccio dal basso. Armature arrugginite, elmi cornuti, occhi che brillano di un blu morto.
