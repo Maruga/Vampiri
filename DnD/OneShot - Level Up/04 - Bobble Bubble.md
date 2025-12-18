@@ -87,6 +87,8 @@ Spiriti di festività legate all'acqua e ai fiumi sacri. **Unici — se muoiono,
 
 ### 🔴 TIBERINUS — Il Rosso (ACQUA)
 
+![[3-1-TIBERINUS.png]]
+
 **Festività:** Dio del Tevere (romano) — padre del fiume sacro di Roma. I romani gettavano offerte nelle sue acque per placare la sua furia. La festa Tiberinalia celebrava il suo potere sulle piene.
 
 **Posizione iniziale:** Nell'acqua (centro della corrente)
@@ -107,6 +109,8 @@ Spiriti di festività legate all'acqua e ai fiumi sacri. **Unici — se muoiono,
 
 ### 🩷 SULIS — La Rosa (ARCIERE)
 
+![[3-2-SULIS.png]]
+
 **Festività:** Dea delle acque termali (celtico-romana) — venerata a Bath, dove i fedeli gettavano maledizioni incise su piombo nelle fonti sacre. Colpiva da lontano, invisibile, attraverso l'acqua.
 
 **Posizione iniziale:** Lato sinistro, in basso (fuori dall'acqua)
@@ -126,6 +130,8 @@ Spiriti di festività legate all'acqua e ai fiumi sacri. **Unici — se muoiono,
 ---
 
 ### 🩵 FONS — Il Ciano (SPINTORE)
+
+![[3-3-FONS.png]]
 
 **Festività:** Dio delle sorgenti (romano) — festa Fontinalia, quando si gettavano ghirlande nei pozzi. Le sorgenti erano bocche degli dei, e Fons decideva chi beveva e chi annegava.
 
@@ -149,6 +155,8 @@ Spiriti di festività legate all'acqua e ai fiumi sacri. **Unici — se muoiono,
 ---
 
 ### 🟠 APHROS — L'Arancione (CURATORE)
+
+![[3-4-APHROS.png]]
 
 **Festività:** Spirito della schiuma marina (greco) — "aphros" significa schiuma, da cui nacque Afrodite. Gli antichi credevano che le bolle contenessero anime, e che la schiuma potesse guarire o maledire. Le bolle erano messaggeri tra mondi.
 

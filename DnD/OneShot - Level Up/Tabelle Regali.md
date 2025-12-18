@@ -37,8 +37,12 @@ Quando un PG trova un oggetto con cariche, tira il dado corrispondente per deter
 ## Sistema Ingombro Rapido
 
 - **100 monete = 1 slot**
-- Slot: 0 / 1 / 2 / 3
+- Slot: 0 / ⅓ / ½ / 1 / 2 / 3
 - Costi in monete d'oro (mo)
+
+> **Slot frazionari:** Gli oggetti con slot ½ o ⅓ si raggruppano, ma non si dividono.
+> - **½ slot:** 1-2 oggetti = 1 slot, 3-4 = 2 slot, ecc.
+> - **⅓ slot:** 1-3 oggetti = 1 slot, 4-6 = 2 slot, ecc.
 
 ## Colori Regali
 
@@ -73,8 +77,8 @@ Quando un PG trova un oggetto con cariche, tira il dado corrispondente per deter
 |d10|Oggetto|Slot|Costo (mo)|Meccanica|
 |---|---|---|---|---|
 |1|Pozione di Cura (x2)|1|200|Cura 1d6+1 HP ciascuna. Azione: bere|
-|2|Pozione di Cura Maggiore|1|300|Cura 2d6+2 HP. Azione: bere|
-|3|Pozione di Resistenza al Freddo|1|400|Immune ai danni da freddo per 1 turno (10 round). Azione: bere|
+|2|Pozione di Cura Maggiore|⅓|300|Cura 2d6+2 HP. Azione: bere|
+|3|Pozione di Resistenza al Freddo|⅓|400|Immune ai danni da freddo per 1 turno (10 round). Azione: bere|
 |4|Armatura di Cuoio +1|2|1.500|CA 6 [13]. Indossabile da tutte le classi|
 |5|Pozione di Cura Maggiore (x2)|1|600|Cura 2d6+2 HP ciascuna. Azione: bere|
 |6|Anello di Protezione +1|0|2.000|CA -1 [+1], +1 a tutti i Tiri Salvezza. Permanente, indossato|
@@ -100,18 +104,18 @@ Quando un PG trova un oggetto con cariche, tira il dado corrispondente per deter
 
 # 🟣 REGALO ROSA — Magia e Pozioni
 
-| d10 | Oggetto                                      | Slot | Costo (mo) | Meccanica                                                                                                                  |
-| --- | -------------------------------------------- | ---- | ---------- | -------------------------------------------------------------------------------------------------------------------------- |
-| 1   | Pozione di Velocità                          | 1    | 400        | Movimento raddoppiato, 2 attacchi per round. Durata: 1 turno (10 round). Azione: bere                                      |
-| 2   | Pozione di Forza Gigante                     | 1    | 500        | FOR 18 (+3 TxC, +3 danni in mischia). Durata: 1 turno. Azione: bere                                                        |
-| 3   | Pozione di Invisibilità                      | 1    | 600        | Invisibile. Termina se attacchi o lanci incantesimi. Nemici -4 per colpirti. Azione: bere                                  |
-| 4   | Pergamena: Palla di Fuoco                    | 0    | 750        | 6d6 danni fuoco, raggio 20', TS Incantesimi dimezza. Solo Mago/Elfo                                                        |
-| 5   | Pergamena: Fulmine                           | 0    | 750        | 6d6 danni fulmine, linea 60'×5', TS Incantesimi dimezza. Solo Mago/Elfo                                                    |
-| 6   | Pozione di Volo                              | 1    | 800        | Vola a 120' (40' combattimento). Durata: 1d6 turni. Azione: bere                                                           |
-| 7   | Bacchetta del Gelo (6 cariche)               | 1    | 1.500      | 3d6 danni freddo, cono 30', TS Bacchette dimezza. 1 carica per uso                                                         |
-| 8   | Bacchetta dei Proiettili Magici (10 cariche) | 1    | 2.000      | 2d6+2 danni, colpo automatico (no TxC), gittata 150'. 1 carica per uso                                                     |
-| 9   | Bacchetta di Luce Accecante (6 cariche)      | 1    | 3.000      | Flash in cono 30'. Creature viventi: TS Incantesimi o accecate 1d4 round (-4 TxC, nemici hanno +4 a colpirle). Gittata 60' |
-| 10  | **SCELTA LIBERA**                            | -    | -          | Il PG sceglie qualsiasi oggetto 1-9                                                                                        |
+|d10|Oggetto|Slot|Costo (mo)|Meccanica|
+|---|---|---|---|---|
+|1|Pozione di Velocità|⅓|400|Movimento raddoppiato, 2 attacchi per round. Durata: 1 turno (10 round). Azione: bere|
+|2|Pozione di Forza Gigante|⅓|500|FOR 18 (+3 TxC, +3 danni in mischia). Durata: 1 turno. Azione: bere|
+|3|Pozione di Invisibilità|⅓|600|Invisibile. Termina se attacchi o lanci incantesimi. Nemici -4 per colpirti. Azione: bere|
+|4|Pergamena: Palla di Fuoco|0|750|6d6 danni fuoco, raggio 20', TS Incantesimi dimezza. Solo Mago/Elfo|
+|5|Pergamena: Fulmine|0|750|6d6 danni fulmine, linea 60'×5', TS Incantesimi dimezza. Solo Mago/Elfo|
+|6|Pozione di Volo|⅓|800|Vola a 120' (40' combattimento). Durata: 1d6 turni. Azione: bere|
+|7|Bacchetta del Gelo (6 cariche)|1|1.500|3d6 danni freddo, cono 30', TS Bacchette dimezza. 1 carica per uso|
+|8|Bacchetta dei Proiettili Magici (10 cariche)|1|2.000|2d6+2 danni, colpo automatico (no TxC), gittata 150'. 1 carica per uso|
+|9|Bacchetta di Luce Accecante (6 cariche)|1|3.000|Flash in cono 30'. Creature viventi: TS Incantesimi o accecate 1d4 round (-4 TxC, nemici hanno +4 a colpirle). Gittata 60'|
+|10|**SCELTA LIBERA**|-|-|Il PG sceglie qualsiasi oggetto 1-9|
 
 # 🟢 REGALO VERDE — Utilità ed Equipaggiamento
 
@@ -119,8 +123,8 @@ Quando un PG trova un oggetto con cariche, tira il dado corrispondente per deter
 |---|---|---|---|---|
 |1|Torce (6)|1|6|Illumina 30' (6 quadretti). Durata: 1 ora ciascuna. Richiede una mano|
 |2|Lanterna + 3 fiasche olio|2|15|Illumina 30' (6 quadretti). Durata: 4 ore per fiasca. Richiede una mano|
-|3|Olio infuocato (3 fiasche)|1|30|Lanciabile (gittata 10'). 1d8 danni fuoco, area 3'. Brucia 2 round|
-|4|Acqua Santa (5 fiale)|1|125|Lanciabile (gittata 10'). 1d8 danni vs non morti. Nessun effetto su altri|
+|3|Olio infuocato (3 fiasche)|2|30|Lanciabile (gittata 10'). 1d8 danni fuoco, area 3'. Brucia 2 round|
+|4|Acqua Santa (5 fiale)|2|125|Lanciabile (gittata 10'). 1d8 danni vs non morti. Nessun effetto su altri|
 |5|Stivali Elfici|1|1.000|Movimento completamente silenzioso. Sorpresa su 1-4 (invece di 1-2)|
 |6|Mantello Elfico|1|1.000|Quasi invisibile se immobile. Nemici -4 a individuarti, sorpresa su 1-4|
 |7|Torcia Eterna|1|500|Illumina 30' (6 quadretti). Non si consuma mai. Richiede una mano|
@@ -132,20 +136,18 @@ Quando un PG trova un oggetto con cariche, tira il dado corrispondente per deter
 
 **Attenzione:** Il regalo nero può contenere tesori potenti o maledizioni. Tirare d10.
 
-| d10 | Oggetto                                | Slot | Costo (mo) | Meccanica                                                                      |
-| --- | -------------------------------------- | ---- | ---------- | ------------------------------------------------------------------------------ |
-| 1   | **MALUS:** Esplosione                  | -    | -          | 3d6 danni a chi apre, TS Soffio dimezza. Raggio 10'                            |
-| 2   | **MALUS:** Maledizione della Lentezza  | -    | -          | Movimento dimezzato per 1 ora. Rimuovi Maledizione per annullare               |
-| 3   | **MALUS:** Risveglio dei Draugr        | -    | -          | Appaiono da 2 a 4, vedi sotto, Draugr del gelo.                                |
-| 4   | **MALUS:** Nube di Gelo                | -    | -          | 4d6 danni freddo, raggio 15', TS Soffio dimezza                                |
-| 5   | **PREMIO:** Pozione di Invulnerabilità | 1    | 1.500      | -2 a tutti i danni subiti. Durata: 1 turno (10 round). Azione: bere            |
-| 6   | **PREMIO:** Spada +2, +3 vs Non Morti  | 2    | 4.000      | 1d8+2 danni (+3 vs non morti), +2 TxC (+3 vs non morti)                        |
-| 7   | **PREMIO:** Manto della Resistenza     | 1    | 3.500      | +2 a tutti i Tiri Salvezza. Permanente, indossato                              |
-| 8   | **PREMIO:** Anello dell'Invisibilità   | 0    | 5.000      | Invisibile a volontà. Max 6 turni/giorno (cumulabili). Attacco termina effetto |
-| 9   | **PREMIO:** Amuleto della Vita         | 0    | 6.000      | Una volta: se muori, resusciti con metà HP max. Si consuma                     |
-| 10  | **SCELTA LIBERA**                      | -    | -          | Il PG sceglie qualsiasi PREMIO (5-9)                                           |
-
+|d10|Oggetto|Slot|Costo (mo)|Meccanica|
+|---|---|---|---|---|
+|1|**MALUS:** Esplosione|-|-|3d6 danni a chi apre, TS Soffio dimezza. Raggio 10'|
+|2|**MALUS:** Maledizione della Lentezza|-|-|Movimento dimezzato per 1 ora. Rimuovi Maledizione per annullare|
 |3|**MALUS:** Risveglio dei Draugr|-|-|Dal pavimento emergono Draugr del Gelo: Liv.1 = 2, Liv.2 = 3, Liv.3 = 4|
+|4|**MALUS:** Nube di Gelo|-|-|4d6 danni freddo, raggio 15', TS Soffio dimezza|
+|5|**PREMIO:** Pozione di Invulnerabilità|⅓|1.500|-2 a tutti i danni subiti. Durata: 1 turno (10 round). Azione: bere|
+|6|**PREMIO:** Spada +2, +3 vs Non Morti|2|4.000|1d8+2 danni (+3 vs non morti), +2 TxC (+3 vs non morti)|
+|7|**PREMIO:** Manto della Resistenza|1|3.500|+2 a tutti i Tiri Salvezza. Permanente, indossato|
+|8|**PREMIO:** Anello dell'Invisibilità|0|5.000|Invisibile a volontà. Max 6 turni/giorno (cumulabili). Attacco termina effetto|
+|9|**PREMIO:** Amuleto della Vita|0|6.000|Una volta: se muori, resusciti con metà HP max. Si consuma|
+|10|**SCELTA LIBERA**|-|-|Il PG sceglie qualsiasi PREMIO (5-9)|
 
 ---
 
@@ -158,28 +160,27 @@ Quando un PG trova un oggetto con cariche, tira il dado corrispondente per deter
 > Mani artigliate sfondano il ghiaccio dal basso. Armature arrugginite, elmi cornuti, occhi che brillano di un blu morto.
 > **Draugr.** Guerrieri antichi, sepolti qui prima che esistesse il Natale.
 
-| Stat            | Valore                                                                    |
-| --------------- | ------------------------------------------------------------------------- |
-| Dadi Vita       | 5                                                                         |
-| Punti Ferita    | 25                                                                        |
-| Classe Armatura | 4 [15]                                                                    |
-| Movimento       | 20'/6m/4 quadretti                                                        |
-| Attacco         | Ascia antica                                                              |
-| Danno           | 1d10+2                                                                    |
-| Tiri Salvezza   | **TS G5:** Morte 10, Bacchette 11, Paralisi 12, Soffio 13, Incantesimi 14 |
-| Morale          | 12                                                                        |
-| Speciale        | Armi normali ½ danno, immune freddo/paura/charme/sonno                    |
+|Stat|Valore|
+|---|---|
+|Dadi Vita|5|
+|Punti Ferita|25|
+|Classe Armatura|4 [15]|
+|Movimento|20'/6m/4 quadretti|
+|Attacco|Ascia antica|
+|Danno|1d10+2|
+|Tiri Salvezza|**TS G5:** Morte 10, Bacchette 11, Paralisi 12, Soffio 13, Incantesimi 14|
+|Morale|12|
+|Speciale|Armi normali ½ danno, immune freddo/paura/charme/sonno|
 
 **Scacciare:** Chierico 5° = 9+, Chierico 6° = 7+
 
 **Quantità per livello:**
 
-| Livello | Draugr |
+|Livello|Draugr|
 |---|---|
-| 1 — Pacman | 2 |
-| 2 — Dynablaster | 3 |
-| 3 — Bubble Bobble | 4 |
-
+|1 — Pacman|2|
+|2 — Dynablaster|3|
+|3 — Bubble Bobble|4|
 
 # BONUS BONTÀ — Regalo Speciale
 
@@ -206,16 +207,16 @@ L'emporio appare dopo il terzo labirinto, prima del boss finale. Gestito da un e
 |---|---|---|---|
 |Torcia (x6)|1|6|Illumina 30' (6 quadretti), 1 ora ciascuna|
 |Lanterna + 3 fiasche olio|2|15|Illumina 30', 4 ore per fiasca|
-|Olio infuocato (x3)|1|30|Lanciabile 10', 1d8 danni fuoco, area 3', brucia 2 round|
-|Acqua Santa (x5)|1|125|Lanciabile 10', 1d8 danni vs non morti|
-|Pozione di Cura|1|100|Cura 1d6+1 HP. Azione: bere|
-|Pozione di Cura Maggiore|1|300|Cura 2d6+2 HP. Azione: bere|
-|Pozione di Resistenza al Freddo|1|400|Immune ai danni da freddo, 1 turno (10 round)|
-|Pozione di Velocità|1|400|Movimento x2, 2 attacchi/round, 1 turno|
-|Pozione di Forza Gigante|1|500|FOR 18 (+3 TxC/danni mischia), 1 turno|
-|Pozione di Invisibilità|1|600|Invisibile finché non attacca. Nemici -4 TxC|
-|Pozione di Volo|1|800|Vola 120' (40' combattimento), 1d6 turni|
-|Pozione di Invulnerabilità|1|1.500|-2 a tutti i danni subiti, 1 turno|
+|Olio infuocato (x3)|2|30|Lanciabile 10', 1d8 danni fuoco, area 3', brucia 2 round|
+|Acqua Santa (x5)|2|125|Lanciabile 10', 1d8 danni vs non morti|
+|Pozione di Cura|⅓|100|Cura 1d6+1 HP. Azione: bere|
+|Pozione di Cura Maggiore|⅓|300|Cura 2d6+2 HP. Azione: bere|
+|Pozione di Resistenza al Freddo|⅓|400|Immune ai danni da freddo, 1 turno (10 round)|
+|Pozione di Velocità|⅓|400|Movimento x2, 2 attacchi/round, 1 turno|
+|Pozione di Forza Gigante|⅓|500|FOR 18 (+3 TxC/danni mischia), 1 turno|
+|Pozione di Invisibilità|⅓|600|Invisibile finché non attacca. Nemici -4 TxC|
+|Pozione di Volo|⅓|800|Vola 120' (40' combattimento), 1d6 turni|
+|Pozione di Invulnerabilità|⅓|1.500|-2 a tutti i danni subiti, 1 turno|
 
 ## Pergamene (solo classi appropriate)
 

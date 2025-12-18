@@ -220,13 +220,14 @@ Usa tutte le colonne:
 **Pro:** Scelte tattiche interessanti ("mi carico di tesori ma vado piano"). **Contro:** Una regola in più da tracciare.
 
 ## Categorie Peso
+Importante, se hai 1 pozione è considerato uno slot, se hai 3 pozioni è sempre uno slot, 4 pozioni sono considerate 2 slot.
 
-| Slot  | Esempi                                                          |
-| ----- | --------------------------------------------------------------- |
-| **0** | Anelli, amuleti, pergamene singole, chiavi                      |
-| **1** | Armi piccole, torce, pozioni, corda, razioni, monete (ogni 100) |
-| **2** | Armi medie, armatura leggera, scudo                             |
-| **3** | Armi grandi, armatura pesante, scudo grande                     |
+| Slot  | Esempi                                                                                                   |
+| ----- | -------------------------------------------------------------------------------------------------------- |
+| **0** | Anelli, amuleti, pergamene singole, chiavi                                                               |
+| **1** | Armi piccole, torce (6), pozioni (3), acqua santa (3), olio (2), corda, razioni (7gg), monete (ogni 100) |
+| **2** | Armi medie, armatura leggera, scudo                                                                      |
+| **3** | Armi grandi, armatura pesante, scudo grande                                                              |
 
 
 # PARTE V - SISTEMA REGALI

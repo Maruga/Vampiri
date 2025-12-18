@@ -182,6 +182,8 @@ Spiriti di festività antiche legate al suono e al silenzio. **Unici — se muoi
 
 ### 🔴 TARANIS — Il Rosso
 
+![[2-1-TARANIS.png]]
+
 **Festività:** Culto celtico del Tuono — antica celebrazione delle tempeste invernali, quando i druidi invocavano il fragore del cielo per scacciare gli spiriti maligni.
 
 **Posizione iniziale:** Angolo Nord-Ovest
@@ -197,6 +199,8 @@ Spiriti di festività antiche legate al suono e al silenzio. **Unici — se muoi
 ---
 
 ### 🩷 ANGERONA — La Rosa
+
+![[2-2-Angerona.png]]
 
 **Festività:** Dea romana del Silenzio — protettrice dei segreti, celebrata il 21 dicembre con rituali muti. Nessuno poteva parlare durante le sue cerimonie.
 
@@ -214,6 +218,8 @@ Spiriti di festività antiche legate al suono e al silenzio. **Unici — se muoi
 
 ### 🩵 LEMURIA — La Ciano
 
+![[2-3-Lemuria.png]]
+
 **Festività:** Lemuria romana — festa dei fantasmi inquieti, spiriti che vagavano nelle case a maggio. I romani battevano pentole di bronzo per scacciarli.
 
 **Posizione iniziale:** Angolo Sud-Ovest
@@ -229,6 +235,8 @@ Spiriti di festività antiche legate al suono e al silenzio. **Unici — se muoi
 ---
 
 ### 🟠 LUPERCUS — L'Arancione
+
+![[2-4-LUPERCUS.png]]
 
 **Festività:** Lupercalia romana — festa dei lupi, celebrata in branco. I sacerdoti correvano in gruppo, mai soli. La forza del branco sopra ogni cosa.
 

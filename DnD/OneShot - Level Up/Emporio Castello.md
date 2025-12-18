@@ -2,27 +2,31 @@
 
 _Prezzi già dimezzati. Quantità limitate — primo arrivato, primo servito._
 
+> **Slot frazionari:** Gli oggetti con slot ½ o ⅓ si raggruppano, ma non si dividono.
+> - **½ slot:** 1-2 oggetti = 1 slot, 3-4 = 2 slot, ecc.
+> - **⅓ slot:** 1-3 oggetti = 1 slot, 4-6 = 2 slot, ecc.
+
 | Oggetto                        | Qtà | Costo  | Slot | Note                                                                        |
 | ------------------------------ |:---:| ------ | ---- | --------------------------------------------------------------------------- |
 | Corda (15m)                    |  6  | 5 ma   | 1    |                                                                             |
 | Asta 10 piedi                  |  4  | 5 ma   | 1    | Attiva trappole a distanza                                                  |
 | Torce (6)                      | 10  | 5 ma   | 1    | Luce 30', durata 1 ora, 1d4 danni                                           |
-| Olio (fiasca)                  |  6  | 1 mo   | 1    | Lanciato: 1d8 danni per 2 round; a terra: 3' diametro, 1d8 a chi attraversa |
+| Olio (fiasca)                  |  6  | 1 mo   | ½    | Lanciato: 1d8 danni per 2 round; a terra: 3' diametro, 1d8 a chi attraversa |
 | Lanterna                       |  4  | 5 mo   | 1    | Luce 30', durata 4 ore per fiasca olio                                      |
 | Specchio (piccolo)             |  6  | 2 mo   | 0    | Guardare angoli, riflettere sguardi                                         |
 | Chiodi ferro (12)              |  6  | 5 ma   | 1    | Bloccare/aprire porte                                                       |
 | Martello                       |  4  | 1 mo   | 1    |                                                                             |
 | Sacco (grande)                 |  2  | 1 mo   | 1    | Contiene +3 slot, oggetti non fragili, 1 round per estrarre                 |
 | Gesso (12 pezzi)               | 10  | 5 ma   | 0    | Segnare percorso                                                            |
-| Acqua Santa (fiala)            | 12  | 12 mo  | 1    | 1d8 danni a non-morti, ignora armatura                                      |
+| Acqua Santa (fiala)            | 12  | 12 mo  | ⅓    | 1d8 danni a non-morti, ignora armatura                                      |
 | Frecce (20)                    |  8  | 2 mo   | 1    |                                                                             |
 | Quadrelli (30)                 |  6  | 5 mo   | 1    |                                                                             |
 | Pietre fionda (20)             | 10  | —      | 1    |                                                                             |
-| Pozione Cura Leggera           | 10  | 150 mo | 1    | Cura 1d6+1 PF                                                               |
-| Pozione Cura Grave             |  6  | 300 mo | 1    | Cura 2d6+2 PF                                                               |
-| Pozione Velocità               |  2  | 250 mo | 1    | Movimento x2, durata 1 turno                                                |
-| Pozione Invisibilità           |  2  | 200 mo | 1    | Invisibile finché non attacca                                               |
-| Pozione Levitazione            |  2  | 200 mo | 1    | Muove verticalmente 6'/round, durata 6 turni                                |
+| Pozione Cura Leggera           | 10  | 150 mo | ⅓    | Cura 1d6+1 PF                                                               |
+| Pozione Cura Grave             |  6  | 300 mo | ⅓    | Cura 2d6+2 PF                                                               |
+| Pozione Velocità               |  2  | 250 mo | ⅓    | Movimento x2, durata 1 turno                                                |
+| Pozione Invisibilità           |  2  | 200 mo | ⅓    | Invisibile finché non attacca                                               |
+| Pozione Levitazione            |  2  | 200 mo | ⅓    | Muove verticalmente 6'/round, durata 6 turni                                |
 | Pergamena: Dardo Incantato     |  3  | 50 mo  | 0    | 1d6+1 danni, colpo automatico                                               |
 | Pergamena: Scudo               |  2  | 50 mo  | 0    | CA 2 vs missili, CA 4 vs mischia, durata 2 turni                            |
 | Pergamena: Invisibilità        |  2  | 100 mo | 0    | Invisibile finché non attacca                                               |

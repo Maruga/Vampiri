@@ -84,6 +84,8 @@ Spiriti di festività antiche, divorate dal rancore. **Unici — se muoiono, res
 
 ### 🔴 SATURNO — Il Rosso
 
+![[1-1-Saturno.png]]
+
 **Festività:** Saturnalia romana **Comportamento:** Insegue sempre il PG più vicino. Mai si arrende. **Debolezza:** Non può entrare nelle zone rosse
 
 |Attacco|Danno|Effetto|
@@ -95,6 +97,8 @@ Spiriti di festività antiche, divorate dal rancore. **Unici — se muoiono, res
 ---
 
 ### 🩷 YULA — La Rosa
+
+![[1-2-Yula.png]]
 
 **Festività:** Yule nordico **Comportamento:** Anticipa i movimenti, taglia la strada. Non insegue — aspetta. **Debolezza:** Non può entrare nelle zone gialle
 
@@ -108,6 +112,8 @@ Spiriti di festività antiche, divorate dal rancore. **Unici — se muoiono, res
 
 ### 🩵 MODRANIHT — La Ciano
 
+![[1-3-MODRANIHT.png]]
+
 **Festività:** Notte delle Madri (anglosassone) **Comportamento:** Erratica, imprevedibile. Appare dove non te l'aspetti. **Debolezza:** Non può entrare nelle zone gialle
 
 |Attacco|Danno|Effetto|
@@ -119,6 +125,8 @@ Spiriti di festività antiche, divorate dal rancore. **Unici — se muoiono, res
 ---
 
 ### 🟠 KOLEDA — L'Arancione
+
+![[1-4-KOLEDA.png]]
 
 **Festività:** Koleda slava **Comportamento:** Insegue, ma fugge se in inferiorità numerica (meno mostri che PG). **Debolezza:** Non può entrare nelle zone rosse
 
