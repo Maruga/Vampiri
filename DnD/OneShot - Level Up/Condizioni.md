@@ -31,7 +31,6 @@
 
 ## Condizioni da Regalo Nero
 
-| Condizione | Effetto | Come termina |
-|---|---|---|
-| **Maledizione della Lentezza** | Movimento dimezzato | 1 ora, oppure Rimuovi Maledizione |
-| **Risucchio FOR (Ombre)** | -1 FOR per tocco, FOR 0 = morte | 8 ore di riposo recupera tutto |
+| Condizione                     | Effetto                         | Come termina                      |
+| ------------------------------ | ------------------------------- | --------------------------------- |
+| **Maledizione della Lentezza** | Movimento dimezzato             | 1 ora, oppure Rimuovi Maledizione |

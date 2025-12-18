@@ -160,17 +160,17 @@ Quando un PG trova un oggetto con cariche, tira il dado corrispondente per deter
 > Mani artigliate sfondano il ghiaccio dal basso. Armature arrugginite, elmi cornuti, occhi che brillano di un blu morto.
 > **Draugr.** Guerrieri antichi, sepolti qui prima che esistesse il Natale.
 
-|Stat|Valore|
-|---|---|
-|Dadi Vita|5|
-|Punti Ferita|25|
-|Classe Armatura|4 [15]|
-|Movimento|20'/6m/4 quadretti|
-|Attacco|Ascia antica|
-|Danno|1d10+2|
-|Tiri Salvezza|**TS G5:** Morte 10, Bacchette 11, Paralisi 12, Soffio 13, Incantesimi 14|
-|Morale|12|
-|Speciale|Armi normali ½ danno, immune freddo/paura/charme/sonno|
+| Stat            | Valore                                                                              |
+| --------------- | ----------------------------------------------------------------------------------- |
+| Dadi Vita       | 5                                                                                   |
+| Punti Ferita    | 25                                                                                  |
+| Classe Armatura | 4 [15]                                                                              |
+| Movimento       | 20'/6m/4 quadretti                                                                  |
+| Attacco         | Ascia antica                                                                        |
+| Danno           | 1d10+2                                                                              |
+| Tiri Salvezza   | **TS G5:** Morte 10, Bacchette 11, Paralisi 12, Soffio 13, Incantesimi 14           |
+| Morale          | 12                                                                                  |
+| Speciale        | Armi normali ½ danno, armi magiche: danno normale, immune freddo/paura/charme/sonno |
 
 **Scacciare:** Chierico 5° = 9+, Chierico 6° = 7+
 

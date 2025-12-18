@@ -312,10 +312,9 @@ Quando un PG trova il **Power-Up** (regalo speciale, a discrezione del Master):
 
 ## Minion
 
-|Mostro|HD|HP|CA|Mov|Attacco|Speciale|
-|---|---|---|---|---|---|---|
-|**Scheletro**|3|14|5 [14]|30'/9m/6□|Artiglio 1d8|Immune freddo, fuoco x2, +2 TxC se 2+ su stesso bersaglio|
-
+| Mostro        | HD  | HP  | CA     | Mov       | Attacco      | Speciale                                                  |
+| ------------- | --- | --- | ------ | --------- | ------------ | --------------------------------------------------------- |
+| **Scheletro** | 5   | 22  | 5 [14] | 30'/9m/6□ | Artiglio 1d8 | Immune freddo, fuoco x2, +2 TxC se 2+ su stesso bersaglio |
 **Scheletri:** 4 in campo, respawn immediato | TS G3 | Morale 12
 
 ---
