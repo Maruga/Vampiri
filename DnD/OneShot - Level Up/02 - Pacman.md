@@ -5,7 +5,7 @@
 ## Mappa
 
 - **Dimensioni:** 28 x 40 quadretti (1 quadretto = 5' = 1,5m)
-- **Origine:** al centro tra uscita ed entrata, zona illuminata con uscita verso l'alto
+- **Origine:** X=14, Y=24, al centro tra uscita ed entrata, zona illuminata con uscita verso l'alto
 - **Ingresso:** X=0, Y=24 (lato sinistro)
 - **Uscita:** X=28, Y=24 (lato destro)
 - **Passaggi Segreti:** 2 (Vicino all'ingresso nasconde un regalo random, tirare per decidere il colore del regalo 1d6)
@@ -24,6 +24,7 @@
 ![[01 Game Start.wav]]
 
 ## Il Primo Regalo — L'Elfo Guida
+Al primo regalo che aprono l'elfo spiega la dinamica del labirinto e il suo timer.
 
 > _Leggere quando un PG apre il primo regalo:_
 
@@ -69,17 +70,17 @@ Spiriti di festività antiche, divorate dal rancore. **Unici — se muoiono, res
 
 ### Statistiche Base (tutti)
 
-| Stat            | Valore                                                                    |
-| --------------- | ------------------------------------------------------------------------- |
-| Dadi Vita       | 5                                                                         |
-| Punti Ferita    | 25                                                                        |
-| Classe Armatura | 5 [14]                                                                    |
-| Movimento       | 40'/12m/8 quadretti                                                       |
-| Attacco         | Tocco gelido                                                              |
-| Tiri Salvezza   | **TS G5:** Morte 10, Bacchette 11, Paralisi 12, Soffio 13, Incantesimi 14 |
-| Morale          | 9                                                                         |
-| Speciale        | Incorporei — armi normali: danno dimezzato                                |
-| Infravisione    | 60'/ 18m / 12 quadretti                                                   |
+| Stat            | Valore                                                                             |
+| --------------- | ---------------------------------------------------------------------------------- |
+| Dadi Vita       | 5                                                                                  |
+| Punti Ferita    | 25                                                                                 |
+| Classe Armatura | 5 [14]                                                                             |
+| Movimento       | 40'/12m/8 quadretti                                                                |
+| Attacco         | Tocco gelido                                                                       |
+| Tiri Salvezza   | **TS G5:** Morte 10, Bacchette 11, Paralisi 12, Soffio 13, Incantesimi 14          |
+| Morale          | 9                                                                                  |
+| Speciale        | Incorporei — armi normali: danno dimezzato<br>Qualsiasi arma magica danno normale. |
+| Infravisione    | 60'/ 18m / 12 quadretti                                                            |
 
 ### 🔴 SATURNO — Il Rosso
 

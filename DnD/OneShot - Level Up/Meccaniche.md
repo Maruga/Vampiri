@@ -16,7 +16,7 @@ Ogni PG riceve una pergamena speciale all'inizio dell'avventura.
 > È vivo. Ma la pergamena è cenere.
 
 - La pergamena brucia in una fiammata dorata
-- Il PG si rialza con meta HP
+- Il PG si rialza con 1 HP
 - Nessun tempo perso, resta nel labirinto
 - I compagni vedono il corpo illuminarsi e riprendere vita
 
@@ -58,9 +58,18 @@ Dettagli che il Master può inserire per creare atmosfera (i PG attenti potrebbe
 
 ### Come Funziona
 Ogni mappa ha un **portale di ingresso** e **portale di uscita** (fisso, visibile dall'inizio).
-Al primo regalo che aprono l'elfo spiega la dinamica del labirinto e il suo timer, vedi labirinto PacMac.
 
-Maghi/chierici recuperano incantesimi al passaggio tra i livelli.
+### Recupero tra Livelli
+Quando i PG attraversano il portale verso il livello successivo:
+
+| Risorsa            | Recupero                          |
+| ------------------ | --------------------------------- |
+| Punti Ferita       | Tutti recuperano 1d3 HP           |
+| Slot Incantesimi   | Tutti recuperati (riposo completo)|
+| Condizioni negative| Terminate (eccetto maledizioni)   |
+| Pergamene/Pozioni  | Non recuperate                    |
+
+**Nota:** Il passaggio tra livelli equivale a una notte di riposo per la magia, ma non per le ferite gravi.
 
 **Timer:**
 - 45 minuti: esplorazione libera
@@ -86,6 +95,29 @@ Un esempio:
 | Mappa 3 (Bubble Bobble) | 45 min                      | 15 min       | 1 ora  |
 | Boss Finale             | 1 ora (+ tempo risparmiato) | -            | 1+ ora |
 Opzionale: il tempo rimasto dalla stanza precedente può essere usato in aggiunta ad una altra stanza, quindi se il primo labirinto lo finiscono 10 minuti prima, questi si somma al tempo di uscita del secondo labirinto oppure a quello del terzo.
+
+### Tempo Risparmiato
+
+I PG possono accumulare tempo bonus completando i livelli in anticipo.
+
+**Come funziona:**
+- Se i PG raggiungono l'uscita PRIMA del rintocco (45 min), il tempo rimanente viene salvato
+- Il tempo salvato può essere aggiunto a un livello successivo A SCELTA dei PG
+- I PG dichiarano quando usare il bonus DOPO che sono scattati i 45 minuti del livello corrente
+- Il bonus estende il tempo di esplorazione, ritardando il rintocco
+
+**Tracker Tempo Risparmiato:**
+
+| Livello completato | Tempo risparmiato | Usato in |
+| ------------------ | ----------------- | -------- |
+| Livello 1 (Pacman) | ___ minuti        | □ Liv.2  □ Liv.3  □ Boss |
+| Livello 2 (Dynablaster) | ___ minuti   | □ Liv.3  □ Boss |
+| Livello 3 (Bubble Bobble) | ___ minuti | □ Boss |
+| **Totale disponibile** | ___ minuti   | |
+
+**Esempio:** I PG finiscono Pacman in 38 minuti → salvano 7 minuti. Al livello 2, dopo 45 minuti dichiarano "usiamo i 7 minuti bonus" → il rintocco scatta al minuto 52 invece che 45.
+
+**Nota per il Master:** Il tempo bonus NON si applica ai 15 minuti di fuga. Solo all'esplorazione.
 
 **Durata totale:** ~4 ore
 

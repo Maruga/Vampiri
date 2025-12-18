@@ -132,18 +132,52 @@ Quando un PG trova un oggetto con cariche, tira il dado corrispondente per deter
 
 **Attenzione:** Il regalo nero può contenere tesori potenti o maledizioni. Tirare d10.
 
-|d10|Oggetto|Slot|Costo (mo)|Meccanica|
-|---|---|---|---|---|
-|1|**MALUS:** Esplosione|-|-|3d6 danni a chi apre, TS Soffio dimezza. Raggio 10'|
-|2|**MALUS:** Maledizione della Lentezza|-|-|Movimento dimezzato per 1 ora. Rimuovi Maledizione per annullare|
-|3|**MALUS:** Sciame di Ombre|-|-|Appaiono 1d4 Ombre ostili (HD 2+2, tocco risucchia 1 FOR)|
-|4|**MALUS:** Nube di Gelo|-|-|4d6 danni freddo, raggio 15', TS Soffio dimezza|
-|5|**PREMIO:** Pozione di Invulnerabilità|1|1.500|-2 a tutti i danni subiti. Durata: 1 turno (10 round). Azione: bere|
-|6|**PREMIO:** Spada +2, +3 vs Non Morti|2|4.000|1d8+2 danni (+3 vs non morti), +2 TxC (+3 vs non morti)|
-|7|**PREMIO:** Manto della Resistenza|1|3.500|+2 a tutti i Tiri Salvezza. Permanente, indossato|
-|8|**PREMIO:** Anello dell'Invisibilità|0|5.000|Invisibile a volontà. Max 6 turni/giorno (cumulabili). Attacco termina effetto|
-|9|**PREMIO:** Amuleto della Vita|0|6.000|Una volta: se muori, resusciti con metà HP max. Si consuma|
-|10|**SCELTA LIBERA**|-|-|Il PG sceglie qualsiasi PREMIO (5-9)|
+| d10 | Oggetto                                | Slot | Costo (mo) | Meccanica                                                                      |
+| --- | -------------------------------------- | ---- | ---------- | ------------------------------------------------------------------------------ |
+| 1   | **MALUS:** Esplosione                  | -    | -          | 3d6 danni a chi apre, TS Soffio dimezza. Raggio 10'                            |
+| 2   | **MALUS:** Maledizione della Lentezza  | -    | -          | Movimento dimezzato per 1 ora. Rimuovi Maledizione per annullare               |
+| 3   | **MALUS:** Risveglio dei Draugr        | -    | -          | Appaiono da 2 a 4, vedi sotto, Draugr del gelo.                                |
+| 4   | **MALUS:** Nube di Gelo                | -    | -          | 4d6 danni freddo, raggio 15', TS Soffio dimezza                                |
+| 5   | **PREMIO:** Pozione di Invulnerabilità | 1    | 1.500      | -2 a tutti i danni subiti. Durata: 1 turno (10 round). Azione: bere            |
+| 6   | **PREMIO:** Spada +2, +3 vs Non Morti  | 2    | 4.000      | 1d8+2 danni (+3 vs non morti), +2 TxC (+3 vs non morti)                        |
+| 7   | **PREMIO:** Manto della Resistenza     | 1    | 3.500      | +2 a tutti i Tiri Salvezza. Permanente, indossato                              |
+| 8   | **PREMIO:** Anello dell'Invisibilità   | 0    | 5.000      | Invisibile a volontà. Max 6 turni/giorno (cumulabili). Attacco termina effetto |
+| 9   | **PREMIO:** Amuleto della Vita         | 0    | 6.000      | Una volta: se muori, resusciti con metà HP max. Si consuma                     |
+| 10  | **SCELTA LIBERA**                      | -    | -          | Il PG sceglie qualsiasi PREMIO (5-9)                                           |
+
+|3|**MALUS:** Risveglio dei Draugr|-|-|Dal pavimento emergono Draugr del Gelo: Liv.1 = 2, Liv.2 = 3, Liv.3 = 4|
+
+---
+
+### Draugr del Gelo
+
+> Il regalo si apre. Dentro, nulla — solo oscurità.
+> Il pavimento geme. Il ghiaccio si crepa, linee nere che si espandono come ragnatele.
+> Mani artigliate sfondano il ghiaccio dal basso. Armature arrugginite, elmi cornuti, occhi che brillano di un blu morto.
+> **Draugr.** Guerrieri antichi, sepolti qui prima che esistesse il Natale.
+
+| Stat            | Valore                                                                    |
+| --------------- | ------------------------------------------------------------------------- |
+| Dadi Vita       | 5                                                                         |
+| Punti Ferita    | 25                                                                        |
+| Classe Armatura | 4 [15]                                                                    |
+| Movimento       | 20'/6m/4 quadretti                                                        |
+| Attacco         | Ascia antica                                                              |
+| Danno           | 1d10+2                                                                    |
+| Tiri Salvezza   | **TS G5:** Morte 10, Bacchette 11, Paralisi 12, Soffio 13, Incantesimi 14 |
+| Morale          | 12                                                                        |
+| Speciale        | Armi normali ½ danno, immune freddo/paura/charme/sonno                    |
+
+**Scacciare:** Chierico 5° = 9+, Chierico 6° = 7+
+
+**Quantità per livello:**
+
+| Livello | Draugr |
+|---|---|
+| 1 — Pacman | 2 |
+| 2 — Dynablaster | 3 |
+| 3 — Bubble Bobble | 4 |
+
 
 # BONUS BONTÀ — Regalo Speciale
 

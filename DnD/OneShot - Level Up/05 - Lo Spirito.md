@@ -1,6 +1,6 @@
 ### Emporio
 Prima del combattimento i giocatori possono acquistare oggetti dall'emporio oppure venderne per acquistarne altri.
-vedi tabella emporio: [[Tabelle Regali]]
+Usa la tabella emporio Regali non quella nel castello: [[Tabelle Regali]]
 
 ![[CavernaDrago.png]]
 
