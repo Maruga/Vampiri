@@ -258,62 +258,167 @@ I PG vedono i colori → quando intuiscono il colore possono scegliere strategic
 5. **Incontri** (se fantasmino raggiunge PG, combattimento)
 
 
-# Parte VI - Ascolto
+# Parte VI - Ascolto e Movimento Mostri
 
-## Distanze Base
+## Principio Base
 
-|Suono|Distanza|Quadretti|
+I mostri reagiscono alle azioni dei PG, non seguono percorsi fissi. Questo rende il gioco più veloce e imprevedibile.
+
+> [!tip] Mappa divisa in quadranti
+> Per calcolare tempi di arrivo dei fantasmini, dividete mentalmente la mappa in 4 quadranti. Ogni fantasmino parte dal suo quadrante. Il Master stima i round di arrivo o calcola segretamente il percorso.
+
+---
+
+## Segnalini sulla Mappa
+
+Per creare tensione senza tracciare ogni mostro, usate segnalini sulla mappa. Dite ai PG che sono solo segnalini — alcuni sono mostri veri, altri no.
+
+> [!tip] Gestione Segnalini
+> **Quando posizioni un segnalino:** Non dire "compare uno scheletro qui". Dì invece:
+> - *"Sentite un rumore da quella zona"* (indica l'area generica)
+> - *"Qualcosa scricchiola laggiù"*
+> 
+> **Quando muovi un segnalino:** 
+> - *"Sentite qualcosa spostarsi... da qui... a qui"*
+> - *"Il rumore si avvicina"*
+> 
+> **Questo permette di:**
+> - Mettere segnalini bluff senza che i PG sappiano quali sono veri
+> - Muovere mostri senza rivelare esattamente cosa sono
+> - Barare quando serve per il ritmo della sessione
+
+I PG scopriranno cosa c'è davvero solo quando avranno linea di vista.
+
+---
+
+## Livello 1 — Pacman
+
+### Tiro al Cambio Direzione
+
+Ogni volta che i PG cambiano direzione (incroci E curve), tirate **contemporaneamente**:
+
+| Dado | Risultato | Effetto |
 |---|---|---|
-|Sussurri|20 ft|4□|
-|Conversazione|60 ft|12□|
-|Passi (gruppo)|90 ft|18□|
-|Passi (singolo)|30 ft|6□|
-|Combattimento|180 ft|36□|
-|Urla / Esplosioni|300 ft|60□|
+| **1d6** | 1 = sentiti | Uno scheletro si attiva |
+| **1d4** | Direzione spawn | 1=N, 2=E, 3=S, 4=O |
 
-## Mostri dell'Oneshot
+**Dove compare lo scheletro:** A **8 quadretti** di distanza nella direzione indicata.
 
-|Creatura|Suono tipico|Distanza|Quadretti|
+**Se la posizione è invalida** (muro, fuori mappa): compare nel punto valido più vicino, spostato in senso orario. Mai addosso ai PG — minimo 4□ di distanza.
+
+### Scheletri
+
+- **Massimo in campo:** 4
+- **Comportamento:** Una volta attivato, insegue i PG
+- **Rumore:** I PG li sentono a 8□ (ossa e ghiaccio che scricchiolano)
+- **Respawn:** Quando distrutto, torna alla base. Resta fermo finché i PG non cambiano quadrante della mappa
+
+### Catena di Allerta
+
+1. Scheletro compare e insegue
+2. Scheletro **vede** un PG → emette richiamo
+3. Tutti i fantasmini del livello iniziano a convergere
+4. Il fantasmino più vicino (stesso quadrante) arriva per primo
+5. Gli altri seguono — il Master stima i round in base alla distanza
+
+---
+
+## Livello 2 — Dynablaster
+
+### Tiro al Cambio Direzione
+
+| Dado | Risultato | Effetto |
+|---|---|---|
+| **1d6** | 1 = sentiti | Fantasmino del quadrante sente |
+
+### Tabella Rumore
+
+| Evento | Tiro d6 | Fantasmino sente se... |
+|---|---|---|
+| Cambio direzione | 1d6 | 1 |
+| Vetro rotto | 1d6 | 1-3 |
+| Porta sfondata | 1d6 | 1-2 |
+| Porta scassinata | — | Mai (silenzioso) |
+| Muro colpito (per colpo) | 1d6 | 1 |
+| Combattimento | 1d6 | 1-4 |
+| Bomba esplode | — | Sempre (tutti sentono) |
+
+### Catena di Allerta
+
+1. Fantasmino del quadrante sente il rumore
+2. Si avvicina alla fonte
+3. **Vede** un PG → emette richiamo ultrasonico
+4. Gli altri fantasmini convergono
+
+---
+
+## Livello 3 — Bubble Bobble
+
+### Visibilità Totale
+
+Il livello è **completamente illuminato**. Nessun tiro per essere sentiti.
+
+**Aphros (il curatore volante)** vede i PG praticamente subito e avvisa tutti i fantasmini. Questo è il livello più difficile prima del boss.
+
+### Coordinamento Fantasmini
+
+1. Aphros avvista i PG → allerta immediata
+2. Tutti i fantasmini conoscono la posizione dei PG
+3. Si coordinano per attaccare
+
+### Tiberinus (in acqua)
+
+Se un PG cade in acqua:
+- Tiberinus si muove verso di lui
+- Tira **1d4** per determinare i round di arrivo
+- Combinato con la corrente, molto pericoloso
+
+---
+
+## Distanze Rumore (Riferimento)
+
+| Suono | Distanza | Quadretti |
+|---|---|---|
+| Sussurri | 20 ft | 4□ |
+| Conversazione | 60 ft | 12□ |
+| Passi (gruppo) | 90 ft | 18□ |
+| Passi (singolo) | 30 ft | 6□ |
+| Combattimento | 180 ft | 36□ |
+| Urla / Esplosioni | 300 ft | 60□ |
+
+## Rumore dei Mostri
+
+| Creatura | Suono tipico | Distanza | Quadretti |
 |---|---|---|---|
-|Scheletri di Ghiaccio|Ossa e ghiaccio che scricchiola|40 ft|8□|
-|Fantasmini (tutti)|Quasi silenzioso, fruscio spettrale|15 ft|3□|
-|Skarn (Drago Bianco)|Respiro, movimento, ruggito|180 ft|36□|
+| Scheletri di Ghiaccio | Ossa e ghiaccio che scricchiola | 40 ft | 8□ |
+| Fantasmini (tutti) | Quasi silenzioso, fruscio spettrale | 15 ft | 3□ |
+| Skarn (Drago Bianco) | Respiro, movimento, ruggito | 180 ft | 36□ |
 
 ## Modificatori Distanza
 
-| Condizione             | Effetto | Esempio 60 ft |
-| ---------------------- | ------- | ------------- |
-| Porta chiusa           | ÷2      | 30 ft / 6□    |
-| Porta pesante/segreta  | ÷4      | 15 ft / 3□    |
-| Curva nel corridoio    | −30 ft  | 30 ft / 6□    |
-| Acqua/vento sottofondo | ÷2      | 30 ft / 6□    |
-| Pavimento con detriti  | ×1.5    | 90 ft / 18□   |
-| Acqua sul pavimento    | ×2      | 120 ft / 24□  |
+| Condizione | Effetto | Esempio 60 ft |
+|---|---|---|
+| Porta chiusa | ÷2 | 30 ft / 6□ |
+| Porta pesante/segreta | ÷4 | 15 ft / 3□ |
+| Curva nel corridoio | −30 ft | 30 ft / 6□ |
+| Acqua/vento sottofondo | ÷2 | 30 ft / 6□ |
+| Pavimento con detriti | ×1.5 | 90 ft / 18□ |
+| Acqua sul pavimento | ×2 | 120 ft / 24□ |
 
 ## Tiro Ascolto (PG)
 
-> [!tip] Quando tirare Solo se la sorgente è **entro la distanza** (dopo i modificatori).
+> [!tip] Quando tirare
+> Solo se la sorgente è **entro la distanza** (dopo i modificatori).
 
 **Tiro:** `1d6` → Successo su **1-2**
 **Elfi/Halfling:** 1-2 (alcuni DM concedono 1-3 alle porte)
 **Richiede:** 1 turno fermo, silenzio nel gruppo
 
-## Ascolto dei Mostri
-
-> [!warning] Regola Base I mostri **sentono sempre** i PG se sono entro la distanza. Nessun tiro.
-
-Se vuoi rendere il gioco più dinamico, usa questa house rule:
-
-|Creatura|Tiro Ascolto|Note|
-|---|---|---|
-|Scheletri di Ghiaccio|1 su d6|Non-morti mindless, percepiscono ma male|
-|Fantasmini (incorporei)|1-2 su d6|Senzienti ma distratti dal rancore|
-|Skarn (Drago)|1-4 su d6|Sensi acuti, quasi sempre sente|
-
 _□ = 5 ft_
 
+---
 
-## Parte VII - Oggetti Lasciati a Terra
+# Parte VII - Oggetti Lasciati a Terra
 
 Gli oggetti abbandonati dai PG restano dove sono. I mostri non li raccolgono.
 

@@ -213,17 +213,9 @@ La testa ricorda le palline bianche di Pacman.
 **Ogni round:** ogni mostro avanza al passo successivo. Finita la lista (20), ricomincia da 1.
 **Tutti i mostri partono dalla casa spawn andando a NORD.**
 
+### Alternativa meccaniche di movimento
+Vedi meccaniche [[DnD/OneShot - Level Up/Meccaniche]]
 
-## Fuga dei Fantasmini (Power-Up)
-
-Quando un PG trova il **Power-Up** (regalo speciale, a discrezione del Master):
-
-- Tutti i Fantasmini fuggono verso la casa centrale per **1d4 round**
-- Non attaccano durante la fuga
-- Movimento raddoppiato verso lo spawn
-- Possono essere colpiti normalmente (**danno pieno** anche con armi normali)
-
----
 
 # TIMER DEL LIVELLO
 

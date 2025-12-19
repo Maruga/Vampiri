@@ -11,15 +11,93 @@
 - **Passaggi Segreti:** 3 
 - **Livello illuminato**
 
+## Scalare i Muri (Livello 3)
+> [!warning] Muri Scalabili
+> A differenza dei livelli precedenti, i muri di questo livello possono essere scalati. I PG potrebbero tentare di evitare l'acqua passando sopra i muri. Questo è permesso, ma è rischioso: superficie ghiacciata, vento forte, nessuna copertura, e Aphros che vola sopra vede tutto. Il ladro ha un vantaggio, gli altri faticano. Non vietare — lascia che provino e scoprano da soli quanto è pericoloso.
+
+### Condizioni per Scalare
+
+| Requisito               | Dettaglio                                      |
+| ----------------------- | ---------------------------------------------- |
+| **Ladro**               | Può scalare usando il suo modificatore abilità |
+| **Altri PG**            | Devono avere chiodi + martello o simile        |
+| **Piantare chiodo**     | Azione gratuita                                |
+| **Velocità con chiodi** | 1□ per round                                   |
+| **Altezza muri**        | 4 quadretti (20')                              |
+| **TS durante scalata**  | Richiesto ogni round o caduta                  |
+### Scalata e Caduta
+**Scalata:** 1□ per round, 3 TS richiesti (al 1°, 2° e 3° quadretto). Al 4° sei in cima.
+**Armatura pesante:** -2 al TS durante la scalata.
+
+| Caduta da...  | Altezza | Danno |
+| ------------- | ------- | ----- |
+| 1° quadretto  | 5'      | 1d6   |
+| 2° quadretto  | 10'     | 1d6   |
+| 3° quadretto  | 15'     | 2d6   |
+| Cima del muro | 20'     | 2d6   |
+### Sollevare un PG con la Corda
+Molto complicato — superficie scivolosa, nessun appiglio. Chi tiene la corda deve fare TS Paralisi ogni round o perde la presa. Se perde la presa, chi sta scalando cade.
+
+| Elemento                                | Regola                                       |
+| --------------------------------------- | -------------------------------------------- |
+| **Chi tira**                            | Prova FOR ogni round (1d20, risultato ≤ FOR) |
+| **Velocità**                            | 1□ per round                                 |
+| **Fallimento**                          | Entrambi cadono                              |
+| **Armatura pesante (chi viene tirato)** | -4 alla prova FOR di chi tira                |
+
+### Movimento in Cima al Muro
+
+| Chi                  | Movimento         | Tiro richiesto                            |
+| -------------------- | ----------------- | ----------------------------------------- |
+| **Ladro**            | Metà movimento    | Nessuno                                   |
+| **Ladro**            | Movimento normale | TS Paralisi o cade                        |
+| **Altri PG**         | Max 1□ per round  |                                           |
+| **Altri PG**         | Movimento>2□      | TS Paralisi o cade                        |
+| **Armatura pesante** | Max 1□ per round  | TS Paralisi ogni movimento, anche 1 passo |
+
+### Condizioni in Cima
+
+| Elemento | Descrizione |
+|---|---|
+| Superficie | Neve e ghiaccio, sconnessa |
+| Larghezza | 5' (1□) |
+| Vento | Forte, costante |
+| Copertura | Nessuna — completamente esposti |
+
+### Caduta
+
+| Elemento      | Effetto                                |
+| ------------- | -------------------------------------- |
+| Danni         | Standard: 1d6 per 10' (max 2d6 da 20') |
+| Direzione     | 1d6: pari = destra, dispari = sinistra |
+| Cade in acqua | Meccanica corrente normale + Tiberinus |
+### Magia in Cima
+
+| Situazione           | Effetto                          |
+| -------------------- | -------------------------------- |
+| Lanciare incantesimo | TS Incantesimi per concentrarsi  |
+| Fallimento TS        | Incantesimo perso, slot bruciato |
+### Pericoli Esterni
+
+| Minaccia | Effetto |
+|---|---|
+| **Sulis** (arciere) | Bersaglio esposto, +2 TxC contro chi è in cima |
+| **Fons** (spintore) | Può spingere giù, TS Paralisi per resistere |
+| **Aphros** (volante) | Vede immediatamente chi scala, allerta tutti |
+
+### Nota sulla Mappa
+
+Il muro in fondo (basso-destra) arriva fino in cima. La tana di Aphros, in basso a destra zona illuminata con uscita, il fantasmino volante esce da quella posizione.
+
 
 ## Ingresso nel Livello
 
-> _Leggere quando i PG attraversano il portale:_
+> _Leggere quando i PG attraversano il portale:
 
-> Il gelo svanisce. L'aria è umida, pesante. Sentite il suono prima di vederlo — un gorgoglio costante, ritmico, come il respiro di qualcosa di enorme.
-> 
+> Il gelo svanisce. L'aria è umida, pesante. Sentite il suono prima di vederlo — un gorgoglio costante, ritmico, come il respiro di qualcosa di enorme. L'odore di muschio bagnato e sale antico vi riempie le narici.
+> Alzate lo sguardo. Non c'è soffitto — solo un cielo notturno infinito, punteggiato di stelle che brillano di luce fredda. È quella luce a illuminare tutto, riflessa dall'acqua e dal ghiaccio.
+> I muri che vi circondano sono diversi da quelli dei livelli precedenti. Ghiaccio antico — blu scuro, quasi nero, liscio come vetro e duro come pietra. Oltre di essi sentite il vento ululare, trascinando neve e schegge di ghiaccio. Qualcosa di primordiale, che esisteva prima del Natale.
 > Acqua. Un fiume che scende dall'alto, serpeggiando tra piattaforme di pietra dorata. La corrente è visibile — bolle che scoppiano in superficie, schiuma che si accumula agli angoli.
-> 
 > E in quell'acqua... qualcosa si muove. Qualcosa vi aspetta.
 > 
 > **LIVELLO 3 — START**
