@@ -95,11 +95,11 @@ Il muro in fondo (basso-destra) arriva fino in cima. La tana di Aphros, in basso
 > _Leggere quando i PG attraversano il portale:
 
 > Il gelo svanisce. L'aria è umida, pesante. Sentite il suono prima di vederlo — un gorgoglio costante, ritmico, come il respiro di qualcosa di enorme. L'odore di muschio bagnato e sale antico vi riempie le narici.
-> Alzate lo sguardo. Non c'è soffitto — solo un cielo notturno infinito, punteggiato di stelle che brillano di luce fredda. È quella luce a illuminare tutto, riflessa dall'acqua e dal ghiaccio.
-> I muri che vi circondano sono diversi da quelli dei livelli precedenti. Ghiaccio antico — blu scuro, quasi nero, liscio come vetro e duro come pietra. Oltre di essi sentite il vento ululare, trascinando neve e schegge di ghiaccio. Qualcosa di primordiale, che esisteva prima del Natale.
-> Acqua. Un fiume che scende dall'alto, serpeggiando tra piattaforme di pietra dorata. La corrente è visibile — bolle che scoppiano in superficie, schiuma che si accumula agli angoli.
+> Alzate lo sguardo. Non c'è soffitto — solo un cielo notturno infinito, punteggiato di stelle che brillano di luce fredda. È quella luce a illuminare tutto, riflessa dall'acqua e dalla pietra.
+> I muri che vi circondano sono diversi da quelli dei livelli precedenti. Pietra dorata, antica, liscia come vetro e calda al tatto — eppure dura come diamante. Oltre di essi sentite il vento ululare, trascinando neve e schegge di ghiaccio. Qualcosa di primordiale, che esisteva prima del Natale.
+> Il pavimento è sabbia compatta, color miele, che scricchiola sotto i vostri passi. 
+> Acqua. Un fiume azzurro che scende, serpeggiando tra le piattaforme dorate. La corrente è visibile — bolle che scoppiano in superficie, schiuma che si accumula agli angoli.
 > E in quell'acqua... qualcosa si muove. Qualcosa vi aspetta.
-> 
 > **LIVELLO 3 — START**
 
 ![[01 Introduction.wav]]
@@ -283,11 +283,8 @@ Spiriti di festività legate all'acqua e ai fiumi sacri. **Unici — se muoiono,
 ### Cosa Succede al Rintocco
 
 > _Leggere quando scade il tempo:_
-> 
 > L'acqua ruggisce, si espande di un quadretto a round. La corrente accelera — tutto diventa più veloce, più forte.
-> 
 > E i fantasmini? Non più tattiche. Non più attese.
-> 
 > **Vi vogliono nell'acqua. Tutti.**
 
 ![[02 Hurry.wav]]
@@ -305,16 +302,11 @@ Spiriti di festività legate all'acqua e ai fiumi sacri. **Unici — se muoiono,
 # USCITA DAL LIVELLO
 
 > _Leggere quando attraversano l'uscita:_
-> 
 > La porta si chiude alle vostre spalle. Il rumore dell'acqua svanisce.
-> 
 > Silenzio. Freddo. Ma diverso da prima.
-> 
 > Sentite qualcosa davanti a voi. Qualcosa di grande. Di antico. Di affamato.
-> 
 > **BOSS FINALE — READY**
 
----
 
 # NOTE PER IL MASTER
 
